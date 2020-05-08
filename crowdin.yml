@@ -1,0 +1,3 @@
+files:
+  - source: en_us.properties
+    translation: '%two_letters_code%.properties'
