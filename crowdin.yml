@@ -1,3 +1,3 @@
 files:
-  - source: eng.properties
-    translation: '%three_letters_code%.properties'
+  - source: en_us.properties
+    translation: '%locale_with_underscore%.%file_extension%'
