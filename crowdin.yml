@@ -1,3 +1,4 @@
 files:
   - source: en_US.properties
     translation: /%locale_with_underscore%.%file_extension%
+    escape_quotes: 2
