@@ -1,3 +1,8 @@
 files:
   - source: en_US.properties
-    translation: /%locale_with_underscore%.%file_extension%
+    translation: /texts/%locale_with_underscore%.%file_extension%
+    escape_quotes: 2
+
+  - source: en_US.help.txt
+    translation: /help/%locale_with_underscore%.help.%file_extension%
+    escape_quotes: 2
