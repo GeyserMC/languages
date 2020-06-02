@@ -4,5 +4,5 @@ files:
     escape_quotes: 2
 
   - source: /run-help/en_US.txt
-    translation: /run-help/%locale_with_underscore%.help.%file_extension%
+    translation: /run-help/%locale_with_underscore%.%file_extension%
     escape_quotes: 2
