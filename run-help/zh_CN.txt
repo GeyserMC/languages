@@ -1,10 +1,10 @@
 
 --------------------------------------------------------------------------------
 
-  Oops! You attempted to run a plugin version of Geyser directly!
+  不好! 你尝试直接运行了一个插件版本的Geyser
 
-  This jar file is a plugin for ${plugin_type}. You can run this file as a
-  plugin by dropping the jar file into the "${plugin_folder}" directory.
+  这个jar文件是一个 ${plugin_type} 的插件 你可以通过
+  把jar文件放入 "${plugin_folder}" 来运行
 
   There is also a standalone version available that doesn't need to
   be installed as a plugin, you can find it on our build server:
