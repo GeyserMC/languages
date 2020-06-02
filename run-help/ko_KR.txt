@@ -1,17 +1,17 @@
 
 --------------------------------------------------------------------------------
 
-  Oops! You attempted to run a plugin version of Geyser directly!
+  이런! Geyser 플러그인 버전을 직접 실행하려 시도하셨군요!
 
-  This jar file is a plugin for ${plugin_type}. You can run this file as a
-  plugin by dropping the jar file into the "${plugin_folder}" directory.
+  해당 jar 파일은 ${plugin_type}용 플러그인입니다. 해당 파일은
+  플러그인이며 jar 파일을 "${plugin_folder}" 경로에 넣는것으로 실행할 수있습니다.
 
-  There is also a standalone version available that doesn't need to
-  be installed as a plugin, you can find it on our build server:
+  저희는 플러그인이 아닌 독자적으로 실행 가능한
+  구동기도 제공하고 있습니다. 저희의 빌드 서버에서 찾으실 수 있습니다:
 
     http://ci.geysermc.org/
 
-  If you need more help, you should check out our discord:
+  도움이 필요하시다면, 저희의 Discord를 방문하세요:
 
     http://discord.geysermc.org/
 
