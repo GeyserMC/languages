@@ -11,7 +11,7 @@
 
     http://ci.geysermc.org/
 
-  Pokud potřebujete pomoc, měli by jste se podívat na náš discord:
+  Pokud potřebujete pomoct, zeptejte se na našem discordu:
 
     http://discord.geysermc.org/
 
