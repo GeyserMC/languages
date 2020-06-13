@@ -3,7 +3,7 @@
 
   糟糕! You attempted to run a plugin version of Geyser directly!
 
-  This jar file is a plugin for ${plugin_type}. You can run this file as a
+  這個jar文件是${plugin_type} 的插件。 You can run this file as a
   plugin by dropping the jar file into the "${plugin_folder}" directory.
 
   There is also a standalone version available that doesn't need to
