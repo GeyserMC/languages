@@ -1,0 +1,18 @@
+
+--------------------------------------------------------------------------------
+
+  不好! 你尝试直接运行了一个插件版本的Geyser
+
+  这个jar文件是一个 ${plugin_type} 的插件 你可以通过
+  把jar文件放入 "${plugin_folder}" 来运行
+
+  There is also a standalone version available that doesn't need to
+  be installed as a plugin, you can find it on our build server:
+
+    http://ci.geysermc.org/
+
+  If you need more help, you should check out our discord:
+
+    http://discord.geysermc.org/
+
+--------------------------------------------------------------------------------
