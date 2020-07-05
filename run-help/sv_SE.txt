@@ -3,15 +3,15 @@
 
   Ojsan! Du försökte köra en plugin version av Geyser direkt!
 
-  This jar file is a plugin for ${plugin_type}. You can run this file as a
-  plugin by dropping the jar file into the "${plugin_folder}" directory.
+  Den här jar filen är ett plugin från ${plugin_type}. Du kan köra den här filen som en
+  plugin genom att dra in jar-filen i "${plugin_folder}" mappen.
 
-  There is also a standalone version available that doesn't need to
-  be installed as a plugin, you can find it on our build server:
+  Det är också en fristående version tillgänglig som inte behöver
+  behöver installeras som ett plugin, du kan hitta det på vår byggnads server:
 
     http://ci.geysermc.org/
 
-  If you need more help, you should check out our discord:
+  Om du begöver mer hjälp, bör du kolla in vår discord:
 
     http://discord.geysermc.org/
 
