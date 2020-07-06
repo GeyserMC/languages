@@ -4,7 +4,7 @@
   Oups ! Vous avez essayé d'exécuter une version plugin de Geyser directement !
 
   Ce fichier jar est un plugin pour ${plugin_type}. Vous pouvez exécuter ce fichier comme un
-  plugin en le déposant le fichier jar dans le répertoire "${plugin_folder}".
+  plugin en déposant le fichier jar dans le répertoire "${plugin_folder}".
 
   Il y a aussi une version autonome disponible qui n'a pas besoin d'
   être installée comme un plugin, vous pouvez la trouver sur notre serveur de construction:
