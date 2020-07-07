@@ -1,17 +1,17 @@
 
 --------------------------------------------------------------------------------
 
-  Ups! You attempted to run a plugin version of Geyser directly!
+  Ups! Uruchomiłeś wtyczkę, a nie samodzielną wersję Geyser!
 
-  Ten plik jar to plugin dla ${plugin_type}. Możesz uruchomić ten plik jako
-  plugin by dropping the jar file into the "${plugin_folder}" directory.
+  Ten plik jar to wtyczka dla ${plugin_type}. Możesz uruchomić ten plik
+  wrzucając go do folderu "${plugin_folder}".
 
-  There is also a standalone version available that doesn't need to
-  be installed as a plugin, you can find it on our build server:
+  Tutaj możesz znaleźć samodzielną wersję,
+  która nie jest wtyczką. Znajdziesz ją tutaj:
 
     http://ci.geysermc.org/
 
-  Jeżeli potrzebujesz pomocy, sprawdź nasz serwer discord:
+  Jeśli potrzebujesz pomocy, sprawdź nasz serwer discord:
 
     http://discord.geysermc.org/
 
