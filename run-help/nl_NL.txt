@@ -7,7 +7,7 @@
   plug-in door het jar-bestand in de map "${plugin_folder}" te plaatsen.
 
   Er is ook een zelfstandige versie beschikbaar die je niet hoeft te
-  installeren als een plugin. je kan deze vinden op onze bouw server:
+  installeren als een plugin. je kan deze vinden op onze website:
 
     http://ci.geysermc.org/
 
