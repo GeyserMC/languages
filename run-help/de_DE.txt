@@ -7,7 +7,7 @@
   Plugin laufen lassen, indem du die jar Datei in den Ordner "${plugin_folder}" legst.
 
   Es gibt außerdem eine eigenständig lauffähige Version die nicht
-  als Plugin installiert werden musst, die du auf unserem Build-Server finden kannst:
+  als Plugin installiert werden muss, die du auf unserem Build-Server finden kannst:
 
     http://ci.geysermc.org/
 
