@@ -7,11 +7,11 @@
   plugin ved å legge jar filen i mappen "${plugin_folder}".
 
   Det er også en frittstående versjon tilgjengelig som ikke trenger
-  be installed as a plugin, you can find it on our build server:
+  å installeres som en plugin. Du kan finne denne på linken:
 
     http://ci.geysermc.org/
 
-  If you need more help, you should check out our discord:
+  Hvis du trenger mer hjelp, sjekk ut vår Discord:
 
     http://discord.geysermc.org/
 
