@@ -3,15 +3,15 @@
 
   糟糕! You attempted to run a plugin version of Geyser directly!
 
-  這個jar文件是${plugin_type} 的插件。 You can run this file as a
+  這個jar文件是${plugin_type} 的插件。 你可以在   運行這個文件
   plugin by dropping the jar file into the "${plugin_folder}" directory.
 
   There is also a standalone version available that doesn't need to
-  be installed as a plugin, you can find it on our build server:
+  在安裝插件之前，你可以在我們的構建伺服器找到它們
 
-    http://ci.geysermc.org/
+    http://ci.geyser.org/
 
-  If you need more help, you should check out our discord:
+  如果你需要更多幫助，為什麼不來我們的Discord看看呢？
 
     http://discord.geysermc.org/
 

@@ -1,9 +1,9 @@
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-  Oops! Haz intentando correr la version Plugin de Geyser directamente!
+  Oops! Has intentando lanzar la versión del plugin de Geyser directamente!
 
-  Este Archivo Jar es un plugin para ${plugin_type}. Puedes correr este archivo como
+  Este Archivo .jar es un plugin para ${plugin_type}. Puedes correr este archivo como
   plugin si dejas este archivo en el directorio "${plugin_folder}".
 
   Tambien hay una version llamada Standalone disponible que no necesita
@@ -11,7 +11,8 @@
 
     ci.geysermc.org
 
-  Si necesitas ayuda, deberias unirte a este Discord y hacer @«𝒮𝓀𝓎𝓁𝑒𝑜»#6463 para obtener ayuda en español:
+  Si necesitas ayuda, deberias unirte a este Discord y hacer @Pimpsik
+#6082 para obtener ayuda en español:
 
     discord.geysermc.org
 
