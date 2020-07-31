@@ -4,10 +4,10 @@
   Och! Pokúsili ste sa priamo spustiť verziu doplnku Geyser!
 
   Tento súbor jar je doplnkom pre ${plugin_type}. Tento súbor môžete spustiť ako
-  plugin umiestnením súboru jar do adresára „${plugin_folder}“.
+  doplnok umiestnením súboru jar do adresára „${plugin_folder}“.
 
   K dispozícii je tiež samostatná verzia, ktorá nemusí
-  be installed as a plugin, you can find it on our build server:
+  byť inštalovaná ako doplnok, nájdete ju na našom serveri buildu:
 
     http://ci.geysermc.org/
 
