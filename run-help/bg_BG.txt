@@ -6,12 +6,12 @@
   Този jar файл е приставка за ${plugin_type}. Можете да стартирате този файл като плъгин, като
   плъгин, като пуснете jar файла в директорията "${plugin_folder}".
 
-  There is also a standalone version available that doesn't need to
-  be installed as a plugin, you can find it on our build server:
+  Налична е и самостоятелна версия, която не е необходимо
+  да се инсталира като приставка, можете да я намерите на нашия сървър за изграждане:
 
     http://ci.geysermc.org/
 
-  If you need more help, you should check out our discord:
+  Ако имате нужда от повече помощ, трябва да разгледате нашето discord:
 
     http://discord.geysermc.org/
 
