@@ -4,9 +4,9 @@
   糟糕! 您試圖直接運行Geyser的插件版本
 
   這個jar文件是${plugin_type} 的插件。 你可以在   運行這個文件
-  plugin by dropping the jar file into the "${plugin_folder}" directory.
+  插件，方法是將jar文件拖放到“ ${plugin_folder}”目錄中。
 
-  There is also a standalone version available that doesn't need to
+  還有一個獨立版本，不需要
   在安裝插件之前，你可以在我們的構建伺服器找到它們
 
     http://ci.geyser.org/
