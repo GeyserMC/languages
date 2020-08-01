@@ -1,17 +1,17 @@
 
 --------------------------------------------------------------------------------
 
-  Och! Pokúsili ste sa priamo spustiť verziu doplnku Geyser!
+  Oops! You attempted to run a plugin version of Geyser directly!
 
-  Tento súbor jar je doplnkom pre ${plugin_type}. Tento súbor môžete spustiť ako
-  doplnok umiestnením súboru jar do adresára „${plugin_folder}“.
+  This jar file is a plugin for ${plugin_type}. You can run this file as a
+  plugin by dropping the jar file into the "${plugin_folder}" directory.
 
-  K dispozícii je tiež samostatná verzia, ktorá nemusí
-  byť inštalovaná ako doplnok, nájdete ju na našom serveri buildu:
+  There is also a standalone version available that doesn't need to
+  be installed as a plugin, you can find it on our build server:
 
     http://ci.geysermc.org/
 
-  Ak potrebujete ďalšiu pomoc, mali by ste sa pozrieť na náš odkaz Discord:
+  If you need more help, you should check out our discord:
 
     http://discord.geysermc.org/
 
