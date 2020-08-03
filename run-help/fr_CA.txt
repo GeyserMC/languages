@@ -1,7 +1,7 @@
 
 --------------------------------------------------------------------------------
 
-  Oups ! Tu as essayer d'exécuter une version du plugin de Geyser directement !
+  Oups ! Tu as essayé d'exécuter une version du plugin de Geyser directement !
 
   Ce fichier jar est un plugin pour ${plugin_type}. Tu peux exécuter ce fichier comme un
   plugin en déposant le fichier jar dans le répertoire «${plugin_folder}».
@@ -11,7 +11,7 @@
 
     http://ci.geysermc.org/
 
-  Si tu as besoin de plus d'aide, n'hésite pas a rejoindre notre discord:
+  Si tu as besoin de plus d'aide, n'hésite pas a rejoindre notre discord :
 
     http://discord.geysermc.org/
 
