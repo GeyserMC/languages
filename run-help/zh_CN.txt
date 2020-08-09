@@ -11,7 +11,7 @@
 
     http://ci.geysermc.org/
 
-  如果你需要帮助,请在Discord上联系我们:
+  如果你需要帮助, 请在Discord上联系我们:
 
     http://discord.geysermc.org/
 
