@@ -6,8 +6,8 @@
   Bu jar ${plugin_type} için. Bu dosyayı
   plugin olarak "${plugin_folder}" klasörüne bırakarak çalıştırabilirsin.
 
-  There is also a standalone version available that doesn't need to
-  be installed as a plugin, you can find it on our build server:
+  Ayrıca, plugin olarak yüklenmesini gerektirmeyen 'standalone' versiyonunu,
+  build sunucumuzda bulabilirsin:
 
     http://ci.geysermc.org/
 
