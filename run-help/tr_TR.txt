@@ -3,11 +3,11 @@
 
   Oops! Geyser'in plugin versiyonunu direk çalıştırmayı denedin!
 
-  Bu jar ${plugin_type} için. Bu dosyayı
+  Bu jar ${plugin_type} için. Bu dosyayı Bu dosyayı
   plugin olarak "${plugin_folder}" klasörüne bırakarak çalıştırabilirsin.
 
   Ayrıca, plugin olarak yüklenmesini gerektirmeyen 'standalone' versiyonunu,
-  build sunucumuzda bulabilirsin:
+  Ayrıca, plugin olarak yüklenmesini gerektirmeyen 'standalone' versiyonunu, build sunucumuzda bulabilirsin:
 
     http://ci.geysermc.org/
 
