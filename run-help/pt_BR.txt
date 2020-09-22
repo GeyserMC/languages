@@ -1,17 +1,17 @@
 
 --------------------------------------------------------------------------------
 
-  Oops! You attempted to run a plugin version of Geyser directly!
+  Hey! Você tentou executar uma versão de plugin do Geyser diretamente!
 
-  This jar file is a plugin for ${plugin_type}. You can run this file as a
-  plugin by dropping the jar file into the "${plugin_folder}" directory.
+  Este arquivo jar é um plugin para ${plugin_type}. Você pode executar este arquivo como um
+  plugin soltando o arquivo jar no diretório "${plugin_folder}".
 
-  There is also a standalone version available that doesn't need to
-  be installed as a plugin, you can find it on our build server:
+  Há também uma versão autônoma disponível que não precisa
+  ser instalado como um plugin, você pode encontrá-lo em nosso servidor de compilação:
 
     http://ci.geysermc.org/
 
-  If you need more help, you should check out our discord:
+  Se precisar de mais ajuda, você deve verificar nosso grupo no Discord:
 
     http://discord.geysermc.org/
 
