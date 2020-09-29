@@ -1,17 +1,17 @@
 
 --------------------------------------------------------------------------------
 
-  Oops! Geyser'in eklenti sürümünü direkt çalıştırmayı denedin!
+  Hay aksi! Geyser'in eklenti sürümünü direkt çalıştırmayı denedin!
 
   Bu jar dosyası ${plugin_type} içindir. Bu dosyayı bir
   eklenti olarak "${plugin_folder}" klasörüne bırakarak çalıştırabilirsin.
 
-  Ayrıca, plugin olarak yüklenmesini gerektirmeyen 'standalone' versiyonunu,
-  Ayrıca, plugin olarak yüklenmesini gerektirmeyen 'standalone' versiyonunu, build sunucumuzda bulabilirsin:
+  Eklenti olarak yüklenmesi gerekmeyen 'bağımsız (standalone)' bir
+  sürüm de mevcuttur, bunu derleme sunucumuzda bulabilirsiniz:
 
     http://ci.geysermc.org/
 
-  Daha fazla yardım için discordumuza bakabilirsin:
+  Daha fazla yardıma ihtiyacınız olursa, Discord sunucumuza göz atmalısınız:
 
     http://discord.geysermc.org/
 
