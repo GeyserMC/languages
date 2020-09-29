@@ -1,10 +1,10 @@
 
 --------------------------------------------------------------------------------
 
-  Oops! Geyser'in plugin versiyonunu direk çalıştırmayı denedin!
+  Oops! Geyser'in eklenti sürümünü direkt çalıştırmayı denedin!
 
-  Bu jar ${plugin_type} için. Bu dosyayı Bu dosyayı
-  plugin olarak "${plugin_folder}" klasörüne bırakarak çalıştırabilirsin.
+  Bu jar dosyası ${plugin_type} içindir. Bu dosyayı bir
+  eklenti olarak "${plugin_folder}" klasörüne bırakarak çalıştırabilirsin.
 
   Ayrıca, plugin olarak yüklenmesini gerektirmeyen 'standalone' versiyonunu,
   Ayrıca, plugin olarak yüklenmesini gerektirmeyen 'standalone' versiyonunu, build sunucumuzda bulabilirsin:
