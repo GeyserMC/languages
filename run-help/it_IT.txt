@@ -3,7 +3,7 @@
 
   Oops! Hai provato ad avviare una versione plugin di Geyser direttamente!
 
-  Questo file jar è un plugin per ${plugin_type}. Pui eseguire questo file come
+  Questo file jar è un plugin per ${plugin_type}. Puoi eseguire questo file come
   plugin mettendo lo jar dentro la cartella "${plugin_folder}".
 
   C'è anche una versione autonoma che non ne ha bisogno

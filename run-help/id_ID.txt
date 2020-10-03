@@ -3,7 +3,7 @@
 
   Oops! Kamu mencoba menjalankan versi plugin langsung pada Geyser!
 
-  File jar ini adalah plugin untuk ${plugin_type}. Kamu dapat menjalankan file ini sebagai
+  File jar ini adalah Plugin untuk ${plugin_type}. Kamu dapat menjalankan file ini sebagai
   plugin dengan menaruh file jar ke dalam direktori "${plugin_folder}".
 
   Terdapat juga versi mandiri tersedia yang tidak perlu
