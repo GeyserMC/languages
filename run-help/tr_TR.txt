@@ -1,7 +1,7 @@
 
 --------------------------------------------------------------------------------
 
-  Hay aksi! Geyser'in eklenti sürümünü direkt çalıştırmayı denedin!
+  Hay aksi! Doğrudan Geyser'ın eklenti sürümünü çalıştırmayı denedin!
 
   Bu jar dosyası ${plugin_type} içindir. Bu dosyayı bir
   eklenti olarak "${plugin_folder}" klasörüne bırakarak çalıştırabilirsin.
