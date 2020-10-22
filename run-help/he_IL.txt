@@ -7,11 +7,11 @@
   plugin. שים את הקובץ בה"${plugin_folder}".
 
   יש גם Geyser לבד, ולא צריך להיות
-  be installed as a plugin, you can find it on our build server:
+  מוּתקָן כמו plugin. אתה יכול למצא את זה מהשרת בונה:
 
     http://ci.geysermc.org/
 
-  If you need more help, you should check out our discord:
+  אם אתה צריך עוד עזרה, הלך לשרת discord שלנו:
 
     http://discord.geysermc.org/
 
