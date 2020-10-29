@@ -7,11 +7,11 @@
   إضافة بوضع الملف في مجلد "${plugin_folder}".
 
   يوجد نسخة الإصدار المستقل اللذي لا تحتاج ل
-  be installed as a plugin, you can find it on our build server:
+  تثبيتها كإضافة, يمكنك العثور علي Geyser النسخة المستقلة من خادم البناء الخاص بنا:
 
     http://ci.geysermc.org/
 
-  If you need more help, you should check out our discord:
+  إن كنت تريد المزيد من المساعدة, يجب عليك التحقق من الDiscord الخاص بنا:
 
     http://discord.geysermc.org/
 
