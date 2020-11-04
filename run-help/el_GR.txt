@@ -1,7 +1,7 @@
 
 --------------------------------------------------------------------------------
 
-  Oops! You attempted to run a plugin version of Geyser directly!
+  Oops! Επιχειρήσατε να εκτελέσετε μια έκδοση προσθήκης του Geyser άμεσα!
 
   This jar file is a plugin for ${plugin_type}. You can run this file as a
   plugin by dropping the jar file into the "${plugin_folder}" directory.
