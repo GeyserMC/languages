@@ -1,17 +1,17 @@
 
 --------------------------------------------------------------------------------
 
-  Oops! You attempted to run a plugin version of Geyser directly!
+  Oops! Επιχειρήσατε να εκτελέσετε μια έκδοση προσθήκης του Geyser άμεσα!
 
-  This jar file is a plugin for ${plugin_type}. You can run this file as a
-  plugin by dropping the jar file into the "${plugin_folder}" directory.
+  Αυτό το αρχείο βάζου είναι ένα πρόσθετο για ${plugin_type}. Μπορείτε να εκτελέσετε αυτό το αρχείο ως
+  συνδέω ρίχνοντας το αρχείο βάζου στο "${plugin_folder}" eυρετήριο.
 
-  There is also a standalone version available that doesn't need to
-  be installed as a plugin, you can find it on our build server:
+  Υπάρχει επίσης μια αυτόνομη έκδοση που δεν χρειάζεται
+  να εγκατασταθεί ως πρόσθετο, μπορείτε να το βρείτε στον διακομιστή χτίζω:
 
     http://ci.geysermc.org/
 
-  If you need more help, you should check out our discord:
+  Εάν χρειάζεστε περισσότερη βοήθεια, πρέπει να δείτε τα εξής discord:
 
     http://discord.geysermc.org/
 
