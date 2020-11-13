@@ -7,7 +7,7 @@
   wrzucając go do folderu "${plugin_folder}".
 
   Tutaj możesz znaleźć samodzielną wersję,
-  która nie jest wtyczką. Znajdziesz ją tutaj:
+  która nie jest pluginem. Znajdziesz ją tutaj:
 
     http://ci.geysermc.org/
 
