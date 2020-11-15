@@ -29,7 +29,7 @@
     <string name="proxy_background_notification">Lan Proxy läuft im Hintergrund!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">Config</string>
-    <string name="geyser_start">Start</string>
+    <string name="geyser_start">Starten</string>
     <string name="geyser_starting">Startet</string>
     <string name="geyser_stop">Stop</string>
     <string name="geyser_logs">Logs</string>
@@ -99,7 +99,7 @@
     <string name="settings_reset_config_missing_title">Config fehlt</string>
     <string name="settings_reset_config_missing_message">Die Geyser Config Datei fehlt!</string>
     <string name="settings_reset_user_auths_success_title">Benutzerauthentifizierungen löschen</string>
-    <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
+    <string name="settings_reset_user_auths_success_message">Geyser Benutzerauthentifizierungen zurückgesetzt!</string>
     <string name="settings_reset_user_auths_missing_title">Fehlende Benutzerauthentifizierungen</string>
     <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
     <string name="settings_other">Anderes</string>
