@@ -16,7 +16,7 @@
     <string name="menu_website">Webseite</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
-    <string name="home_desc">Geyser Android is an android version of Geyser including a server redirection proxy.</string>
+    <string name="home_desc">Geyser Android ist eine Android Version von Geyser mit einem proxy.</string>
     <string name="home_join_be">Bedrock Server beitreten</string>
     <string name="home_join_je">Java Server beitreten</string>
     <!-- Proxy Screen -->
@@ -59,7 +59,7 @@
     <string name="config_editor_advanced_failed_message">Config konnte nicht geladen werden, bitte setze sie zurück!</string>
     <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
     <!-- User Auths Editor -->
-    <string name="user_auths_title">User Auths</string>
+    <string name="user_auths_title">Benutzerauthentifizierungen</string>
     <string name="user_auths_exists_title">Benutzerauthentifizierungen</string>
     <string name="user_auths_exists_message">Benutzerauthentifizierung ist bereits für den Xbox Benutzer vorhanden</string>
     <string name="user_auths_new">Neue Benutzerauthentifizierung</string>
@@ -83,25 +83,25 @@
     <!-- About Screen -->
     <string name="about_about_title">Über</string>
     <string name="about_links_title">Links</string>
-    <string name="about_credits_title">Credits</string>
-    <string name="about_licences_title">Licences</string>
-    <string name="about_version_copied">Copied version name to clipboard!</string>
+    <string name="about_credits_title">Danksagung</string>
+    <string name="about_licences_title">Lizenzen</string>
+    <string name="about_version_copied">Versionsname Kopiert!</string>
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
-    <string name="settings_storage">Storage Location</string>
+    <string name="settings_storage">Speicherort</string>
     <string name="settings_config_editor">Config Editor</string>
-    <string name="settings_reset_config">Reset Geyser config</string>
+    <string name="settings_reset_config">Geyser Config zurücksetzen</string>
     <string name="settings_reset_user_auths">Reset Geyser user auths</string>
-    <string name="settings_reset_config_success_title">Deleted config</string>
-    <string name="settings_reset_config_success_message">Removed the Geyser config!</string>
+    <string name="settings_reset_config_success_title">Config löschen</string>
+    <string name="settings_reset_config_success_message">Geyser Config gelöscht!</string>
     <string name="settings_reset_config_failed_title">Deletion failed</string>
     <string name="settings_reset_config_failed_message">Failed to remove the Geyser config!</string>
-    <string name="settings_reset_config_missing_title">Missing config</string>
+    <string name="settings_reset_config_missing_title">Config fehlt</string>
     <string name="settings_reset_config_missing_message">The Geyser config file is missing!</string>
     <string name="settings_reset_user_auths_success_title">Deleted user auths</string>
     <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
     <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
     <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
     <string name="settings_other">Other</string>
-    <string name="settings_theme">Theme</string>
+    <string name="settings_theme">Thema</string>
 </resources>
