@@ -55,7 +55,7 @@
     <string name="config_editor_simple_generate_failed_message">The config failed to generate, please reset it via the settings!</string>
     <!-- Advanced Config Editor -->
     <string name="config_editor_advanced_title">Advanced Config Editor</string>
-    <string name="config_editor_advanced_failed_title">Config failed to load</string>
+    <string name="config_editor_advanced_failed_title">Échec du chargement de la configuration</string>
     <string name="config_editor_advanced_failed_message">The config failed to load, please reset it manually!</string>
     <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
     <!-- User Auths Editor -->
@@ -75,14 +75,14 @@
     <string name="user_auths_delete_dialog_positive">Delete</string>
     <!-- User Auth Dialog -->
     <string name="user_auth_dialog_title">User Auth</string>
-    <string name="user_auth_dialog_positive">Save</string>
-    <string name="user_auth_dialog_negative">Cancel</string>
+    <string name="user_auth_dialog_positive">Enregistrer</string>
+    <string name="user_auth_dialog_negative">Annuler</string>
     <string name="user_auth_dialog_xbox_username">Xbox Username</string>
     <string name="user_auth_dialog_java_username">Java Email</string>
     <string name="user_auth_dialog_java_password">Java Password</string>
     <!-- About Screen -->
     <string name="about_about_title">About</string>
-    <string name="about_links_title">Links</string>
+    <string name="about_links_title">Liens</string>
     <string name="about_credits_title">Credits</string>
     <string name="about_licences_title">Licences</string>
     <string name="about_version_copied">Copied version name to clipboard!</string>
@@ -92,7 +92,7 @@
     <string name="settings_config_editor">Config Editor</string>
     <string name="settings_reset_config">Reset Geyser config</string>
     <string name="settings_reset_user_auths">Reset Geyser user auths</string>
-    <string name="settings_reset_config_success_title">Deleted config</string>
+    <string name="settings_reset_config_success_title">Configuration supprimée</string>
     <string name="settings_reset_config_success_message">Removed the Geyser config!</string>
     <string name="settings_reset_config_failed_title">Deletion failed</string>
     <string name="settings_reset_config_failed_message">Failed to remove the Geyser config!</string>
@@ -102,6 +102,6 @@
     <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
     <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
     <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
-    <string name="settings_other">Other</string>
-    <string name="settings_theme">Theme</string>
+    <string name="settings_other">Autre</string>
+    <string name="settings_theme">Thème</string>
 </resources>
