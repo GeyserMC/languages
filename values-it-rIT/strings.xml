@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Apri il menu di navigazione</string>
+    <string name="navigation_drawer_close">Chiudi il menu di navigazione</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Impostazioni</string>
     <string name="action_about">Informazioni</string>
@@ -25,14 +25,14 @@
     <string name="proxy_port">Porta</string>
     <string name="proxy_start">Avvia</string>
     <string name="proxy_starting">Avvio</string>
-    <string name="proxy_stop">Stop</string>
+    <string name="proxy_stop">Arresta</string>
     <string name="proxy_logs">Log</string>
     <string name="proxy_background_notification">Il Proxy LAN è in esecuzione in background!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">Configurazione</string>
     <string name="geyser_start">Avvia</string>
     <string name="geyser_starting">Avvio</string>
-    <string name="geyser_stop">Stop</string>
+    <string name="geyser_stop">Arresta</string>
     <string name="geyser_logs">Log</string>
     <string name="geyser_command">Comando</string>
     <string name="geyser_not_running">Geyser non è in esecuzione al momento!</string>
@@ -60,7 +60,7 @@
     <string name="config_editor_advanced_title">Editor Avanzato</string>
     <string name="config_editor_advanced_user_auth_desc">Clicca per modificare le credenziali salvate</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
-    <string name="config_editor_advanced_section_remote">Remote</string>
+    <string name="config_editor_advanced_section_remote">Remoto</string>
     <string name="config_editor_advanced_section_advanced">Avanzate</string>
     <string name="config_editor_advanced_section_metrics">Metriche</string>
     <!-- User Auths Editor -->
@@ -102,11 +102,11 @@
     <string name="settings_reset_config_failed_title">Rimozione fallita</string>
     <string name="settings_reset_config_failed_message">Impossibile rimuovere le impostazioni di Geyser!</string>
     <string name="settings_reset_config_missing_title">Configurazione non esistente</string>
-    <string name="settings_reset_config_missing_message">The Geyser config file is missing!</string>
-    <string name="settings_reset_user_auths_success_title">Deleted user auths</string>
-    <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
-    <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
-    <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
-    <string name="settings_other">Other</string>
-    <string name="settings_theme">Theme</string>
+    <string name="settings_reset_config_missing_message">Il file di configurazione di Geyser è mancante!</string>
+    <string name="settings_reset_user_auths_success_title">Credenziali rimosse</string>
+    <string name="settings_reset_user_auths_success_message">Rimosse tutte le credenziali salvate!</string>
+    <string name="settings_reset_user_auths_missing_title">Credenziali mancanti</string>
+    <string name="settings_reset_user_auths_missing_message">Le credenziali utenti di Geyser sono mancanti oppure vuote!</string>
+    <string name="settings_other">Altro</string>
+    <string name="settings_theme">Tema</string>
 </resources>
