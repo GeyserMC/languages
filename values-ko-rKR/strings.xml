@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_open">네비게이션 드로어 열기</string>
+    <string name="navigation_drawer_close">네비게이션 드로어 닫기</string>
+    <string name="nav_header_desc">네비게이션 헤더</string>
+    <string name="action_settings">설정</string>
+    <string name="action_about">정보</string>
+    <string name="action_config_help">도움말</string>
+    <string name="action_config_editor">설정 에디터</string>
+    <string name="utils_loader">불러오는 중...</string>
+    <!-- Navigation -->
+    <string name="menu_home">메인 메뉴</string>
+    <string name="menu_proxy">LAN 프록시</string>
+    <string name="menu_geyser">Geyser</string>
+    <string name="menu_links">링크</string>
+    <string name="menu_website">웹 사이트</string>
+    <string name="menu_discord">Discord</string>
+    <!-- Home Screen -->
+    <string name="home_desc">Geyser 안드로이드는 서버 이동 프록시를 포함한 안드로이드용 Geyser 입니다.</string>
+    <string name="home_join_be">Bedrock 서버 접속</string>
+    <string name="home_join_je">Java 서버 접속</string>
+    <!-- Proxy Screen -->
+    <string name="proxy_address">주소</string>
+    <string name="proxy_port">포트</string>
+    <string name="proxy_start">시작</string>
+    <string name="proxy_starting">시작 중</string>
+    <string name="proxy_stop">중지</string>
+    <string name="proxy_logs">로그</string>
+    <string name="proxy_background_notification">LAN 프록시가 백그라운드에서 구동되고 있습니다!</string>
+    <!-- Geyser Screen -->
+    <string name="geyser_config">설정</string>
+    <string name="geyser_start">시작</string>
+    <string name="geyser_starting">시작 중</string>
+    <string name="geyser_stop">중지</string>
+    <string name="geyser_logs">로그</string>
+    <string name="geyser_command">명령어 입력</string>
+    <string name="geyser_not_running">Geyser이 구동되지 않았습니다!</string>
+    <string name="geyser_background_notification">Geyser이 백그라운드에서 구동되고 있습니다!</string>
+    <string name="geyser_command_failed">명령어 실행을 실패했습니다!</string>
+    <!-- Config Editors -->
+    <string name="config_editor_save_title">저장</string>
+    <string name="config_editor_save_message">설정을 저장하시겠습니까?</string>
+    <string name="config_editor_save_save">저장</string>
+    <string name="config_editor_save_failed">설정을 수정할 수 없습니다!</string>
+    <string name="config_editor_save_discard">무시</string>
+    <string name="config_editor_config_missing">설정을 확인할 수 없습니다, 서버를 먼저 시작해 주세요!</string>
+    <!-- Simple Config Editor -->
+    <string name="config_editor_simple_title">간편 설정 에디터</string>
+    <string name="config_editor_simple_address">주소</string>
+    <string name="config_editor_simple_port">포트</string>
+    <string name="config_editor_simple_auth_type">인증 유형</string>
+    <string name="config_editor_simple_advanced">고급 설정</string>
+    <string name="config_editor_simple_user_auths">사용자 인증</string>
+    <string name="config_editor_simple_generate_failed_title">설정 파일을 생성할 수 없음</string>
+    <string name="config_editor_simple_generate_failed_message">설정 파일 생성을 실패했습니다, 앱 설정창을 통해 초기화 해주세요!</string>
+    <!-- Advanced Config Editor -->
+    <string name="config_editor_advanced_title">고급 설정 에디터</string>
+    <string name="config_editor_advanced_failed_title">설정을 불러올 수 없음</string>
+    <string name="config_editor_advanced_failed_message">설정을 불러올 수 없습니다, 직접 초기화 해주세요!</string>
+    <string name="config_editor_advanced_user_auth_desc">클릭하여 사용자 인증 수정</string>
+    <!-- User Auths Editor -->
+    <string name="user_auths_title">사용자 인증</string>
+    <string name="user_auths_exists_title">사용자 인증</string>
+    <string name="user_auths_exists_message">Xbox 사용자명이 사용자 인증 목록에 이미 존재합니다</string>
+    <string name="user_auths_new">새로운 사용자 인증</string>
+    <string name="user_auths_failed_title">사용자 인증 목록을 불러올 수 없음</string>
+    <string name="user_auths_failed_message">사용자 인증 목록을 불러올 수 없습니다, 직접 초기화 해주세요!</string>
+    <string name="user_auths_save_title">저장</string>
+    <string name="user_auths_save_message">사용자 인증을 저장하시겠습니까?</string>
+    <string name="user_auths_save_save">저장</string>
+    <string name="user_auths_save_failed">사용자 인증을 저장할 수 없습니다!</string>
+    <string name="user_auths_save_discard">무시</string>
+    <string name="user_auths_delete_dialog_title">사용자 인증</string>
+    <string name="user_auths_delete_dialog_message">해당 항목을 제거하시겠습니까?</string>
+    <string name="user_auths_delete_dialog_positive">삭제</string>
+    <!-- User Auth Dialog -->
+    <string name="user_auth_dialog_title">사용자 인증</string>
+    <string name="user_auth_dialog_positive">저장</string>
+    <string name="user_auth_dialog_negative">취소</string>
+    <string name="user_auth_dialog_xbox_username">Xbox 사용자명</string>
+    <string name="user_auth_dialog_java_username">Java 이메일</string>
+    <string name="user_auth_dialog_java_password">Java 비밀번호</string>
+    <!-- About Screen -->
+    <string name="about_about_title">정보</string>
+    <string name="about_links_title">링크</string>
+    <string name="about_credits_title">제작</string>
+    <string name="about_licences_title">라이센스</string>
+    <string name="about_version_copied">버전명을 클립보드에 복사했습니다!</string>
+    <!-- Settings Screen -->
+    <string name="settings_geyser">Geyser</string>
+    <string name="settings_storage">저장소 위치</string>
+    <string name="settings_config_editor">설정 에디터</string>
+    <string name="settings_reset_config">Geyser 설정 초기화</string>
+    <string name="settings_reset_user_auths">Geyser 사용자 인증 초기화</string>
+    <string name="settings_reset_config_success_title">설정을 초기화함</string>
+    <string name="settings_reset_config_success_message">Geyser 설정을 초기화했습니다!</string>
+    <string name="settings_reset_config_failed_title">초기화 실패</string>
+    <string name="settings_reset_config_failed_message">Geyser 설정을 초기화할 수 없습니다!</string>
+    <string name="settings_reset_config_missing_title">설정이 없음</string>
+    <string name="settings_reset_config_missing_message">Geyser의 설정 파일이 존재하지 않습니다!</string>
+    <string name="settings_reset_user_auths_success_title">사용자 인증을 삭제함</string>
+    <string name="settings_reset_user_auths_success_message">Geyser의 사용자 인증을 삭제했습니다!</string>
+    <string name="settings_reset_user_auths_missing_title">사용자 인증이 없음</string>
+    <string name="settings_reset_user_auths_missing_message">Geyser의 사용자 인증이 비어있거나 존재하지 않습니다!</string>
+    <string name="settings_other">그 외</string>
+    <string name="settings_theme">테마</string>
+</resources>
