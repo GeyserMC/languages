@@ -7,10 +7,10 @@
     <string name="action_about">Über</string>
     <string name="action_config_help">Hilfe</string>
     <string name="action_config_editor">Config Editor</string>
-    <string name="utils_loader">Loading...</string>
+    <string name="utils_loader">Lädt...</string>
     <!-- Navigation -->
     <string name="menu_home">Home</string>
-    <string name="menu_proxy">LAN Proxy</string>
+    <string name="menu_proxy">Lan Proxy</string>
     <string name="menu_geyser">Geyser</string>
     <string name="menu_links">Links</string>
     <string name="menu_website">Webseite</string>
@@ -26,14 +26,14 @@
     <string name="proxy_starting">Startet</string>
     <string name="proxy_stop">Stop</string>
     <string name="proxy_logs">Logs</string>
-    <string name="proxy_background_notification">LAN Proxy is running in the background!</string>
+    <string name="proxy_background_notification">Lan Proxy läuft im Hintergrund!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">Config</string>
     <string name="geyser_start">Start</string>
     <string name="geyser_starting">Startet</string>
     <string name="geyser_stop">Stop</string>
     <string name="geyser_logs">Logs</string>
-    <string name="geyser_command">Command</string>
+    <string name="geyser_command">Befehl</string>
     <string name="geyser_not_running">Geyser läuft gerade nicht!</string>
     <string name="geyser_background_notification">Geyser läuft im Hintergrund!</string>
     <string name="geyser_command_failed">Fehler beim ausführen des Befehls!</string>
@@ -42,46 +42,46 @@
     <string name="config_editor_save_message">Möchtest du die config Speichern?</string>
     <string name="config_editor_save_save">Speichern</string>
     <string name="config_editor_save_failed">Fehler beim Speichern der config!</string>
-    <string name="config_editor_save_discard">Discard</string>
-    <string name="config_editor_config_missing">Unable to locate config, please start the server first!</string>
+    <string name="config_editor_save_discard">Verwerfen</string>
+    <string name="config_editor_config_missing">Konnte config nicht finden, bitte starte vorher den Server!</string>
     <!-- Simple Config Editor -->
-    <string name="config_editor_simple_title">Simple Config Editor</string>
-    <string name="config_editor_simple_address">Address</string>
+    <string name="config_editor_simple_title">Einfacher config Editor</string>
+    <string name="config_editor_simple_address">Adresse</string>
     <string name="config_editor_simple_port">Port</string>
-    <string name="config_editor_simple_auth_type">Auth Type</string>
-    <string name="config_editor_simple_advanced">Advanced</string>
-    <string name="config_editor_simple_user_auths">User Auths</string>
-    <string name="config_editor_simple_generate_failed_title">Config failed to generate</string>
-    <string name="config_editor_simple_generate_failed_message">The config failed to generate, please reset it via the settings!</string>
+    <string name="config_editor_simple_auth_type">Authentifizierungsmethode</string>
+    <string name="config_editor_simple_advanced">Erweitert</string>
+    <string name="config_editor_simple_user_auths">Benutzerauthentifizierungen</string>
+    <string name="config_editor_simple_generate_failed_title">Config konnte nicht erstellt werden</string>
+    <string name="config_editor_simple_generate_failed_message">Config konnte nicht erstellt werden, bitte setze sie in den Einstellungen zurück!</string>
     <!-- Advanced Config Editor -->
-    <string name="config_editor_advanced_title">Advanced Config Editor</string>
-    <string name="config_editor_advanced_failed_title">Config failed to load</string>
-    <string name="config_editor_advanced_failed_message">The config failed to load, please reset it manually!</string>
+    <string name="config_editor_advanced_title">Erweiterter Config Editor</string>
+    <string name="config_editor_advanced_failed_title">Config konnte nicht geladen werden</string>
+    <string name="config_editor_advanced_failed_message">Config konnte nicht geladen werden, bitte setze sie zurück!</string>
     <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
     <!-- User Auths Editor -->
     <string name="user_auths_title">User Auths</string>
-    <string name="user_auths_exists_title">User Auths</string>
-    <string name="user_auths_exists_message">User auth already exists for that Xbox username</string>
-    <string name="user_auths_new">New User Auth</string>
-    <string name="user_auths_failed_title">User Auths failed to load</string>
+    <string name="user_auths_exists_title">Benutzerauthentifizierungen</string>
+    <string name="user_auths_exists_message">Benutzerauthentifizierung ist bereits für den Xbox Benutzer vorhanden</string>
+    <string name="user_auths_new">Neue Benutzerauthentifizierung</string>
+    <string name="user_auths_failed_title">Benutzerauthentifizierung konnte nicht geladen werden</string>
     <string name="user_auths_failed_message">The user auths failed to load, please reset them manually!</string>
-    <string name="user_auths_save_title">Save</string>
+    <string name="user_auths_save_title">Speichern</string>
     <string name="user_auths_save_message">Do you wish to save the user auths?</string>
-    <string name="user_auths_save_save">Save</string>
+    <string name="user_auths_save_save">Speichern</string>
     <string name="user_auths_save_failed">Unable to save user auths!</string>
-    <string name="user_auths_save_discard">Discard</string>
-    <string name="user_auths_delete_dialog_title">User Auth</string>
+    <string name="user_auths_save_discard">Verwerfen</string>
+    <string name="user_auths_delete_dialog_title">Benutzerauthentifizierung</string>
     <string name="user_auths_delete_dialog_message">Are you sure you\'d like to delete the selected entry?</string>
-    <string name="user_auths_delete_dialog_positive">Delete</string>
+    <string name="user_auths_delete_dialog_positive">Löschen</string>
     <!-- User Auth Dialog -->
-    <string name="user_auth_dialog_title">User Auth</string>
-    <string name="user_auth_dialog_positive">Save</string>
-    <string name="user_auth_dialog_negative">Cancel</string>
-    <string name="user_auth_dialog_xbox_username">Xbox Username</string>
-    <string name="user_auth_dialog_java_username">Java Email</string>
-    <string name="user_auth_dialog_java_password">Java Password</string>
+    <string name="user_auth_dialog_title">Benutzerauthentifizierung</string>
+    <string name="user_auth_dialog_positive">Speichern</string>
+    <string name="user_auth_dialog_negative">Abbrechen</string>
+    <string name="user_auth_dialog_xbox_username">Xbox Benutzername</string>
+    <string name="user_auth_dialog_java_username">Java E-Mail</string>
+    <string name="user_auth_dialog_java_password">Java Passwort</string>
     <!-- About Screen -->
-    <string name="about_about_title">About</string>
+    <string name="about_about_title">Über</string>
     <string name="about_links_title">Links</string>
     <string name="about_credits_title">Credits</string>
     <string name="about_licences_title">Licences</string>
