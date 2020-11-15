@@ -8,7 +8,7 @@
     <string name="action_config_help">Aide</string>
     <string name="action_config_editor">Éditeur de configuration</string>
     <string name="utils_loader">Chargement...</string>
-    <string name="utils_copy_success">Copied Text</string>
+    <string name="utils_copy_success">Texte copié</string>
     <!-- Navigation -->
     <string name="menu_home">Accueil</string>
     <string name="menu_proxy">Proxy LAN</string>
@@ -45,8 +45,8 @@
     <string name="config_editor_save_failed">Impossible d\'écrire la configuration !</string>
     <string name="config_editor_save_discard">Annuler</string>
     <string name="config_editor_config_missing">Impossible de localiser la configuration, veuillez démarrer le serveur en premier !</string>
-    <string name="config_editor_failed_title">Config failed to load</string>
-    <string name="config_editor_failed_message">The config failed to load, please reset it manually!</string>
+    <string name="config_editor_failed_title">Échec du chargement de la configuration</string>
+    <string name="config_editor_failed_message">La configuration a échoué à être chargé, veuillez la réinitialiser manuellement !</string>
     <!-- Simple Config Editor -->
     <string name="config_editor_simple_title">Simple éditeur de configuration</string>
     <string name="config_editor_simple_address">Adresse</string>
@@ -61,8 +61,8 @@
     <string name="config_editor_advanced_user_auth_desc">Cliquez pour éditeur les identifiants</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">Remote</string>
-    <string name="config_editor_advanced_section_advanced">Advanced</string>
-    <string name="config_editor_advanced_section_metrics">Metrics</string>
+    <string name="config_editor_advanced_section_advanced">Avancé</string>
+    <string name="config_editor_advanced_section_metrics">Métriques</string>
     <!-- User Auths Editor -->
     <string name="user_auths_title">Identifiants</string>
     <string name="user_auths_exists_title">Identifiants</string>
