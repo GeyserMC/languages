@@ -62,7 +62,7 @@
     <string name="user_auths_title">사용자 인증</string>
     <string name="user_auths_exists_title">사용자 인증</string>
     <string name="user_auths_exists_message">Xbox 사용자명이 사용자 인증 목록에 이미 존재합니다</string>
-    <string name="user_auths_new">새로운 사용자 인증</string>
+    <string name="user_auths_new">사용자 인증 추가</string>
     <string name="user_auths_failed_title">사용자 인증 목록을 불러올 수 없음</string>
     <string name="user_auths_failed_message">사용자 인증 목록을 불러올 수 없습니다, 직접 초기화 해주세요!</string>
     <string name="user_auths_save_title">저장</string>
