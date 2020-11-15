@@ -29,7 +29,7 @@
     <string name="proxy_background_notification">Le proxy LAN est en cours d’exécution en arrière plan !</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">Configuration</string>
-    <string name="geyser_start">Éxecuter</string>
+    <string name="geyser_start">Exécuter</string>
     <string name="geyser_starting">Démarrage</string>
     <string name="geyser_stop">Arrêter</string>
     <string name="geyser_logs">Logs</string>
@@ -42,7 +42,7 @@
     <string name="config_editor_save_message">Souhaitez-vous sauvegarder la configuration ?</string>
     <string name="config_editor_save_save">Enregistrer</string>
     <string name="config_editor_save_failed">Impossible d\'écrire la configuration !</string>
-    <string name="config_editor_save_discard">Discard</string>
+    <string name="config_editor_save_discard">Annuler</string>
     <string name="config_editor_config_missing">Impossible de localiser la configuration, veuillez démarrer le serveur en premier !</string>
     <!-- Simple Config Editor -->
     <string name="config_editor_simple_title">Simple éditeur de configuration</string>
@@ -56,20 +56,20 @@
     <!-- Advanced Config Editor -->
     <string name="config_editor_advanced_title">Éditeur de configuration avancé</string>
     <string name="config_editor_advanced_failed_title">Échec du chargement de la configuration</string>
-    <string name="config_editor_advanced_failed_message">The config failed to load, please reset it manually!</string>
-    <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
+    <string name="config_editor_advanced_failed_message">La configuration a échoué à être chargé, veuillez la réinitialiser manuellement !</string>
+    <string name="config_editor_advanced_user_auth_desc">Cliquez pour éditeur les identifiants</string>
     <!-- User Auths Editor -->
     <string name="user_auths_title">Identifiants</string>
     <string name="user_auths_exists_title">Identifiants</string>
-    <string name="user_auths_exists_message">User auth already exists for that Xbox username</string>
-    <string name="user_auths_new">New User Auth</string>
-    <string name="user_auths_failed_title">User Auths failed to load</string>
-    <string name="user_auths_failed_message">The user auths failed to load, please reset them manually!</string>
+    <string name="user_auths_exists_message">Identifiants déjà existants pour ce pseudonyme Xbox</string>
+    <string name="user_auths_new">Nouvel identifiant</string>
+    <string name="user_auths_failed_title">Échec du chargement des identifiants</string>
+    <string name="user_auths_failed_message">Les identifiants ont échoué à être chargé, veuillez les réinitialiser manuellement !</string>
     <string name="user_auths_save_title">Enregistrer</string>
-    <string name="user_auths_save_message">Do you wish to save the user auths?</string>
+    <string name="user_auths_save_message">Souhaitez-vous sauvegarder les identifiants ?</string>
     <string name="user_auths_save_save">Enregistrer</string>
-    <string name="user_auths_save_failed">Unable to save user auths!</string>
-    <string name="user_auths_save_discard">Discard</string>
+    <string name="user_auths_save_failed">Impossible de sauvegarder les identifiants !</string>
+    <string name="user_auths_save_discard">Annuler</string>
     <string name="user_auths_delete_dialog_title">Identifiant</string>
     <string name="user_auths_delete_dialog_message">Êtes-vous vraiment sûr de vouloir supprimer l\'entrée sélectionnée ?</string>
     <string name="user_auths_delete_dialog_positive">Supprimer</string>
@@ -101,7 +101,7 @@
     <string name="settings_reset_user_auths_success_title">Informations utilisateur supprimées</string>
     <string name="settings_reset_user_auths_success_message">Informations utilisateur supprimées !</string>
     <string name="settings_reset_user_auths_missing_title">Informations utilisateur manquantes</string>
-    <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
+    <string name="settings_reset_user_auths_missing_message">Les identifiants pour Geyser sont manquants ou vides !</string>
     <string name="settings_other">Autre</string>
     <string name="settings_theme">Thème</string>
 </resources>
