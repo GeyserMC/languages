@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_open">Ouvrir le menu de navigation</string>
+    <string name="navigation_drawer_close">Fermer le menu de navigation</string>
+    <string name="nav_header_desc">En-tête de navigation</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_about">À propos</string>
+    <string name="action_config_help">Aide</string>
+    <string name="action_config_editor">Éditeur de configuration</string>
+    <string name="utils_loader">Chargement...</string>
+    <string name="utils_copy_success">Texte copié</string>
+    <!-- Navigation -->
+    <string name="menu_home">Accueil</string>
+    <string name="menu_proxy">Proxy LAN</string>
+    <string name="menu_geyser">Geyser</string>
+    <string name="menu_links">Liens</string>
+    <string name="menu_website">Site internet</string>
+    <string name="menu_discord">Discord</string>
+    <!-- Home Screen -->
+    <string name="home_desc">Geyser Android est une version android de Geyser incluant un proxy de redirection de serveur.</string>
+    <string name="home_join_be">Rejoindre un serveur Bedrock</string>
+    <string name="home_join_je">Rejoindre un serveur Java</string>
+    <!-- Proxy Screen -->
+    <string name="proxy_address">Adresse</string>
+    <string name="proxy_port">Port</string>
+    <string name="proxy_start">Exécuter</string>
+    <string name="proxy_starting">Démarrage</string>
+    <string name="proxy_stop">Arrêter</string>
+    <string name="proxy_logs">Logs</string>
+    <string name="proxy_background_notification">Le proxy LAN est en cours d’exécution en arrière plan !</string>
+    <!-- Geyser Screen -->
+    <string name="geyser_config">Configuration</string>
+    <string name="geyser_start">Exécuter</string>
+    <string name="geyser_starting">Démarrage</string>
+    <string name="geyser_stop">Arrêter</string>
+    <string name="geyser_logs">Logs</string>
+    <string name="geyser_command">Commande</string>
+    <string name="geyser_not_running">Geyser n\'est pas en cours d\'exécution !</string>
+    <string name="geyser_background_notification">Geyser est en cours d’exécution en arrière plan !</string>
+    <string name="geyser_command_failed">Échec de l\'exécution de la commande !</string>
+    <!-- Config Editors -->
+    <string name="config_editor_save_title">Enregistrer</string>
+    <string name="config_editor_save_message">Souhaitez-vous sauvegarder la configuration ?</string>
+    <string name="config_editor_save_save">Enregistrer</string>
+    <string name="config_editor_save_failed">Impossible d\'écrire la configuration !</string>
+    <string name="config_editor_save_discard">Annuler</string>
+    <string name="config_editor_config_missing">Impossible de localiser la configuration, veuillez démarrer le serveur en premier !</string>
+    <string name="config_editor_failed_title">Échec du chargement de la configuration</string>
+    <string name="config_editor_failed_message">La configuration a échoué à être chargé, veuillez la réinitialiser manuellement !</string>
+    <!-- Simple Config Editor -->
+    <string name="config_editor_simple_title">Simple éditeur de configuration</string>
+    <string name="config_editor_simple_address">Adresse</string>
+    <string name="config_editor_simple_port">Port</string>
+    <string name="config_editor_simple_auth_type">Mode d\'authentification</string>
+    <string name="config_editor_simple_advanced">Avancé</string>
+    <string name="config_editor_simple_user_auths">Identifiants</string>
+    <string name="config_editor_simple_generate_failed_title">Échec de la création de la configuration</string>
+    <string name="config_editor_simple_generate_failed_message">La configuration n\'a pas pu être généré, veuillez la réinitialiser via les paramètres !</string>
+    <!-- Advanced Config Editor -->
+    <string name="config_editor_advanced_title">Éditeur de configuration avancé</string>
+    <string name="config_editor_advanced_user_auth_desc">Cliquez pour éditeur les identifiants</string>
+    <string name="config_editor_advanced_section_bedrock">Bedrock</string>
+    <string name="config_editor_advanced_section_remote">Remote</string>
+    <string name="config_editor_advanced_section_advanced">Avancé</string>
+    <string name="config_editor_advanced_section_metrics">Métriques</string>
+    <!-- User Auths Editor -->
+    <string name="user_auths_title">Identifiants</string>
+    <string name="user_auths_exists_title">Identifiants</string>
+    <string name="user_auths_exists_message">Identifiants déjà existants pour ce pseudonyme Xbox</string>
+    <string name="user_auths_new">Nouvel identifiant</string>
+    <string name="user_auths_failed_title">Échec du chargement des identifiants</string>
+    <string name="user_auths_failed_message">Les identifiants ont échoué à être chargé, veuillez les réinitialiser manuellement !</string>
+    <string name="user_auths_save_title">Enregistrer</string>
+    <string name="user_auths_save_message">Souhaitez-vous sauvegarder les identifiants ?</string>
+    <string name="user_auths_save_save">Enregistrer</string>
+    <string name="user_auths_save_failed">Impossible de sauvegarder les identifiants !</string>
+    <string name="user_auths_save_discard">Annuler</string>
+    <string name="user_auths_delete_dialog_title">Identifiant</string>
+    <string name="user_auths_delete_dialog_message">Êtes-vous vraiment sûr de vouloir supprimer l\'entrée sélectionnée ?</string>
+    <string name="user_auths_delete_dialog_positive">Supprimer</string>
+    <!-- User Auth Dialog -->
+    <string name="user_auth_dialog_title">Identifiant</string>
+    <string name="user_auth_dialog_positive">Enregistrer</string>
+    <string name="user_auth_dialog_negative">Annuler</string>
+    <string name="user_auth_dialog_xbox_username">Pseudonyme Xbox</string>
+    <string name="user_auth_dialog_java_username">E-mail Java</string>
+    <string name="user_auth_dialog_java_password">Mot de passe Java</string>
+    <!-- About Screen -->
+    <string name="about_about_title">À propos</string>
+    <string name="about_links_title">Liens</string>
+    <string name="about_credits_title">Crédits</string>
+    <string name="about_licences_title">Licences</string>
+    <string name="about_version_copied">Nom de la version copié dans le presse-papier !</string>
+    <!-- Settings Screen -->
+    <string name="settings_geyser">Geyser</string>
+    <string name="settings_storage">Emplacement du stockage</string>
+    <string name="settings_config_editor">Éditeur de configuration</string>
+    <string name="settings_reset_config">Réinitialiser la configuration de Geyser</string>
+    <string name="settings_reset_user_auths">Réinitialiser les identifiants</string>
+    <string name="settings_reset_config_success_title">Configuration supprimée</string>
+    <string name="settings_reset_config_success_message">Configuration de Geyser retirée !</string>
+    <string name="settings_reset_config_failed_title">La suppression a échouée</string>
+    <string name="settings_reset_config_failed_message">Échec de la suppression de la configuration de Geyser !</string>
+    <string name="settings_reset_config_missing_title">Configuration manquante</string>
+    <string name="settings_reset_config_missing_message">Le fichier de configuration Geyser est manquant !</string>
+    <string name="settings_reset_user_auths_success_title">Informations utilisateur supprimées</string>
+    <string name="settings_reset_user_auths_success_message">Informations utilisateur supprimées !</string>
+    <string name="settings_reset_user_auths_missing_title">Informations utilisateur manquantes</string>
+    <string name="settings_reset_user_auths_missing_message">Les identifiants pour Geyser sont manquants ou vides !</string>
+    <string name="settings_other">Autre</string>
+    <string name="settings_theme">Thème</string>
+</resources>
