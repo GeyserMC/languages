@@ -18,20 +18,20 @@
     <!-- Home Screen -->
     <string name="home_desc">Geyser Android is an android version of Geyser including a server redirection proxy.</string>
     <string name="home_join_be">Присоедениться к Bedrock-серверу</string>
-    <string name="home_join_je">Join a Java server</string>
+    <string name="home_join_je">Присоединиться к Java-серверу</string>
     <!-- Proxy Screen -->
-    <string name="proxy_address">Address</string>
-    <string name="proxy_port">Port</string>
-    <string name="proxy_start">Start</string>
-    <string name="proxy_starting">Starting</string>
-    <string name="proxy_stop">Stop</string>
-    <string name="proxy_logs">Logs</string>
-    <string name="proxy_background_notification">LAN Proxy is running in the background!</string>
+    <string name="proxy_address">Адрес</string>
+    <string name="proxy_port">Порт</string>
+    <string name="proxy_start">Старт</string>
+    <string name="proxy_starting">Идёт запуск</string>
+    <string name="proxy_stop">Выключить</string>
+    <string name="proxy_logs">Логи</string>
+    <string name="proxy_background_notification">LAN-Прокси работает в фоновом режиме!</string>
     <!-- Geyser Screen -->
-    <string name="geyser_config">Config</string>
-    <string name="geyser_start">Start</string>
-    <string name="geyser_starting">Starting</string>
-    <string name="geyser_stop">Stop</string>
+    <string name="geyser_config">Конфиг</string>
+    <string name="geyser_start">Запуск</string>
+    <string name="geyser_starting">Идёт запуск</string>
+    <string name="geyser_stop">Стоп</string>
     <string name="geyser_logs">Logs</string>
     <string name="geyser_command">Command</string>
     <string name="geyser_not_running">Geyser is not currently running!</string>
