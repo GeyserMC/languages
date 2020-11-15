@@ -1,0 +1,4 @@
+files:
+  - source: /values/strings.xml
+    translation: /values-%android_code%/%original_file_name%
+    escape_quotes: 0
