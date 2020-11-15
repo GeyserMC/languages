@@ -60,7 +60,7 @@
     <string name="config_editor_advanced_title">Éditeur de configuration avancé</string>
     <string name="config_editor_advanced_user_auth_desc">Cliquez pour éditeur les identifiants</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
-    <string name="config_editor_advanced_section_remote">Remote</string>
+    <string name="config_editor_advanced_section_remote">Distant</string>
     <string name="config_editor_advanced_section_advanced">Avancé</string>
     <string name="config_editor_advanced_section_metrics">Métriques</string>
     <!-- User Auths Editor -->
