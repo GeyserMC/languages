@@ -64,7 +64,7 @@
     <string name="user_auths_exists_message">Benutzerauthentifizierung ist bereits für den Xbox Benutzer vorhanden</string>
     <string name="user_auths_new">Neue Benutzerauthentifizierung</string>
     <string name="user_auths_failed_title">Benutzerauthentifizierung konnte nicht geladen werden</string>
-    <string name="user_auths_failed_message">The user auths failed to load, please reset them manually!</string>
+    <string name="user_auths_failed_message">Benutzerauthentifizierungenkonnte nicht geladen werden, bitte setze sie manuell zurück!</string>
     <string name="user_auths_save_title">Speichern</string>
     <string name="user_auths_save_message">Möchtest du die Benutzerauthentifizierungen Speichern?</string>
     <string name="user_auths_save_save">Speichern</string>
@@ -95,13 +95,13 @@
     <string name="settings_reset_config_success_title">Config löschen</string>
     <string name="settings_reset_config_success_message">Geyser Config gelöscht!</string>
     <string name="settings_reset_config_failed_title">Löschen fehlgeschlagen</string>
-    <string name="settings_reset_config_failed_message">Failed to remove the Geyser config!</string>
+    <string name="settings_reset_config_failed_message">Konnte die Geyser Config nicht entfernen!</string>
     <string name="settings_reset_config_missing_title">Config fehlt</string>
-    <string name="settings_reset_config_missing_message">The Geyser config file is missing!</string>
+    <string name="settings_reset_config_missing_message">Die Geyser Config Datei fehlt!</string>
     <string name="settings_reset_user_auths_success_title">Benutzerauthentifizierungen löschen</string>
     <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
-    <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
+    <string name="settings_reset_user_auths_missing_title">Fehlende Benutzerauthentifizierungen</string>
     <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
-    <string name="settings_other">Other</string>
+    <string name="settings_other">Anderes</string>
     <string name="settings_theme">Thema</string>
 </resources>
