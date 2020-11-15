@@ -62,7 +62,7 @@
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">Remote</string>
     <string name="config_editor_advanced_section_advanced">Продвинутый редактор</string>
-    <string name="config_editor_advanced_section_metrics">Metrics</string>
+    <string name="config_editor_advanced_section_metrics">Метрика</string>
     <!-- User Auths Editor -->
     <string name="user_auths_title">User Auths</string>
     <string name="user_auths_exists_title">User Auths</string>
