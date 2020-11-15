@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_about">Über</string>
+    <string name="action_config_help">Hilfe</string>
+    <string name="action_config_editor">Config Editor</string>
+    <string name="utils_loader">Lädt...</string>
+    <!-- Navigation -->
+    <string name="menu_home">Home</string>
+    <string name="menu_proxy">Lan Proxy</string>
+    <string name="menu_geyser">Geyser</string>
+    <string name="menu_links">Links</string>
+    <string name="menu_website">Webseite</string>
+    <string name="menu_discord">Discord</string>
+    <!-- Home Screen -->
+    <string name="home_desc">Geyser Android ist eine Android Version von Geyser mit einem proxy.</string>
+    <string name="home_join_be">Bedrock Server beitreten</string>
+    <string name="home_join_je">Java Server beitreten</string>
+    <!-- Proxy Screen -->
+    <string name="proxy_address">Adresse</string>
+    <string name="proxy_port">Port</string>
+    <string name="proxy_start">Starten</string>
+    <string name="proxy_starting">Startet</string>
+    <string name="proxy_stop">Stop</string>
+    <string name="proxy_logs">Logs</string>
+    <string name="proxy_background_notification">Lan Proxy läuft im Hintergrund!</string>
+    <!-- Geyser Screen -->
+    <string name="geyser_config">Config</string>
+    <string name="geyser_start">Start</string>
+    <string name="geyser_starting">Startet</string>
+    <string name="geyser_stop">Stop</string>
+    <string name="geyser_logs">Logs</string>
+    <string name="geyser_command">Befehl</string>
+    <string name="geyser_not_running">Geyser läuft gerade nicht!</string>
+    <string name="geyser_background_notification">Geyser läuft im Hintergrund!</string>
+    <string name="geyser_command_failed">Fehler beim ausführen des Befehls!</string>
+    <!-- Config Editors -->
+    <string name="config_editor_save_title">Speichern</string>
+    <string name="config_editor_save_message">Möchtest du die config Speichern?</string>
+    <string name="config_editor_save_save">Speichern</string>
+    <string name="config_editor_save_failed">Fehler beim Speichern der config!</string>
+    <string name="config_editor_save_discard">Verwerfen</string>
+    <string name="config_editor_config_missing">Konnte config nicht finden, bitte starte vorher den Server!</string>
+    <!-- Simple Config Editor -->
+    <string name="config_editor_simple_title">Einfacher config Editor</string>
+    <string name="config_editor_simple_address">Adresse</string>
+    <string name="config_editor_simple_port">Port</string>
+    <string name="config_editor_simple_auth_type">Authentifizierungsmethode</string>
+    <string name="config_editor_simple_advanced">Erweitert</string>
+    <string name="config_editor_simple_user_auths">Benutzerauthentifizierungen</string>
+    <string name="config_editor_simple_generate_failed_title">Config konnte nicht erstellt werden</string>
+    <string name="config_editor_simple_generate_failed_message">Config konnte nicht erstellt werden, bitte setze sie in den Einstellungen zurück!</string>
+    <!-- Advanced Config Editor -->
+    <string name="config_editor_advanced_title">Erweiterter Config Editor</string>
+    <string name="config_editor_advanced_failed_title">Config konnte nicht geladen werden</string>
+    <string name="config_editor_advanced_failed_message">Config konnte nicht geladen werden, bitte setze sie zurück!</string>
+    <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
+    <!-- User Auths Editor -->
+    <string name="user_auths_title">Benutzerauthentifizierungen</string>
+    <string name="user_auths_exists_title">Benutzerauthentifizierungen</string>
+    <string name="user_auths_exists_message">Benutzerauthentifizierung ist bereits für den Xbox Benutzer vorhanden</string>
+    <string name="user_auths_new">Neue Benutzerauthentifizierung</string>
+    <string name="user_auths_failed_title">Benutzerauthentifizierung konnte nicht geladen werden</string>
+    <string name="user_auths_failed_message">The user auths failed to load, please reset them manually!</string>
+    <string name="user_auths_save_title">Speichern</string>
+    <string name="user_auths_save_message">Möchtest du die Benutzerauthentifizierungen Speichern?</string>
+    <string name="user_auths_save_save">Speichern</string>
+    <string name="user_auths_save_failed">Konnte Benutzerauthentifizierungen nicht Speichern!</string>
+    <string name="user_auths_save_discard">Verwerfen</string>
+    <string name="user_auths_delete_dialog_title">Benutzerauthentifizierung</string>
+    <string name="user_auths_delete_dialog_message">Are you sure you\'d like to delete the selected entry?</string>
+    <string name="user_auths_delete_dialog_positive">Löschen</string>
+    <!-- User Auth Dialog -->
+    <string name="user_auth_dialog_title">Benutzerauthentifizierung</string>
+    <string name="user_auth_dialog_positive">Speichern</string>
+    <string name="user_auth_dialog_negative">Abbrechen</string>
+    <string name="user_auth_dialog_xbox_username">Xbox Benutzername</string>
+    <string name="user_auth_dialog_java_username">Java E-Mail</string>
+    <string name="user_auth_dialog_java_password">Java Passwort</string>
+    <!-- About Screen -->
+    <string name="about_about_title">Über</string>
+    <string name="about_links_title">Links</string>
+    <string name="about_credits_title">Danksagung</string>
+    <string name="about_licences_title">Lizenzen</string>
+    <string name="about_version_copied">Versionsname Kopiert!</string>
+    <!-- Settings Screen -->
+    <string name="settings_geyser">Geyser</string>
+    <string name="settings_storage">Speicherort</string>
+    <string name="settings_config_editor">Config Editor</string>
+    <string name="settings_reset_config">Geyser Config zurücksetzen</string>
+    <string name="settings_reset_user_auths">Geyser Benutzerauthentifizierungen zurücksetzen</string>
+    <string name="settings_reset_config_success_title">Config löschen</string>
+    <string name="settings_reset_config_success_message">Geyser Config gelöscht!</string>
+    <string name="settings_reset_config_failed_title">Löschen fehlgeschlagen</string>
+    <string name="settings_reset_config_failed_message">Failed to remove the Geyser config!</string>
+    <string name="settings_reset_config_missing_title">Config fehlt</string>
+    <string name="settings_reset_config_missing_message">The Geyser config file is missing!</string>
+    <string name="settings_reset_user_auths_success_title">Benutzerauthentifizierungen löschen</string>
+    <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
+    <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
+    <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
+    <string name="settings_other">Other</string>
+    <string name="settings_theme">Thema</string>
+</resources>
