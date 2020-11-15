@@ -69,22 +69,22 @@
     <string name="user_auths_exists_message">Credenziali già esistenti per quel nome utente</string>
     <string name="user_auths_new">Nuove Credenziali</string>
     <string name="user_auths_failed_title">Impossibile caricare le credenziali salvate</string>
-    <string name="user_auths_failed_message">The user auths failed to load, please reset them manually!</string>
-    <string name="user_auths_save_title">Save</string>
-    <string name="user_auths_save_message">Do you wish to save the user auths?</string>
-    <string name="user_auths_save_save">Save</string>
-    <string name="user_auths_save_failed">Unable to save user auths!</string>
-    <string name="user_auths_save_discard">Discard</string>
-    <string name="user_auths_delete_dialog_title">User Auth</string>
-    <string name="user_auths_delete_dialog_message">Are you sure you\'d like to delete the selected entry?</string>
-    <string name="user_auths_delete_dialog_positive">Delete</string>
+    <string name="user_auths_failed_message">Impossibile caricare la configurazione, ripristinala manualmente!</string>
+    <string name="user_auths_save_title">Salva</string>
+    <string name="user_auths_save_message">Vuoi veramente salvare le credenziali?</string>
+    <string name="user_auths_save_save">Salva</string>
+    <string name="user_auths_save_failed">Impossibile salvare le credenziali!</string>
+    <string name="user_auths_save_discard">Annulla</string>
+    <string name="user_auths_delete_dialog_title">Credenziali Utenti</string>
+    <string name="user_auths_delete_dialog_message">Sei sicuro di voler cancellare la voce selezionata?</string>
+    <string name="user_auths_delete_dialog_positive">Cancella</string>
     <!-- User Auth Dialog -->
-    <string name="user_auth_dialog_title">User Auth</string>
-    <string name="user_auth_dialog_positive">Save</string>
-    <string name="user_auth_dialog_negative">Cancel</string>
-    <string name="user_auth_dialog_xbox_username">Xbox Username</string>
-    <string name="user_auth_dialog_java_username">Java Email</string>
-    <string name="user_auth_dialog_java_password">Java Password</string>
+    <string name="user_auth_dialog_title">Credenziali Utenti</string>
+    <string name="user_auth_dialog_positive">Salva</string>
+    <string name="user_auth_dialog_negative">Annulla</string>
+    <string name="user_auth_dialog_xbox_username">Username Xbox</string>
+    <string name="user_auth_dialog_java_username">Email Java</string>
+    <string name="user_auth_dialog_java_password">Password Java</string>
     <!-- About Screen -->
     <string name="about_about_title">Informazioni</string>
     <string name="about_links_title">Link</string>
