@@ -17,16 +17,16 @@
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
     <string name="home_desc">Geyser Android è una versione Android di Geyser che include un proxy di reindirizzamento.</string>
-    <string name="home_join_be">Join a Bedrock server</string>
-    <string name="home_join_je">Join a Java server</string>
+    <string name="home_join_be">Entra su un server Bedrock</string>
+    <string name="home_join_je">Entra su un server Java</string>
     <!-- Proxy Screen -->
-    <string name="proxy_address">Address</string>
-    <string name="proxy_port">Port</string>
-    <string name="proxy_start">Start</string>
+    <string name="proxy_address">Indirizzo</string>
+    <string name="proxy_port">Porta</string>
+    <string name="proxy_start">Avvia</string>
     <string name="proxy_starting">Starting</string>
     <string name="proxy_stop">Stop</string>
-    <string name="proxy_logs">Logs</string>
-    <string name="proxy_background_notification">LAN Proxy is running in the background!</string>
+    <string name="proxy_logs">Log</string>
+    <string name="proxy_background_notification">Il Proxy LAN è in esecuzione in background!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">Config</string>
     <string name="geyser_start">Start</string>
@@ -50,7 +50,7 @@
     <string name="config_editor_simple_port">Porta</string>
     <string name="config_editor_simple_auth_type">Tipo di autenticazione</string>
     <string name="config_editor_simple_advanced">Advanced</string>
-    <string name="config_editor_simple_user_auths">User Auths</string>
+    <string name="config_editor_simple_user_auths">Credenziali Utenti</string>
     <string name="config_editor_simple_generate_failed_title">Config failed to generate</string>
     <string name="config_editor_simple_generate_failed_message">The config failed to generate, please reset it via the settings!</string>
     <!-- Advanced Config Editor -->
