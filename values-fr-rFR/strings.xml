@@ -89,18 +89,18 @@
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
     <string name="settings_storage">Storage Location</string>
-    <string name="settings_config_editor">Config Editor</string>
-    <string name="settings_reset_config">Reset Geyser config</string>
+    <string name="settings_config_editor">Éditeur de configuration</string>
+    <string name="settings_reset_config">Réinitialiser la configuration de Geyser</string>
     <string name="settings_reset_user_auths">Reset Geyser user auths</string>
     <string name="settings_reset_config_success_title">Configuration supprimée</string>
     <string name="settings_reset_config_success_message">Removed the Geyser config!</string>
-    <string name="settings_reset_config_failed_title">Deletion failed</string>
-    <string name="settings_reset_config_failed_message">Failed to remove the Geyser config!</string>
-    <string name="settings_reset_config_missing_title">Missing config</string>
-    <string name="settings_reset_config_missing_message">The Geyser config file is missing!</string>
-    <string name="settings_reset_user_auths_success_title">Deleted user auths</string>
-    <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
-    <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
+    <string name="settings_reset_config_failed_title">La suppression a échouée</string>
+    <string name="settings_reset_config_failed_message">Échec de la suppression de la configuration de Geyser !</string>
+    <string name="settings_reset_config_missing_title">Configuration manquante</string>
+    <string name="settings_reset_config_missing_message">Le fichier de configuration Geyser est manquant !</string>
+    <string name="settings_reset_user_auths_success_title">Informations utilisateur supprimées</string>
+    <string name="settings_reset_user_auths_success_message">Informations utilisateur supprimées !</string>
+    <string name="settings_reset_user_auths_missing_title">Informations utilisateur manquantes</string>
     <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
     <string name="settings_other">Autre</string>
     <string name="settings_theme">Thème</string>
