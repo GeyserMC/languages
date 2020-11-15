@@ -70,35 +70,35 @@
     <string name="user_auths_new">New User Auth</string>
     <string name="user_auths_failed_title">User Auths failed to load</string>
     <string name="user_auths_failed_message">The user auths failed to load, please reset them manually!</string>
-    <string name="user_auths_save_title">Save</string>
+    <string name="user_auths_save_title">Сохранить</string>
     <string name="user_auths_save_message">Do you wish to save the user auths?</string>
-    <string name="user_auths_save_save">Save</string>
+    <string name="user_auths_save_save">Сохранить</string>
     <string name="user_auths_save_failed">Unable to save user auths!</string>
-    <string name="user_auths_save_discard">Discard</string>
+    <string name="user_auths_save_discard">Не сохранять</string>
     <string name="user_auths_delete_dialog_title">User Auth</string>
     <string name="user_auths_delete_dialog_message">Are you sure you\'d like to delete the selected entry?</string>
-    <string name="user_auths_delete_dialog_positive">Delete</string>
+    <string name="user_auths_delete_dialog_positive">Удалить</string>
     <!-- User Auth Dialog -->
     <string name="user_auth_dialog_title">User Auth</string>
-    <string name="user_auth_dialog_positive">Save</string>
-    <string name="user_auth_dialog_negative">Cancel</string>
-    <string name="user_auth_dialog_xbox_username">Xbox Username</string>
-    <string name="user_auth_dialog_java_username">Java Email</string>
-    <string name="user_auth_dialog_java_password">Java Password</string>
+    <string name="user_auth_dialog_positive">Сохранить</string>
+    <string name="user_auth_dialog_negative">Отмена</string>
+    <string name="user_auth_dialog_xbox_username">Тег XBOX Live</string>
+    <string name="user_auth_dialog_java_username">Эл. Почта Java</string>
+    <string name="user_auth_dialog_java_password">Пароль Java</string>
     <!-- About Screen -->
-    <string name="about_about_title">About</string>
-    <string name="about_links_title">Links</string>
+    <string name="about_about_title">Информация</string>
+    <string name="about_links_title">Ссылки</string>
     <string name="about_credits_title">Credits</string>
-    <string name="about_licences_title">Licences</string>
-    <string name="about_version_copied">Copied version name to clipboard!</string>
+    <string name="about_licences_title">Лицензии</string>
+    <string name="about_version_copied">Имя версии скопировано в буфер обмена!</string>
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
-    <string name="settings_storage">Storage Location</string>
-    <string name="settings_config_editor">Config Editor</string>
-    <string name="settings_reset_config">Reset Geyser config</string>
+    <string name="settings_storage">Место хранения</string>
+    <string name="settings_config_editor">Редактор конфига</string>
+    <string name="settings_reset_config">Сбросить конфиг Geyser</string>
     <string name="settings_reset_user_auths">Reset Geyser user auths</string>
-    <string name="settings_reset_config_success_title">Deleted config</string>
-    <string name="settings_reset_config_success_message">Removed the Geyser config!</string>
+    <string name="settings_reset_config_success_title">Конфиг удалён</string>
+    <string name="settings_reset_config_success_message">Конфиг Geyser успешно удалён!</string>
     <string name="settings_reset_config_failed_title">Deletion failed</string>
     <string name="settings_reset_config_failed_message">Failed to remove the Geyser config!</string>
     <string name="settings_reset_config_missing_title">Missing config</string>
@@ -107,6 +107,6 @@
     <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
     <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
     <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
-    <string name="settings_other">Other</string>
-    <string name="settings_theme">Theme</string>
+    <string name="settings_other">Другое</string>
+    <string name="settings_theme">Тема</string>
 </resources>
