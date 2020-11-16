@@ -40,7 +40,7 @@
     <string name="geyser_command_failed">Impossibile eseguire il comando!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Salva</string>
-    <string name="config_editor_save_message">Vuoi veramente la configurazione?</string>
+    <string name="config_editor_save_message">Vuoi veramente salvare la configurazione?</string>
     <string name="config_editor_save_save">Salva</string>
     <string name="config_editor_save_failed">Impossibile salvare la configurazione!</string>
     <string name="config_editor_save_discard">Annulla</string>
