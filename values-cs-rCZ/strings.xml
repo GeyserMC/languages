@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
-    <string name="action_about">About</string>
+    <string name="navigation_drawer_open">Otevřít navigační menu</string>
+    <string name="navigation_drawer_close">Zavřít navigační menu</string>
+    <string name="nav_header_desc">Navigační záhlaví</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="action_about">O</string>
     <string name="action_config_help">Help</string>
     <string name="action_config_editor">Config Editor</string>
     <string name="utils_loader">Loading...</string>
