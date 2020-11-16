@@ -18,8 +18,8 @@
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
     <string name="home_desc">Geyser Android è una versione Android di Geyser che include un proxy di reindirizzamento.</string>
-    <string name="home_join_be">Entra su un server Bedrock</string>
-    <string name="home_join_je">Entra su un server Java</string>
+    <string name="home_join_be">Entra in un server Bedrock</string>
+    <string name="home_join_je">Entra in un server Java</string>
     <!-- Proxy Screen -->
     <string name="proxy_address">Indirizzo</string>
     <string name="proxy_port">Porta</string>
@@ -31,7 +31,7 @@
     <!-- Geyser Screen -->
     <string name="geyser_config">Configurazione</string>
     <string name="geyser_start">Avvia</string>
-    <string name="geyser_starting">Avvio</string>
+    <string name="geyser_starting">Avvio in corso</string>
     <string name="geyser_stop">Arresta</string>
     <string name="geyser_logs">Log</string>
     <string name="geyser_command">Comando</string>
