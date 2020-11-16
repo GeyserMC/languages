@@ -11,7 +11,7 @@
     <string name="menu_proxy">LAN Proxy</string>
     <string name="menu_geyser">Geyser</string>
     <string name="menu_links">Links</string>
-    <string name="menu_website">Website</string>
+    <string name="menu_website">網站</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
     <string name="home_desc">Geyser Android is an android version of Geyser including a server redirection proxy.</string>
@@ -20,16 +20,16 @@
     <!-- Proxy Screen -->
     <string name="proxy_address">Address</string>
     <string name="proxy_port">Port</string>
-    <string name="proxy_start">Start</string>
-    <string name="proxy_starting">Starting</string>
-    <string name="proxy_stop">Stop</string>
+    <string name="proxy_start">啟動</string>
+    <string name="proxy_starting">啟動中</string>
+    <string name="proxy_stop">停止</string>
     <string name="proxy_logs">Logs</string>
     <string name="proxy_background_notification">LAN Proxy is running in the background!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">Config</string>
-    <string name="geyser_start">Start</string>
-    <string name="geyser_starting">Starting</string>
-    <string name="geyser_stop">Stop</string>
+    <string name="geyser_start">啟動</string>
+    <string name="geyser_starting">啟動中</string>
+    <string name="geyser_stop">停止</string>
     <string name="geyser_logs">Logs</string>
     <string name="geyser_command">Command</string>
     <string name="geyser_not_running">Geyser is not currently running!</string>
@@ -58,7 +58,7 @@
     <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">Remote</string>
-    <string name="config_editor_advanced_section_advanced">Advanced</string>
+    <string name="config_editor_advanced_section_advanced">進階</string>
     <string name="config_editor_advanced_section_metrics">Metrics</string>
     <!-- User Auths Editor -->
     <string name="user_auths_title">User Auths</string>
@@ -74,7 +74,7 @@
     <string name="user_auths_save_discard">Discard</string>
     <string name="user_auths_delete_dialog_title">User Auth</string>
     <string name="user_auths_delete_dialog_message">Are you sure you\'d like to delete the selected entry?</string>
-    <string name="user_auths_delete_dialog_positive">Delete</string>
+    <string name="user_auths_delete_dialog_positive">刪除</string>
     <!-- User Auth Dialog -->
     <string name="user_auth_dialog_title">User Auth</string>
     <string name="user_auth_dialog_positive">Save</string>
@@ -83,7 +83,7 @@
     <string name="user_auth_dialog_java_username">Java Email</string>
     <string name="user_auth_dialog_java_password">Java Password</string>
     <!-- About Screen -->
-    <string name="about_about_title">About</string>
+    <string name="about_about_title">關於</string>
     <string name="about_links_title">Links</string>
     <string name="about_credits_title">Credits</string>
     <string name="about_licences_title">Licences</string>
@@ -104,6 +104,6 @@
     <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
     <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
     <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
-    <string name="settings_other">Other</string>
-    <string name="settings_theme">Theme</string>
+    <string name="settings_other">其他</string>
+    <string name="settings_theme">主題</string>
 </resources>
