@@ -97,16 +97,16 @@
     <string name="settings_config_editor">設定編集</string>
     <string name="settings_reset_config">Geyser の設定をリセットする</string>
     <string name="settings_reset_user_auths">ユーザー認証をリセットする</string>
-    <string name="settings_reset_config_success_title">設定を削除</string>
-    <string name="settings_reset_config_success_message">Removed the Geyser config!</string>
-    <string name="settings_reset_config_failed_title">Deletion failed</string>
-    <string name="settings_reset_config_failed_message">Failed to remove the Geyser config!</string>
-    <string name="settings_reset_config_missing_title">Missing config</string>
-    <string name="settings_reset_config_missing_message">The Geyser config file is missing!</string>
-    <string name="settings_reset_user_auths_success_title">Deleted user auths</string>
-    <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
-    <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
-    <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
+    <string name="settings_reset_config_success_title">設定ファイルを削除</string>
+    <string name="settings_reset_config_success_message">設定ファイルを削除しました</string>
+    <string name="settings_reset_config_failed_title">削除に失敗しました</string>
+    <string name="settings_reset_config_failed_message">設定ファイルの削除に失敗しました</string>
+    <string name="settings_reset_config_missing_title">設定ファイルが見つかりません</string>
+    <string name="settings_reset_config_missing_message">設定ファイルが見つかりません！</string>
+    <string name="settings_reset_user_auths_success_title">削除されたユーザー認証</string>
+    <string name="settings_reset_user_auths_success_message">ユーザー認証をクリアしました！</string>
+    <string name="settings_reset_user_auths_missing_title">ユーザー認証がありません</string>
+    <string name="settings_reset_user_auths_missing_message">ユーザー認証が見つからないか、空です。</string>
     <string name="settings_other">その他</string>
     <string name="settings_theme">テーマ</string>
 </resources>
