@@ -40,7 +40,7 @@
     <string name="config_editor_save_message">設定を保存しますか？</string>
     <string name="config_editor_save_save">保存</string>
     <string name="config_editor_save_failed">設定を保存できませんでした！</string>
-    <string name="config_editor_save_discard">キャンセル</string>
+    <string name="config_editor_save_discard">保存しない</string>
     <string name="config_editor_config_missing">設定が見つかりません。最初にサーバーを起動してください。</string>
     <string name="config_editor_failed_title">設定を読み込めませんでした</string>
     <string name="config_editor_failed_message">設定が見つかりません。リセットしてください。</string>
@@ -71,7 +71,7 @@
     <string name="user_auths_save_message">ユーザー認証を保存しますか？</string>
     <string name="user_auths_save_save">保存</string>
     <string name="user_auths_save_failed">ユーザー認証を保存できません！</string>
-    <string name="user_auths_save_discard">キャンセル</string>
+    <string name="user_auths_save_discard">保存しない</string>
     <string name="user_auths_delete_dialog_title">ユーザー認証</string>
     <string name="user_auths_delete_dialog_message">選択したエントリを削除してもよろしいですか？</string>
     <string name="user_auths_delete_dialog_positive">削除</string>
