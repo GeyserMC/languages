@@ -8,7 +8,7 @@
     <string name="action_config_help">Aiuto</string>
     <string name="action_config_editor">Editor della configurazione</string>
     <string name="utils_loader">Caricamento...</string>
-    <string name="utils_copy_success">Testo Copiato</string>
+    <string name="utils_copy_success">Testo copiato</string>
     <!-- Navigation -->
     <string name="menu_home">Menu Principale</string>
     <string name="menu_proxy">Proxy LAN</string>
@@ -24,7 +24,7 @@
     <string name="proxy_address">Indirizzo</string>
     <string name="proxy_port">Porta</string>
     <string name="proxy_start">Avvia</string>
-    <string name="proxy_starting">Avvio</string>
+    <string name="proxy_starting">Avvio in corso</string>
     <string name="proxy_stop">Arresta</string>
     <string name="proxy_logs">Log</string>
     <string name="proxy_background_notification">Il Proxy LAN è in esecuzione in background!</string>
