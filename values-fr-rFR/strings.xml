@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="navigation_drawer_open">Ouvrir le menu de navigation</string>
-    <string name="navigation_drawer_close">Fermer le menu de navigation</string>
-    <string name="nav_header_desc">En-tête de navigation</string>
     <string name="action_settings">Paramètres</string>
     <string name="action_about">À propos</string>
     <string name="action_config_help">Aide</string>
