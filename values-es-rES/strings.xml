@@ -42,23 +42,23 @@
     <string name="config_editor_save_failed">¡No se puede editar la configuración!</string>
     <string name="config_editor_save_discard">Descartar</string>
     <string name="config_editor_config_missing">No se pudo localizar la configuración, ¡inicia el servidor primero por favor!</string>
-    <string name="config_editor_failed_title">Config failed to load</string>
-    <string name="config_editor_failed_message">The config failed to load, please reset it manually!</string>
+    <string name="config_editor_failed_title">Error al cargar la configuración</string>
+    <string name="config_editor_failed_message">La configuración falló al cargar, ¡reinícialo manualmente por favor!</string>
     <!-- Simple Config Editor -->
-    <string name="config_editor_simple_title">Simple Config Editor</string>
-    <string name="config_editor_simple_address">Address</string>
-    <string name="config_editor_simple_port">Port</string>
-    <string name="config_editor_simple_auth_type">Auth Type</string>
-    <string name="config_editor_simple_advanced">Advanced</string>
-    <string name="config_editor_simple_user_auths">User Auths</string>
-    <string name="config_editor_simple_generate_failed_title">Config failed to generate</string>
-    <string name="config_editor_simple_generate_failed_message">The config failed to generate, please reset it via the settings!</string>
+    <string name="config_editor_simple_title">Editor de configuración básico</string>
+    <string name="config_editor_simple_address">Dirección</string>
+    <string name="config_editor_simple_port">Puerto</string>
+    <string name="config_editor_simple_auth_type">Tipo de autentificación</string>
+    <string name="config_editor_simple_advanced">Avanzado</string>
+    <string name="config_editor_simple_user_auths">Autentificaciones de los usuarios</string>
+    <string name="config_editor_simple_generate_failed_title">Error al generar la configuración</string>
+    <string name="config_editor_simple_generate_failed_message">La configuración falló al generarse, ¡reinicialo en los ajustes por favor!</string>
     <!-- Advanced Config Editor -->
-    <string name="config_editor_advanced_title">Advanced Config Editor</string>
-    <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
+    <string name="config_editor_advanced_title">Editor de configuración avanzado</string>
+    <string name="config_editor_advanced_user_auth_desc">Click para editar la autentificación de los usuarios</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
-    <string name="config_editor_advanced_section_remote">Remote</string>
-    <string name="config_editor_advanced_section_advanced">Advanced</string>
+    <string name="config_editor_advanced_section_remote">Remoto</string>
+    <string name="config_editor_advanced_section_advanced">Avanzado</string>
     <string name="config_editor_advanced_section_metrics">Metrics</string>
     <!-- User Auths Editor -->
     <string name="user_auths_title">User Auths</string>
