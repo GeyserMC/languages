@@ -73,7 +73,7 @@
     <string name="user_auths_save_failed">Konnte Benutzerauthentifizierungen nicht Speichern!</string>
     <string name="user_auths_save_discard">Verwerfen</string>
     <string name="user_auths_delete_dialog_title">Benutzerauthentifizierung</string>
-    <string name="user_auths_delete_dialog_message">Are you sure you\'d like to delete the selected entry?</string>
+    <string name="user_auths_delete_dialog_message">Bist du sicher, dass du den ausgewählten Eintrag löschen möchtest?</string>
     <string name="user_auths_delete_dialog_positive">Löschen</string>
     <!-- User Auth Dialog -->
     <string name="user_auth_dialog_title">Benutzerauthentifizierung</string>
