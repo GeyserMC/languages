@@ -102,8 +102,8 @@
     <string name="settings_reset_config_missing_message">¡No se encuentra la configuración de Geyser!</string>
     <string name="settings_reset_user_auths_success_title">Eliminado las credenciales de usuario</string>
     <string name="settings_reset_user_auths_success_message">¡Se ha limpiado las credenciales de usuario de Geyser!</string>
-    <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
-    <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
-    <string name="settings_other">Other</string>
-    <string name="settings_theme">Theme</string>
+    <string name="settings_reset_user_auths_missing_title">Credenciales de usuario ausentes</string>
+    <string name="settings_reset_user_auths_missing_message">¡Las credenciales de usuario de Geyser no se encuentran o están vacíos!</string>
+    <string name="settings_other">Otros</string>
+    <string name="settings_theme">Tema</string>
 </resources>
