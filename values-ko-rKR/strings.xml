@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="navigation_drawer_open">네비게이션 드로어 열기</string>
-    <string name="navigation_drawer_close">네비게이션 드로어 닫기</string>
-    <string name="nav_header_desc">네비게이션 헤더</string>
     <string name="action_settings">설정</string>
     <string name="action_about">정보</string>
     <string name="action_config_help">도움말</string>
-    <string name="action_config_editor">설정 에디터</string>
+    <string name="action_config_editor">설정 편집기</string>
     <string name="utils_loader">불러오는 중...</string>
-    <string name="utils_copy_success">Copied Text</string>
+    <string name="utils_copy_success">텍스트를 복사했습니다</string>
     <!-- Navigation -->
-    <string name="menu_home">메인 메뉴</string>
+    <string name="menu_home">홈</string>
     <string name="menu_proxy">LAN 프록시</string>
     <string name="menu_geyser">Geyser</string>
     <string name="menu_links">링크</string>
     <string name="menu_website">웹 사이트</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
-    <string name="home_desc">Geyser 안드로이드는 서버 이동 프록시를 포함한 안드로이드용 Geyser 입니다.</string>
+    <string name="home_desc">Geyser 안드로이드는 서버 이동 프록시가 포함된 안드로이드 버전의 Geyser 입니다.</string>
     <string name="home_join_be">Bedrock 서버 접속</string>
     <string name="home_join_je">Java 서버 접속</string>
     <!-- Proxy Screen -->
@@ -43,12 +40,12 @@
     <string name="config_editor_save_message">설정을 저장하시겠습니까?</string>
     <string name="config_editor_save_save">저장</string>
     <string name="config_editor_save_failed">설정을 수정할 수 없습니다!</string>
-    <string name="config_editor_save_discard">무시</string>
+    <string name="config_editor_save_discard">저장하지 않기</string>
     <string name="config_editor_config_missing">설정을 확인할 수 없습니다, 서버를 먼저 시작해 주세요!</string>
-    <string name="config_editor_failed_title">Config failed to load</string>
-    <string name="config_editor_failed_message">The config failed to load, please reset it manually!</string>
+    <string name="config_editor_failed_title">설정을 불러올 수 없음</string>
+    <string name="config_editor_failed_message">설정을 불러올 수 없습니다, 직접 초기화 해주세요!</string>
     <!-- Simple Config Editor -->
-    <string name="config_editor_simple_title">간편 설정 에디터</string>
+    <string name="config_editor_simple_title">간편 설정 편집기</string>
     <string name="config_editor_simple_address">주소</string>
     <string name="config_editor_simple_port">포트</string>
     <string name="config_editor_simple_auth_type">인증 유형</string>
@@ -57,12 +54,12 @@
     <string name="config_editor_simple_generate_failed_title">설정 파일을 생성할 수 없음</string>
     <string name="config_editor_simple_generate_failed_message">설정 파일 생성을 실패했습니다, 앱 설정창을 통해 초기화 해주세요!</string>
     <!-- Advanced Config Editor -->
-    <string name="config_editor_advanced_title">고급 설정 에디터</string>
+    <string name="config_editor_advanced_title">고급 설정 편집기</string>
     <string name="config_editor_advanced_user_auth_desc">클릭하여 사용자 인증 수정</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
-    <string name="config_editor_advanced_section_remote">Remote</string>
-    <string name="config_editor_advanced_section_advanced">Advanced</string>
-    <string name="config_editor_advanced_section_metrics">Metrics</string>
+    <string name="config_editor_advanced_section_remote">원격</string>
+    <string name="config_editor_advanced_section_advanced">고급</string>
+    <string name="config_editor_advanced_section_metrics">메트릭스</string>
     <!-- User Auths Editor -->
     <string name="user_auths_title">사용자 인증</string>
     <string name="user_auths_exists_title">사용자 인증</string>
@@ -74,7 +71,7 @@
     <string name="user_auths_save_message">사용자 인증을 저장하시겠습니까?</string>
     <string name="user_auths_save_save">저장</string>
     <string name="user_auths_save_failed">사용자 인증을 저장할 수 없습니다!</string>
-    <string name="user_auths_save_discard">무시</string>
+    <string name="user_auths_save_discard">저장하지 않기</string>
     <string name="user_auths_delete_dialog_title">사용자 인증</string>
     <string name="user_auths_delete_dialog_message">해당 항목을 제거하시겠습니까?</string>
     <string name="user_auths_delete_dialog_positive">삭제</string>
@@ -94,7 +91,7 @@
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
     <string name="settings_storage">저장소 위치</string>
-    <string name="settings_config_editor">설정 에디터</string>
+    <string name="settings_config_editor">설정 편집기</string>
     <string name="settings_reset_config">Geyser 설정 초기화</string>
     <string name="settings_reset_user_auths">Geyser 사용자 인증 초기화</string>
     <string name="settings_reset_config_success_title">설정을 초기화함</string>

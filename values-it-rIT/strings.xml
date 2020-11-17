@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="navigation_drawer_open">Apri il menu di navigazione</string>
-    <string name="navigation_drawer_close">Chiudi il menu di navigazione</string>
-    <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Impostazioni</string>
     <string name="action_about">Informazioni</string>
     <string name="action_config_help">Aiuto</string>
     <string name="action_config_editor">Editor della configurazione</string>
     <string name="utils_loader">Caricamento...</string>
-    <string name="utils_copy_success">Testo Copiato</string>
+    <string name="utils_copy_success">Testo copiato</string>
     <!-- Navigation -->
     <string name="menu_home">Menu Principale</string>
     <string name="menu_proxy">Proxy LAN</string>
@@ -18,20 +15,20 @@
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
     <string name="home_desc">Geyser Android è una versione Android di Geyser che include un proxy di reindirizzamento.</string>
-    <string name="home_join_be">Entra su un server Bedrock</string>
-    <string name="home_join_je">Entra su un server Java</string>
+    <string name="home_join_be">Entra in un server Bedrock</string>
+    <string name="home_join_je">Entra in un server Java</string>
     <!-- Proxy Screen -->
     <string name="proxy_address">Indirizzo</string>
     <string name="proxy_port">Porta</string>
     <string name="proxy_start">Avvia</string>
-    <string name="proxy_starting">Avvio</string>
+    <string name="proxy_starting">Avvio in corso</string>
     <string name="proxy_stop">Arresta</string>
     <string name="proxy_logs">Log</string>
     <string name="proxy_background_notification">Il Proxy LAN è in esecuzione in background!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">Configurazione</string>
     <string name="geyser_start">Avvia</string>
-    <string name="geyser_starting">Avvio</string>
+    <string name="geyser_starting">Avvio in corso</string>
     <string name="geyser_stop">Arresta</string>
     <string name="geyser_logs">Log</string>
     <string name="geyser_command">Comando</string>
@@ -40,7 +37,7 @@
     <string name="geyser_command_failed">Impossibile eseguire il comando!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Salva</string>
-    <string name="config_editor_save_message">Vuoi veramente la configurazione?</string>
+    <string name="config_editor_save_message">Vuoi veramente salvare la configurazione?</string>
     <string name="config_editor_save_save">Salva</string>
     <string name="config_editor_save_failed">Impossibile salvare la configurazione!</string>
     <string name="config_editor_save_discard">Annulla</string>
