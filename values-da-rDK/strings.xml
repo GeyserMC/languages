@@ -63,7 +63,7 @@
     <!-- User Auths Editor -->
     <string name="user_auths_title">Brugergodkendelser</string>
     <string name="user_auths_exists_title">Brugergodkendelser</string>
-    <string name="user_auths_exists_message">User auth already exists for that Xbox username</string>
+    <string name="user_auths_exists_message">Brugergodkendelse eksisterer allerede for dette Xbox-brugernavn</string>
     <string name="user_auths_new">Ny Bruger Godkendelse</string>
     <string name="user_auths_failed_title">Brugergodkendelser kunne ikke indlæses</string>
     <string name="user_auths_failed_message">Brugergodkendelserne kunne ikke indlæses, vær venlig at nulstille dem manuelt!</string>
@@ -103,7 +103,7 @@
     <string name="settings_reset_user_auths_success_title">Slettede brugergodkendelser</string>
     <string name="settings_reset_user_auths_success_message">Ryddet Geyser-brugergodkendelser!</string>
     <string name="settings_reset_user_auths_missing_title">Manglende brugergodkendelser</string>
-    <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
-    <string name="settings_other">Other</string>
-    <string name="settings_theme">Theme</string>
+    <string name="settings_reset_user_auths_missing_message">Geyser-brugergodkendelser enten mangler eller er tomt!</string>
+    <string name="settings_other">Andet</string>
+    <string name="settings_theme">Tema</string>
 </resources>
