@@ -8,7 +8,7 @@
     <string name="utils_copy_success">Kopieret tekst</string>
     <!-- Navigation -->
     <string name="menu_home">Hjem</string>
-    <string name="menu_proxy">LAN-proxy</string>
+    <string name="menu_proxy">LAN Proxy</string>
     <string name="menu_geyser">Geyser</string>
     <string name="menu_links">Links</string>
     <string name="menu_website">Website</string>
