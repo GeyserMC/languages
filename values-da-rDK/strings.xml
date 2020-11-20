@@ -18,22 +18,22 @@
     <string name="home_join_be">Deltag i en Bedrock-server</string>
     <string name="home_join_je">Deltag i en Java-server</string>
     <!-- Proxy Screen -->
-    <string name="proxy_address">Address</string>
+    <string name="proxy_address">Adresse</string>
     <string name="proxy_port">Port</string>
     <string name="proxy_start">Start</string>
-    <string name="proxy_starting">Starting</string>
+    <string name="proxy_starting">Starter</string>
     <string name="proxy_stop">Stop</string>
     <string name="proxy_logs">Logs</string>
-    <string name="proxy_background_notification">LAN Proxy is running in the background!</string>
+    <string name="proxy_background_notification">LAN Proxy kører i baggrunden!</string>
     <!-- Geyser Screen -->
-    <string name="geyser_config">Config</string>
+    <string name="geyser_config">Konfiguration</string>
     <string name="geyser_start">Start</string>
-    <string name="geyser_starting">Starting</string>
+    <string name="geyser_starting">Starter</string>
     <string name="geyser_stop">Stop</string>
     <string name="geyser_logs">Logs</string>
-    <string name="geyser_command">Command</string>
-    <string name="geyser_not_running">Geyser is not currently running!</string>
-    <string name="geyser_background_notification">Geyser is running in the background!</string>
+    <string name="geyser_command">Kommando</string>
+    <string name="geyser_not_running">Geyser kører ikke i øjeblikket!</string>
+    <string name="geyser_background_notification">Geyser kører i baggrunden!</string>
     <string name="geyser_command_failed">Failed to run command!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Save</string>
