@@ -57,7 +57,7 @@
     <string name="config_editor_advanced_title">Avanceret Konfigurationseditor</string>
     <string name="config_editor_advanced_user_auth_desc">Klik for at redigere brugergodkendelser</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
-    <string name="config_editor_advanced_section_remote">Remote</string>
+    <string name="config_editor_advanced_section_remote">Fjern</string>
     <string name="config_editor_advanced_section_advanced">Avanceret</string>
     <string name="config_editor_advanced_section_metrics">Målinger</string>
     <!-- User Auths Editor -->
@@ -73,7 +73,7 @@
     <string name="user_auths_save_failed">Kunne ikke gemme brugergodkendelser!</string>
     <string name="user_auths_save_discard">Kassér</string>
     <string name="user_auths_delete_dialog_title">Brugergodkendelse</string>
-    <string name="user_auths_delete_dialog_message">Are you sure you\'d like to delete the selected entry?</string>
+    <string name="user_auths_delete_dialog_message">Er du sikker på, at du vil slette den valgte post?</string>
     <string name="user_auths_delete_dialog_positive">Slet</string>
     <!-- User Auth Dialog -->
     <string name="user_auth_dialog_title">Brugergodkendelse</string>
