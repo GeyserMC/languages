@@ -26,6 +26,7 @@
     <string name="proxy_stop">Stop</string>
     <string name="proxy_logs">Logs</string>
     <string name="proxy_background_notification">LAN Proxy is running in the background!</string>
+    <string name="proxy_geyser_running_warn">Geyser is already running, please stop it in Geyser -> Stop in order to use LAN Proxy!</string>
 
     <!-- Geyser Screen -->
     <string name="geyser_config">Config</string>
@@ -37,6 +38,7 @@
     <string name="geyser_not_running">Geyser is not currently running!</string>
     <string name="geyser_background_notification">Geyser is running in the background!</string>
     <string name="geyser_command_failed">Failed to run command!</string>
+    <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -> Stop in order to use Geyser!</string>
 
     <!-- Config Editors -->
     <string name="config_editor_save_title">Save</string>
