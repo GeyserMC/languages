@@ -3,14 +3,12 @@
     <string name="action_settings">설정</string>
     <string name="action_about">정보</string>
     <string name="action_config_help">도움말</string>
-    <string name="action_config_editor">설정 편집기</string>
     <string name="utils_loader">불러오는 중...</string>
     <string name="utils_copy_success">텍스트를 복사했습니다</string>
     <!-- Navigation -->
     <string name="menu_home">홈</string>
     <string name="menu_proxy">LAN 프록시</string>
     <string name="menu_geyser">Geyser</string>
-    <string name="menu_links">링크</string>
     <string name="menu_website">웹 사이트</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
@@ -25,6 +23,10 @@
     <string name="proxy_stop">중지</string>
     <string name="proxy_logs">로그</string>
     <string name="proxy_background_notification">LAN 프록시가 백그라운드에서 구동되고 있습니다!</string>
+    <string name="proxy_geyser_running_warn">Geyser is already running, please stop it in Geyser -&gt; Stop in order to use LAN Proxy!</string>
+    <string name="proxy_started">Server started on %s</string>
+    <string name="proxy_shutdown">Shutting down!</string>
+    <string name="proxy_shutdown_done">Successfully shutdown!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">설정</string>
     <string name="geyser_start">시작</string>
@@ -35,6 +37,7 @@
     <string name="geyser_not_running">Geyser이 구동되지 않았습니다!</string>
     <string name="geyser_background_notification">Geyser이 백그라운드에서 구동되고 있습니다!</string>
     <string name="geyser_command_failed">명령어 실행을 실패했습니다!</string>
+    <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -&gt; Stop in order to use Geyser!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">저장</string>
     <string name="config_editor_save_message">설정을 저장하시겠습니까?</string>
