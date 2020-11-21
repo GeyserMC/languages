@@ -3,14 +3,12 @@
     <string name="action_settings">Настройки</string>
     <string name="action_about">About</string>
     <string name="action_config_help">Помощь</string>
-    <string name="action_config_editor">Редактор конфигурационного файла</string>
     <string name="utils_loader">Загрузка...</string>
     <string name="utils_copy_success">Copied Text</string>
     <!-- Navigation -->
     <string name="menu_home">Home</string>
     <string name="menu_proxy">LAN Прокси</string>
     <string name="menu_geyser">Geyser</string>
-    <string name="menu_links">Ссылки</string>
     <string name="menu_website">Сайт</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
@@ -25,6 +23,10 @@
     <string name="proxy_stop">Выключить</string>
     <string name="proxy_logs">Логи</string>
     <string name="proxy_background_notification">LAN-Прокси работает в фоновом режиме!</string>
+    <string name="proxy_geyser_running_warn">Уже запущен Geyser, пожалуйста, остановите его во вкладке Geyser -&gt; Стоп, чтобы использовать LAN прокси!</string>
+    <string name="proxy_started">Server started on %s</string>
+    <string name="proxy_shutdown">Shutting down!</string>
+    <string name="proxy_shutdown_done">Successfully shutdown!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">Конфиг</string>
     <string name="geyser_start">Запуск</string>
@@ -35,6 +37,7 @@
     <string name="geyser_not_running">Geyser сейчас не запущен!</string>
     <string name="geyser_background_notification">Geyser работает в фоновом режиме!</string>
     <string name="geyser_command_failed">Не удалось выполнить команду!</string>
+    <string name="geyser_proxy_running_warn">Уже запущен LAN Прокси, пожалуйста, остановите его во вкладке LAN Прокси -&gt; Стоп, чтобы использовать Geyser!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Сохранить</string>
     <string name="config_editor_save_message">Вы хотите сохранить конфиг?</string>

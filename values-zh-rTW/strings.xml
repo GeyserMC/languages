@@ -2,15 +2,13 @@
 <resources>
     <string name="action_settings">設定</string>
     <string name="action_about">關於</string>
-    <string name="action_config_help">Help</string>
-    <string name="action_config_editor">Config Editor</string>
+    <string name="action_config_help">說明</string>
     <string name="utils_loader">載入中...</string>
     <string name="utils_copy_success">Copied Text</string>
     <!-- Navigation -->
-    <string name="menu_home">Home</string>
+    <string name="menu_home">首頁</string>
     <string name="menu_proxy">LAN Proxy</string>
     <string name="menu_geyser">Geyser</string>
-    <string name="menu_links">Links</string>
     <string name="menu_website">網站</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
@@ -25,16 +23,21 @@
     <string name="proxy_stop">停止</string>
     <string name="proxy_logs">Logs</string>
     <string name="proxy_background_notification">LAN Proxy is running in the background!</string>
+    <string name="proxy_geyser_running_warn">Geyser is already running, please stop it in Geyser -&gt; Stop in order to use LAN Proxy!</string>
+    <string name="proxy_started">Server started on %s</string>
+    <string name="proxy_shutdown">Shutting down!</string>
+    <string name="proxy_shutdown_done">Successfully shutdown!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">Config</string>
     <string name="geyser_start">啟動</string>
     <string name="geyser_starting">啟動中</string>
     <string name="geyser_stop">停止</string>
     <string name="geyser_logs">Logs</string>
-    <string name="geyser_command">Command</string>
+    <string name="geyser_command">指令</string>
     <string name="geyser_not_running">Geyser is not currently running!</string>
     <string name="geyser_background_notification">Geyser is running in the background!</string>
     <string name="geyser_command_failed">Failed to run command!</string>
+    <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -&gt; Stop in order to use Geyser!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Save</string>
     <string name="config_editor_save_message">Do you wish to save the config?</string>
@@ -78,7 +81,7 @@
     <!-- User Auth Dialog -->
     <string name="user_auth_dialog_title">User Auth</string>
     <string name="user_auth_dialog_positive">Save</string>
-    <string name="user_auth_dialog_negative">Cancel</string>
+    <string name="user_auth_dialog_negative">取消</string>
     <string name="user_auth_dialog_xbox_username">Xbox Username</string>
     <string name="user_auth_dialog_java_username">Java Email</string>
     <string name="user_auth_dialog_java_password">Java Password</string>

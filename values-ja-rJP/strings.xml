@@ -3,14 +3,12 @@
     <string name="action_settings">設定</string>
     <string name="action_about">その他</string>
     <string name="action_config_help">ヘルプ</string>
-    <string name="action_config_editor">設定エディター</string>
     <string name="utils_loader">読み込んでいます...</string>
     <string name="utils_copy_success">コピーされたテキスト</string>
     <!-- Navigation -->
     <string name="menu_home">ホーム</string>
     <string name="menu_proxy">LAN プロキシ</string>
     <string name="menu_geyser">Geyser</string>
-    <string name="menu_links">リンク</string>
     <string name="menu_website">ウェブサイト</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
@@ -25,6 +23,10 @@
     <string name="proxy_stop">ストップ</string>
     <string name="proxy_logs">ログ</string>
     <string name="proxy_background_notification">LAN プロキシがバックグラウンドで実行されています！</string>
+    <string name="proxy_geyser_running_warn">Geyser is already running, please stop it in Geyser -&gt; Stop in order to use LAN Proxy!</string>
+    <string name="proxy_started">Server started on %s</string>
+    <string name="proxy_shutdown">Shutting down!</string>
+    <string name="proxy_shutdown_done">Successfully shutdown!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">設定</string>
     <string name="geyser_start">スタート</string>
@@ -35,6 +37,7 @@
     <string name="geyser_not_running">Geyser は現在実行されていません！</string>
     <string name="geyser_background_notification">Geyser はバックグラウンドで実行されています！</string>
     <string name="geyser_command_failed">コマンドの実行に失敗しました！</string>
+    <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -&gt; Stop in order to use Geyser!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">保存</string>
     <string name="config_editor_save_message">設定を保存しますか？</string>
