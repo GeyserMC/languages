@@ -3,14 +3,12 @@
     <string name="action_settings">Impostazioni</string>
     <string name="action_about">Informazioni</string>
     <string name="action_config_help">Aiuto</string>
-    <string name="action_config_editor">Editor della configurazione</string>
     <string name="utils_loader">Caricamento...</string>
     <string name="utils_copy_success">Testo copiato</string>
     <!-- Navigation -->
     <string name="menu_home">Menu Principale</string>
     <string name="menu_proxy">Proxy LAN</string>
     <string name="menu_geyser">Geyser</string>
-    <string name="menu_links">Link</string>
     <string name="menu_website">Sito Web</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
