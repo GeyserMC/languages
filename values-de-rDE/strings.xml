@@ -3,14 +3,12 @@
     <string name="action_settings">Einstellungen</string>
     <string name="action_about">Über</string>
     <string name="action_config_help">Hilfe</string>
-    <string name="action_config_editor">Config Editor</string>
     <string name="utils_loader">Lädt...</string>
     <string name="utils_copy_success">Copied Text</string>
     <!-- Navigation -->
     <string name="menu_home">Home</string>
     <string name="menu_proxy">Lan Proxy</string>
     <string name="menu_geyser">Geyser</string>
-    <string name="menu_links">Links</string>
     <string name="menu_website">Webseite</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
@@ -73,7 +71,7 @@
     <string name="user_auths_save_failed">Konnte Benutzerauthentifizierungen nicht Speichern!</string>
     <string name="user_auths_save_discard">Verwerfen</string>
     <string name="user_auths_delete_dialog_title">Benutzerauthentifizierung</string>
-    <string name="user_auths_delete_dialog_message">Are you sure you\'d like to delete the selected entry?</string>
+    <string name="user_auths_delete_dialog_message">Bist du sicher, dass du den ausgewählten Eintrag löschen möchtest?</string>
     <string name="user_auths_delete_dialog_positive">Löschen</string>
     <!-- User Auth Dialog -->
     <string name="user_auth_dialog_title">Benutzerauthentifizierung</string>
