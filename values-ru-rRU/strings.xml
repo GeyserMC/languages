@@ -24,9 +24,9 @@
     <string name="proxy_logs">Логи</string>
     <string name="proxy_background_notification">LAN-Прокси работает в фоновом режиме!</string>
     <string name="proxy_geyser_running_warn">Уже запущен Geyser, пожалуйста, остановите его во вкладке Geyser -&gt; Стоп, чтобы использовать LAN прокси!</string>
-    <string name="proxy_started">Server started on %s</string>
-    <string name="proxy_shutdown">Shutting down!</string>
-    <string name="proxy_shutdown_done">Successfully shutdown!</string>
+    <string name="proxy_started">Сервер запущен по адресу %s</string>
+    <string name="proxy_shutdown">Выключение!</string>
+    <string name="proxy_shutdown_done">Успешно выключено!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">Конфиг</string>
     <string name="geyser_start">Запуск</string>
