@@ -3,14 +3,12 @@
     <string name="action_settings">设置</string>
     <string name="action_about">关于</string>
     <string name="action_config_help">帮助</string>
-    <string name="action_config_editor">编辑配置文件</string>
     <string name="utils_loader">加载中...</string>
     <string name="utils_copy_success">复制的文字</string>
     <!-- Navigation -->
     <string name="menu_home">主页面</string>
     <string name="menu_proxy">LAN 代理</string>
     <string name="menu_geyser">Geyser</string>
-    <string name="menu_links">链接</string>
     <string name="menu_website">网站</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
@@ -25,6 +23,7 @@
     <string name="proxy_stop">停止</string>
     <string name="proxy_logs">日志</string>
     <string name="proxy_background_notification">LAN 代理正在后台运行！</string>
+    <string name="proxy_geyser_running_warn">Geyser is already running, please stop it in Geyser -&gt; Stop in order to use LAN Proxy!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">设置</string>
     <string name="geyser_start">启动</string>
@@ -35,6 +34,7 @@
     <string name="geyser_not_running">Geyser 当前未运行！</string>
     <string name="geyser_background_notification">Geyser 正在后台运行！</string>
     <string name="geyser_command_failed">运行命令失败！</string>
+    <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -&gt; Stop in order to use Geyser!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">保存</string>
     <string name="config_editor_save_message">您要保存配置吗？</string>
