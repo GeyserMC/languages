@@ -4,7 +4,7 @@
     <string name="action_about">Über</string>
     <string name="action_config_help">Hilfe</string>
     <string name="utils_loader">Lädt...</string>
-    <string name="utils_copy_success">Copied Text</string>
+    <string name="utils_copy_success">Text Kopiert</string>
     <!-- Navigation -->
     <string name="menu_home">Home</string>
     <string name="menu_proxy">Lan Proxy</string>
