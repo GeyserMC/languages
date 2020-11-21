@@ -3,14 +3,12 @@
     <string name="action_settings">Nastavení</string>
     <string name="action_about">O</string>
     <string name="action_config_help">Pomoc</string>
-    <string name="action_config_editor">Editor nastavení</string>
     <string name="utils_loader">Načítání...</string>
     <string name="utils_copy_success">Text zkopírován</string>
     <!-- Navigation -->
     <string name="menu_home">Domov</string>
     <string name="menu_proxy">LAN Proxy</string>
     <string name="menu_geyser">Geyser</string>
-    <string name="menu_links">Linky</string>
     <string name="menu_website">Webová stránka</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
@@ -33,14 +31,14 @@
     <string name="geyser_logs">Záznam</string>
     <string name="geyser_command">Příkaz</string>
     <string name="geyser_not_running">Geyser momentálně neběží!</string>
-    <string name="geyser_background_notification">Geyser is running in the background!</string>
-    <string name="geyser_command_failed">Failed to run command!</string>
+    <string name="geyser_background_notification">Geyser běží v pozadí!</string>
+    <string name="geyser_command_failed">Nepodařilo se spustit příkaz!</string>
     <!-- Config Editors -->
-    <string name="config_editor_save_title">Save</string>
-    <string name="config_editor_save_message">Do you wish to save the config?</string>
-    <string name="config_editor_save_save">Save</string>
-    <string name="config_editor_save_failed">Unable to write config!</string>
-    <string name="config_editor_save_discard">Discard</string>
+    <string name="config_editor_save_title">Uložit</string>
+    <string name="config_editor_save_message">Chcete uložit configuraci?</string>
+    <string name="config_editor_save_save">Uložit</string>
+    <string name="config_editor_save_failed">Nepodařilo se zapsat configuraci!</string>
+    <string name="config_editor_save_discard">Neuložit</string>
     <string name="config_editor_config_missing">Unable to locate config, please start the server first!</string>
     <string name="config_editor_failed_title">Config failed to load</string>
     <string name="config_editor_failed_message">The config failed to load, please reset it manually!</string>
