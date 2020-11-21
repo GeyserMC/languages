@@ -3,14 +3,12 @@
     <string name="action_settings">Paramètres</string>
     <string name="action_about">À propos</string>
     <string name="action_config_help">Aide</string>
-    <string name="action_config_editor">Éditeur de configuration</string>
     <string name="utils_loader">Chargement...</string>
     <string name="utils_copy_success">Texte copié</string>
     <!-- Navigation -->
     <string name="menu_home">Accueil</string>
     <string name="menu_proxy">Proxy LAN</string>
     <string name="menu_geyser">Geyser</string>
-    <string name="menu_links">Liens</string>
     <string name="menu_website">Site internet</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
@@ -25,6 +23,7 @@
     <string name="proxy_stop">Arrêter</string>
     <string name="proxy_logs">Logs</string>
     <string name="proxy_background_notification">Le proxy LAN est en cours d’exécution en arrière plan !</string>
+    <string name="proxy_geyser_running_warn">Geyser is already running, please stop it in Geyser -&gt; Stop in order to use LAN Proxy!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">Configuration</string>
     <string name="geyser_start">Exécuter</string>
@@ -35,6 +34,7 @@
     <string name="geyser_not_running">Geyser n\'est pas en cours d\'exécution !</string>
     <string name="geyser_background_notification">Geyser est en cours d’exécution en arrière plan !</string>
     <string name="geyser_command_failed">Échec de l\'exécution de la commande !</string>
+    <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -&gt; Stop in order to use Geyser!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Enregistrer</string>
     <string name="config_editor_save_message">Souhaitez-vous sauvegarder la configuration ?</string>
