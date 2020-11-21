@@ -3,14 +3,12 @@
     <string name="action_settings">設定</string>
     <string name="action_about">その他</string>
     <string name="action_config_help">ヘルプ</string>
-    <string name="action_config_editor">設定エディター</string>
     <string name="utils_loader">読み込んでいます...</string>
     <string name="utils_copy_success">コピーされたテキスト</string>
     <!-- Navigation -->
     <string name="menu_home">ホーム</string>
     <string name="menu_proxy">LAN プロキシ</string>
     <string name="menu_geyser">Geyser</string>
-    <string name="menu_links">リンク</string>
     <string name="menu_website">ウェブサイト</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
