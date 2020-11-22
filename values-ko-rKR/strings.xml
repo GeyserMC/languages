@@ -23,10 +23,10 @@
     <string name="proxy_stop">중지</string>
     <string name="proxy_logs">로그</string>
     <string name="proxy_background_notification">LAN 프록시가 백그라운드에서 구동되고 있습니다!</string>
-    <string name="proxy_geyser_running_warn">Geyser is already running, please stop it in Geyser -&gt; Stop in order to use LAN Proxy!</string>
-    <string name="proxy_started">Server started on %s</string>
-    <string name="proxy_shutdown">Shutting down!</string>
-    <string name="proxy_shutdown_done">Successfully shutdown!</string>
+    <string name="proxy_geyser_running_warn">Geyser이 구동중입니다, LAN 프록시를 사용하려면 Geyser를 종료해 주세요!</string>
+    <string name="proxy_started">서버가 %s에 시작되었습니다</string>
+    <string name="proxy_shutdown">종료하는 중입니다!</string>
+    <string name="proxy_shutdown_done">성공적으로 종료했습니다!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">설정</string>
     <string name="geyser_start">시작</string>
@@ -37,7 +37,7 @@
     <string name="geyser_not_running">Geyser이 구동되지 않았습니다!</string>
     <string name="geyser_background_notification">Geyser이 백그라운드에서 구동되고 있습니다!</string>
     <string name="geyser_command_failed">명령어 실행을 실패했습니다!</string>
-    <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -&gt; Stop in order to use Geyser!</string>
+    <string name="geyser_proxy_running_warn">LAN 프록시가 구동중입니다, Geyser를 사용하려면 LAN 프록시를 종료해 주세요!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">저장</string>
     <string name="config_editor_save_message">설정을 저장하시겠습니까?</string>
