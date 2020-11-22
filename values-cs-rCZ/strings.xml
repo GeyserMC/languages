@@ -23,10 +23,10 @@
     <string name="proxy_stop">Stop</string>
     <string name="proxy_logs">Záznam</string>
     <string name="proxy_background_notification">LAN Proxy běží v pozadí!</string>
-    <string name="proxy_geyser_running_warn">Geyser is already running, please stop it in Geyser -&gt; Stop in order to use LAN Proxy!</string>
-    <string name="proxy_started">Server started on %s</string>
-    <string name="proxy_shutdown">Shutting down!</string>
-    <string name="proxy_shutdown_done">Successfully shutdown!</string>
+    <string name="proxy_geyser_running_warn">Geyser už běží, zastavte to v Geyser -&gt; Zastavte aby jste mohly používat LAN Proxy!</string>
+    <string name="proxy_started">Server začal na %s</string>
+    <string name="proxy_shutdown">Vypínání!</string>
+    <string name="proxy_shutdown_done">Uspěšně vypnuto!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">Configurace</string>
     <string name="geyser_start">Start</string>
@@ -37,7 +37,7 @@
     <string name="geyser_not_running">Geyser momentálně neběží!</string>
     <string name="geyser_background_notification">Geyser běží v pozadí!</string>
     <string name="geyser_command_failed">Nepodařilo se spustit příkaz!</string>
-    <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -&gt; Stop in order to use Geyser!</string>
+    <string name="geyser_proxy_running_warn">LAN Proxy už běží, zastavte to v Proxy -&gt; Zastavte aby jste mohly používat Geyser!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Uložit</string>
     <string name="config_editor_save_message">Chcete uložit configuraci?</string>
@@ -77,11 +77,11 @@
     <string name="user_auths_save_discard">Discard</string>
     <string name="user_auths_delete_dialog_title">User Auth</string>
     <string name="user_auths_delete_dialog_message">Are you sure you\'d like to delete the selected entry?</string>
-    <string name="user_auths_delete_dialog_positive">Delete</string>
+    <string name="user_auths_delete_dialog_positive">Smazat</string>
     <!-- User Auth Dialog -->
-    <string name="user_auth_dialog_title">User Auth</string>
-    <string name="user_auth_dialog_positive">Save</string>
-    <string name="user_auth_dialog_negative">Cancel</string>
+    <string name="user_auth_dialog_title">Přihlášení</string>
+    <string name="user_auth_dialog_positive">Uložit</string>
+    <string name="user_auth_dialog_negative">Zrušit</string>
     <string name="user_auth_dialog_xbox_username">Xbox Username</string>
     <string name="user_auth_dialog_java_username">Java Email</string>
     <string name="user_auth_dialog_java_password">Java Password</string>
