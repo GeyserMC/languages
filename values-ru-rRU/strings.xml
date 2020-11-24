@@ -45,8 +45,8 @@
     <string name="config_editor_save_failed">Не удалось записать конфиг!</string>
     <string name="config_editor_save_discard">Не сохранять</string>
     <string name="config_editor_config_missing">Не удалось найти конфиг, пожалуйста сначала запустите сервер!</string>
-    <string name="config_editor_failed_title">Config failed to load</string>
-    <string name="config_editor_failed_message">The config failed to load, please reset it manually!</string>
+    <string name="config_editor_failed_title">Не удалось загрузить конфиг</string>
+    <string name="config_editor_failed_message">Не удалось загрузить конфиг, пожалуйста, сбросьте его вручную!</string>
     <!-- Simple Config Editor -->
     <string name="config_editor_simple_title">Простой редаетор конфига</string>
     <string name="config_editor_simple_address">Адрес</string>
@@ -60,7 +60,7 @@
     <string name="config_editor_advanced_title">Продвинутый редактор конфига</string>
     <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
-    <string name="config_editor_advanced_section_remote">Remote</string>
+    <string name="config_editor_advanced_section_remote">Удаленно</string>
     <string name="config_editor_advanced_section_advanced">Продвинутый редактор</string>
     <string name="config_editor_advanced_section_metrics">Метрика</string>
     <!-- User Auths Editor -->
