@@ -16,13 +16,13 @@
     <string name="home_join_be">Join a Bedrock server</string>
     <string name="home_join_je">Join a Java server</string>
     <!-- Proxy Screen -->
-    <string name="proxy_address">Address</string>
-    <string name="proxy_port">Port</string>
+    <string name="proxy_address">Adres</string>
+    <string name="proxy_port">Poort</string>
     <string name="proxy_start">Start</string>
-    <string name="proxy_starting">Starting</string>
+    <string name="proxy_starting">Starten</string>
     <string name="proxy_stop">Stop</string>
     <string name="proxy_logs">Logs</string>
-    <string name="proxy_background_notification">LAN Proxy is running in the background!</string>
+    <string name="proxy_background_notification">LAN Proxy is draaiende op de achtergrond!</string>
     <string name="proxy_geyser_running_warn">Geyser is already running, please stop it in Geyser -&gt; Stop in order to use LAN Proxy!</string>
     <string name="proxy_started">Server started on %s</string>
     <string name="proxy_shutdown">Shutting down!</string>
