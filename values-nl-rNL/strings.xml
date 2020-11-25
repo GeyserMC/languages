@@ -24,11 +24,11 @@
     <string name="proxy_logs">Logs</string>
     <string name="proxy_background_notification">LAN Proxy is draaiende op de achtergrond!</string>
     <string name="proxy_geyser_running_warn">Geyser is already running, please stop it in Geyser -&gt; Stop in order to use LAN Proxy!</string>
-    <string name="proxy_started">Server started on %s</string>
-    <string name="proxy_shutdown">Shutting down!</string>
-    <string name="proxy_shutdown_done">Successfully shutdown!</string>
+    <string name="proxy_started">Server is gestart op %s</string>
+    <string name="proxy_shutdown">Afsluiten!</string>
+    <string name="proxy_shutdown_done">Succesvol afgesloten!</string>
     <!-- Geyser Screen -->
-    <string name="geyser_config">Config</string>
+    <string name="geyser_config">Configuratie</string>
     <string name="geyser_start">Start</string>
     <string name="geyser_starting">Starting</string>
     <string name="geyser_stop">Stop</string>
