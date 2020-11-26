@@ -13,8 +13,8 @@
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
     <string name="home_desc">Geyser Android is een Android versie van Geyser inclusief een omleiding proxy.</string>
-    <string name="home_join_be">Join a Bedrock server</string>
-    <string name="home_join_je">Join a Java server</string>
+    <string name="home_join_be">Verbind met een bedrock server</string>
+    <string name="home_join_je">Verbind met een Java server</string>
     <!-- Proxy Screen -->
     <string name="proxy_address">Adres</string>
     <string name="proxy_port">Poort</string>
@@ -23,7 +23,7 @@
     <string name="proxy_stop">Stop</string>
     <string name="proxy_logs">Logs</string>
     <string name="proxy_background_notification">LAN Proxy is draaiende op de achtergrond!</string>
-    <string name="proxy_geyser_running_warn">Geyser is already running, please stop it in Geyser -&gt; Stop in order to use LAN Proxy!</string>
+    <string name="proxy_geyser_running_warn">Geyser draait al, stop het in Geyser -&gt; Stop om LAN Proxy te gebruiken!</string>
     <string name="proxy_started">Server is gestart op %s</string>
     <string name="proxy_shutdown">Afsluiten!</string>
     <string name="proxy_shutdown_done">Succesvol afgesloten!</string>
@@ -37,7 +37,7 @@
     <string name="geyser_not_running">Geyser draait voorlopig nog niet!</string>
     <string name="geyser_background_notification">Geyser draait op de achtergrond!</string>
     <string name="geyser_command_failed">Kon opdracht niet uitvoeren!</string>
-    <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -&gt; Stop in order to use Geyser!</string>
+    <string name="geyser_proxy_running_warn">LAN-proxy is al actief, stop deze in Proxy -&gt; Stop om Geyser te gebruiken!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Opslaan</string>
     <string name="config_editor_save_message">Wil je de configuratie opslaan?</string>
@@ -65,12 +65,12 @@
     <string name="config_editor_advanced_section_metrics">Statistieken</string>
     <!-- User Auths Editor -->
     <string name="user_auths_title">Gebruiker Auth</string>
-    <string name="user_auths_exists_title">User Auths</string>
+    <string name="user_auths_exists_title">Gebruiker Auths</string>
     <string name="user_auths_exists_message">Er bestaat al een gebruiker auth voor die Xbox gebruikersnaam</string>
     <string name="user_auths_new">Nieuwe Gebruiker Auth</string>
     <string name="user_auths_failed_title">Gebruiker auths kunnen niet worden geladen</string>
-    <string name="user_auths_failed_message">The user auths failed to load, please reset them manually!</string>
-    <string name="user_auths_save_title">Save</string>
+    <string name="user_auths_failed_message">De gebruiker auth is niet geladen, reset ze handmatig!</string>
+    <string name="user_auths_save_title">Opslaan</string>
     <string name="user_auths_save_message">Wilt u de gebruiker auths opslaan?</string>
     <string name="user_auths_save_save">Opslaan</string>
     <string name="user_auths_save_failed">Kan gebruiker auths niet opslaan!</string>
