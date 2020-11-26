@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_settings">Instellingen</string>
-    <string name="action_about">About</string>
+    <string name="action_about">Over</string>
     <string name="action_config_help">Help</string>
     <string name="utils_loader">Loading...</string>
     <string name="utils_copy_success">Tekst Gekopieerd</string>
@@ -33,16 +33,16 @@
     <string name="geyser_starting">Starting</string>
     <string name="geyser_stop">Stop</string>
     <string name="geyser_logs">Logs</string>
-    <string name="geyser_command">Command</string>
-    <string name="geyser_not_running">Geyser is not currently running!</string>
+    <string name="geyser_command">Opdracht</string>
+    <string name="geyser_not_running">Geyser draait voorlopig nog niet!</string>
     <string name="geyser_background_notification">Geyser is running in the background!</string>
-    <string name="geyser_command_failed">Failed to run command!</string>
+    <string name="geyser_command_failed">Kon opdracht niet uitvoeren!</string>
     <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -&gt; Stop in order to use Geyser!</string>
     <!-- Config Editors -->
-    <string name="config_editor_save_title">Save</string>
-    <string name="config_editor_save_message">Do you wish to save the config?</string>
+    <string name="config_editor_save_title">Opslaan</string>
+    <string name="config_editor_save_message">Wil je de configuratie opslaan?</string>
     <string name="config_editor_save_save">Save</string>
-    <string name="config_editor_save_failed">Unable to write config!</string>
+    <string name="config_editor_save_failed">Kan configuratie niet schrijven!</string>
     <string name="config_editor_save_discard">Discard</string>
     <string name="config_editor_config_missing">Unable to locate config, please start the server first!</string>
     <string name="config_editor_failed_title">Config failed to load</string>
