@@ -75,7 +75,7 @@
     <string name="user_auths_save_save">Opslaan</string>
     <string name="user_auths_save_failed">Kan gebruiker auths niet opslaan!</string>
     <string name="user_auths_save_discard">Weggooien</string>
-    <string name="user_auths_delete_dialog_title">User Auth</string>
+    <string name="user_auths_delete_dialog_title">Gebruiker Auth</string>
     <string name="user_auths_delete_dialog_message">Weet u zeker dat u het geselecteerde item wilt verwijderen?</string>
     <string name="user_auths_delete_dialog_positive">Verwijder</string>
     <!-- User Auth Dialog -->
