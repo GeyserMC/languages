@@ -3,7 +3,7 @@
     <string name="action_settings">Instellingen</string>
     <string name="action_about">Over</string>
     <string name="action_config_help">Help</string>
-    <string name="utils_loader">Loading...</string>
+    <string name="utils_loader">Laden...</string>
     <string name="utils_copy_success">Tekst Gekopieerd</string>
     <!-- Navigation -->
     <string name="menu_home">Home</string>
@@ -30,7 +30,7 @@
     <!-- Geyser Screen -->
     <string name="geyser_config">Configuratie</string>
     <string name="geyser_start">Start</string>
-    <string name="geyser_starting">Starting</string>
+    <string name="geyser_starting">Starten</string>
     <string name="geyser_stop">Stop</string>
     <string name="geyser_logs">Logs</string>
     <string name="geyser_command">Opdracht</string>
@@ -43,41 +43,41 @@
     <string name="config_editor_save_message">Wil je de configuratie opslaan?</string>
     <string name="config_editor_save_save">Save</string>
     <string name="config_editor_save_failed">Kan configuratie niet schrijven!</string>
-    <string name="config_editor_save_discard">Discard</string>
-    <string name="config_editor_config_missing">Unable to locate config, please start the server first!</string>
-    <string name="config_editor_failed_title">Config failed to load</string>
-    <string name="config_editor_failed_message">The config failed to load, please reset it manually!</string>
+    <string name="config_editor_save_discard">Weggooien</string>
+    <string name="config_editor_config_missing">Kon configuratie niet vinden, Alstublieft start eerst de server!</string>
+    <string name="config_editor_failed_title">Kon Configuratie niet laden</string>
+    <string name="config_editor_failed_message">Kan configuratie niet laden, alstublieft reset het manueel!</string>
     <!-- Simple Config Editor -->
-    <string name="config_editor_simple_title">Simple Config Editor</string>
-    <string name="config_editor_simple_address">Address</string>
-    <string name="config_editor_simple_port">Port</string>
+    <string name="config_editor_simple_title">Eenvoudige configuratie editor</string>
+    <string name="config_editor_simple_address">Adres</string>
+    <string name="config_editor_simple_port">Poort</string>
     <string name="config_editor_simple_auth_type">Auth Type</string>
-    <string name="config_editor_simple_advanced">Advanced</string>
-    <string name="config_editor_simple_user_auths">User Auths</string>
+    <string name="config_editor_simple_advanced">Geavanceerd</string>
+    <string name="config_editor_simple_user_auths">Gebruikers Auths</string>
     <string name="config_editor_simple_generate_failed_title">Config failed to generate</string>
-    <string name="config_editor_simple_generate_failed_message">The config failed to generate, please reset it via the settings!</string>
+    <string name="config_editor_simple_generate_failed_message">Kon de configuratie niet genereren, alstublieft reset het via de instellingen!</string>
     <!-- Advanced Config Editor -->
-    <string name="config_editor_advanced_title">Advanced Config Editor</string>
-    <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
+    <string name="config_editor_advanced_title">Geavanceerde configuratie editor</string>
+    <string name="config_editor_advanced_user_auth_desc">Klik om de gebruikers auths te wijzigen</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
-    <string name="config_editor_advanced_section_remote">Remote</string>
-    <string name="config_editor_advanced_section_advanced">Advanced</string>
-    <string name="config_editor_advanced_section_metrics">Metrics</string>
+    <string name="config_editor_advanced_section_remote">Externe</string>
+    <string name="config_editor_advanced_section_advanced">Geavanceerd</string>
+    <string name="config_editor_advanced_section_metrics">Statistieken</string>
     <!-- User Auths Editor -->
-    <string name="user_auths_title">User Auths</string>
+    <string name="user_auths_title">Gebruikers auths</string>
     <string name="user_auths_exists_title">User Auths</string>
-    <string name="user_auths_exists_message">User auth already exists for that Xbox username</string>
-    <string name="user_auths_new">New User Auth</string>
-    <string name="user_auths_failed_title">User Auths failed to load</string>
+    <string name="user_auths_exists_message">Er bestaat al gebruikers auth voor die Xbox-gebruikersnaam</string>
+    <string name="user_auths_new">Nieuwe gebruikers auth</string>
+    <string name="user_auths_failed_title">Gebruikers auth kunnen niet worden geladen</string>
     <string name="user_auths_failed_message">The user auths failed to load, please reset them manually!</string>
     <string name="user_auths_save_title">Save</string>
-    <string name="user_auths_save_message">Do you wish to save the user auths?</string>
-    <string name="user_auths_save_save">Save</string>
-    <string name="user_auths_save_failed">Unable to save user auths!</string>
-    <string name="user_auths_save_discard">Discard</string>
+    <string name="user_auths_save_message">Wilt u de gebruikers auth opslaan?</string>
+    <string name="user_auths_save_save">Opslaan</string>
+    <string name="user_auths_save_failed">Kan gebruikers auth niet opslaan!</string>
+    <string name="user_auths_save_discard">Weggooien</string>
     <string name="user_auths_delete_dialog_title">User Auth</string>
-    <string name="user_auths_delete_dialog_message">Are you sure you\'d like to delete the selected entry?</string>
-    <string name="user_auths_delete_dialog_positive">Delete</string>
+    <string name="user_auths_delete_dialog_message">Weet u zeker dat u het geselecteerde item wilt verwijderen?</string>
+    <string name="user_auths_delete_dialog_positive">Verwijder</string>
     <!-- User Auth Dialog -->
     <string name="user_auth_dialog_title">User Auth</string>
     <string name="user_auth_dialog_positive">Save</string>
