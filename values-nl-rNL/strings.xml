@@ -58,28 +58,28 @@
     <string name="config_editor_simple_generate_failed_message">Kon de configuratie niet genereren, alstublieft reset het via de instellingen!</string>
     <!-- Advanced Config Editor -->
     <string name="config_editor_advanced_title">Geavanceerde configuratie editor</string>
-    <string name="config_editor_advanced_user_auth_desc">Klik om gebruiker auth te bewerken</string>
+    <string name="config_editor_advanced_user_auth_desc">Klik om gebruikers authenticatie te bewerken</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">Externe</string>
     <string name="config_editor_advanced_section_advanced">Geavanceerd</string>
     <string name="config_editor_advanced_section_metrics">Statistieken</string>
     <!-- User Auths Editor -->
-    <string name="user_auths_title">Gebruiker Auth</string>
-    <string name="user_auths_exists_title">Gebruiker Auths</string>
-    <string name="user_auths_exists_message">Er bestaat al een gebruiker auth voor die Xbox gebruikersnaam</string>
-    <string name="user_auths_new">Nieuwe Gebruiker Auth</string>
-    <string name="user_auths_failed_title">Gebruiker auths kunnen niet worden geladen</string>
-    <string name="user_auths_failed_message">De gebruiker auth is niet geladen, reset ze handmatig!</string>
+    <string name="user_auths_title">Gebruikersauthenticatie</string>
+    <string name="user_auths_exists_title">Gebruikersauthenticatie</string>
+    <string name="user_auths_exists_message">Er bestaat al een gebruikersauthenticatie voor die Xbox gebruikersnaam</string>
+    <string name="user_auths_new">Nieuwe gebruikersauthenticatie</string>
+    <string name="user_auths_failed_title">Gebruikersauthenticatie kon niet worden geladen</string>
+    <string name="user_auths_failed_message">De gebruikersauthenticatie kon niet worden geladen, reset ze handmatig!</string>
     <string name="user_auths_save_title">Opslaan</string>
-    <string name="user_auths_save_message">Wilt u de gebruiker auths opslaan?</string>
+    <string name="user_auths_save_message">Wilt u de gebruikersauthenticatie opslaan?</string>
     <string name="user_auths_save_save">Opslaan</string>
-    <string name="user_auths_save_failed">Kan gebruiker auths niet opslaan!</string>
+    <string name="user_auths_save_failed">Kan gebruikersauthenticatie niet opslaan!</string>
     <string name="user_auths_save_discard">Weggooien</string>
-    <string name="user_auths_delete_dialog_title">Gebruiker Auth</string>
+    <string name="user_auths_delete_dialog_title">Gebruikersauthenticatie</string>
     <string name="user_auths_delete_dialog_message">Weet u zeker dat u het geselecteerde item wilt verwijderen?</string>
     <string name="user_auths_delete_dialog_positive">Verwijder</string>
     <!-- User Auth Dialog -->
-    <string name="user_auth_dialog_title">Gebruiker auth</string>
+    <string name="user_auth_dialog_title">Gebruikersauthenticatie</string>
     <string name="user_auth_dialog_positive">Opslaan</string>
     <string name="user_auth_dialog_negative">Annuleren</string>
     <string name="user_auth_dialog_xbox_username">Xbox gebruikersnaam</string>
