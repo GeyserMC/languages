@@ -62,35 +62,35 @@
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">Vzdálený</string>
     <string name="config_editor_advanced_section_advanced">Pokročilé</string>
-    <string name="config_editor_advanced_section_metrics">Metrics</string>
+    <string name="config_editor_advanced_section_metrics">Data o využití</string>
     <!-- User Auths Editor -->
     <string name="user_auths_title">Přihlašovací ůdaje</string>
     <string name="user_auths_exists_title">Přihlašovací ůdaje</string>
-    <string name="user_auths_exists_message">User auth already exists for that Xbox username</string>
-    <string name="user_auths_new">New User Auth</string>
-    <string name="user_auths_failed_title">User Auths failed to load</string>
-    <string name="user_auths_failed_message">The user auths failed to load, please reset them manually!</string>
+    <string name="user_auths_exists_message">Přihlašovací údaj s tímto Xbox jménem již existuje</string>
+    <string name="user_auths_new">Nový přihlašovací údaj</string>
+    <string name="user_auths_failed_title">Nepovedlo se načíst přihlašovací údaje</string>
+    <string name="user_auths_failed_message">Nepovedlo se načíst přihlašovací údaje, zkuste je resetovat ručně!</string>
     <string name="user_auths_save_title">Uložit</string>
-    <string name="user_auths_save_message">Do you wish to save the user auths?</string>
+    <string name="user_auths_save_message">Přejete si uložit přihlašovací údaje?</string>
     <string name="user_auths_save_save">Uložit</string>
-    <string name="user_auths_save_failed">Unable to save user auths!</string>
-    <string name="user_auths_save_discard">Discard</string>
-    <string name="user_auths_delete_dialog_title">User Auth</string>
-    <string name="user_auths_delete_dialog_message">Are you sure you\'d like to delete the selected entry?</string>
+    <string name="user_auths_save_failed">Nelze načíst přihlašovací údaje!</string>
+    <string name="user_auths_save_discard">Zahodit</string>
+    <string name="user_auths_delete_dialog_title">Přihlašovací ůdaj</string>
+    <string name="user_auths_delete_dialog_message">Jste si jistý že chcete smazat vybranou položku?</string>
     <string name="user_auths_delete_dialog_positive">Smazat</string>
     <!-- User Auth Dialog -->
     <string name="user_auth_dialog_title">Přihlašovací ůdaj</string>
     <string name="user_auth_dialog_positive">Uložit</string>
     <string name="user_auth_dialog_negative">Zrušit</string>
-    <string name="user_auth_dialog_xbox_username">Xbox Username</string>
+    <string name="user_auth_dialog_xbox_username">Xbox jméno</string>
     <string name="user_auth_dialog_java_username">Java Email</string>
-    <string name="user_auth_dialog_java_password">Java Password</string>
+    <string name="user_auth_dialog_java_password">Java Heslo</string>
     <!-- About Screen -->
-    <string name="about_about_title">About</string>
-    <string name="about_links_title">Links</string>
-    <string name="about_credits_title">Credits</string>
-    <string name="about_licences_title">Licences</string>
-    <string name="about_version_copied">Copied version name to clipboard!</string>
+    <string name="about_about_title">O aplikaci</string>
+    <string name="about_links_title">Odkazy</string>
+    <string name="about_credits_title">Zásluhy</string>
+    <string name="about_licences_title">Licence</string>
+    <string name="about_version_copied">Název verze zkopírován do schránky!</string>
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
     <string name="settings_storage">Lokace Úložiště</string>
@@ -100,8 +100,8 @@
     <string name="settings_reset_config_success_title">Smazána konfigurace</string>
     <string name="settings_reset_config_success_message">Smazána konfigurace Geyseru!</string>
     <string name="settings_reset_config_failed_title">Nepodařilo se smazat</string>
-    <string name="settings_reset_config_failed_message">Failed to remove the Geyser config!</string>
-    <string name="settings_reset_config_missing_title">Missing config</string>
+    <string name="settings_reset_config_failed_message">Nepovedlo se odstranit konfiguraci Geyseru!</string>
+    <string name="settings_reset_config_missing_title">Chybějící konfigurační soubor</string>
     <string name="settings_reset_config_missing_message">The Geyser config file is missing!</string>
     <string name="settings_reset_user_auths_success_title">Deleted user auths</string>
     <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
