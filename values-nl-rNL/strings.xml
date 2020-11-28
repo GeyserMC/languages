@@ -6,14 +6,14 @@
     <string name="utils_loader">Laden...</string>
     <string name="utils_copy_success">Tekst Gekopieerd</string>
     <!-- Navigation -->
-    <string name="menu_home">Home</string>
+    <string name="menu_home">Startscherm</string>
     <string name="menu_proxy">LAN Proxy</string>
     <string name="menu_geyser">Geyser</string>
     <string name="menu_website">Website</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
     <string name="home_desc">Geyser Android is een Android versie van Geyser inclusief een omleiding proxy.</string>
-    <string name="home_join_be">Verbind met een bedrock server</string>
+    <string name="home_join_be">Verbind met een Bedrock server</string>
     <string name="home_join_je">Verbind met een Java server</string>
     <!-- Proxy Screen -->
     <string name="proxy_address">Adres</string>
@@ -22,7 +22,7 @@
     <string name="proxy_starting">Starten</string>
     <string name="proxy_stop">Stop</string>
     <string name="proxy_logs">Logs</string>
-    <string name="proxy_background_notification">LAN Proxy is draaiende op de achtergrond!</string>
+    <string name="proxy_background_notification">LAN Proxy draait op de achtergrond!</string>
     <string name="proxy_geyser_running_warn">Geyser draait al, stop het in Geyser -&gt; Stop om LAN Proxy te gebruiken!</string>
     <string name="proxy_started">Server is gestart op %s</string>
     <string name="proxy_shutdown">Afsluiten!</string>
