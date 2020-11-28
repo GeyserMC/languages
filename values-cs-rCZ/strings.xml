@@ -28,7 +28,7 @@
     <string name="proxy_shutdown">Vypínání!</string>
     <string name="proxy_shutdown_done">Uspěšně vypnuto!</string>
     <!-- Geyser Screen -->
-    <string name="geyser_config">Configurace</string>
+    <string name="geyser_config">Konfigurace</string>
     <string name="geyser_start">Start</string>
     <string name="geyser_starting">Startuji</string>
     <string name="geyser_stop">Stop</string>
@@ -40,32 +40,32 @@
     <string name="geyser_proxy_running_warn">LAN Proxy už běží, zastavte to v Proxy -&gt; Zastavte aby jste mohly používat Geyser!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Uložit</string>
-    <string name="config_editor_save_message">Chcete uložit configuraci?</string>
+    <string name="config_editor_save_message">Chcete uložit konfiguraci?</string>
     <string name="config_editor_save_save">Uložit</string>
-    <string name="config_editor_save_failed">Nepodařilo se zapsat configuraci!</string>
+    <string name="config_editor_save_failed">Nepodařilo se zapsat konfiguraci!</string>
     <string name="config_editor_save_discard">Neuložit</string>
-    <string name="config_editor_config_missing">Unable to locate config, please start the server first!</string>
-    <string name="config_editor_failed_title">Config failed to load</string>
+    <string name="config_editor_config_missing">Nebylo možno najít konfiguraci, prosím nejdřív spusťte server!</string>
+    <string name="config_editor_failed_title">Konfigurace se nepodařila načíst</string>
     <string name="config_editor_failed_message">The config failed to load, please reset it manually!</string>
     <!-- Simple Config Editor -->
     <string name="config_editor_simple_title">Simple Config Editor</string>
     <string name="config_editor_simple_address">Address</string>
     <string name="config_editor_simple_port">Port</string>
-    <string name="config_editor_simple_auth_type">Auth Type</string>
-    <string name="config_editor_simple_advanced">Advanced</string>
-    <string name="config_editor_simple_user_auths">User Auths</string>
-    <string name="config_editor_simple_generate_failed_title">Config failed to generate</string>
-    <string name="config_editor_simple_generate_failed_message">The config failed to generate, please reset it via the settings!</string>
+    <string name="config_editor_simple_auth_type">Typ přihlášení</string>
+    <string name="config_editor_simple_advanced">Pokročilé</string>
+    <string name="config_editor_simple_user_auths">Přihlášení uživatele</string>
+    <string name="config_editor_simple_generate_failed_title">Konfigurace se nepodařila vygenerovat</string>
+    <string name="config_editor_simple_generate_failed_message">Konfigurace se nepodařila vygenerovat, prosím resetujte ji v nastavení!</string>
     <!-- Advanced Config Editor -->
-    <string name="config_editor_advanced_title">Advanced Config Editor</string>
+    <string name="config_editor_advanced_title">Rozšířený Konfigurační Editor</string>
     <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
-    <string name="config_editor_advanced_section_remote">Remote</string>
-    <string name="config_editor_advanced_section_advanced">Advanced</string>
+    <string name="config_editor_advanced_section_remote">Vzdálený</string>
+    <string name="config_editor_advanced_section_advanced">Pokročilé</string>
     <string name="config_editor_advanced_section_metrics">Metrics</string>
     <!-- User Auths Editor -->
-    <string name="user_auths_title">User Auths</string>
-    <string name="user_auths_exists_title">User Auths</string>
+    <string name="user_auths_title">Přihlášení uživatele</string>
+    <string name="user_auths_exists_title">Přihlášení uživatele</string>
     <string name="user_auths_exists_message">User auth already exists for that Xbox username</string>
     <string name="user_auths_new">New User Auth</string>
     <string name="user_auths_failed_title">User Auths failed to load</string>
@@ -93,13 +93,13 @@
     <string name="about_version_copied">Copied version name to clipboard!</string>
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
-    <string name="settings_storage">Storage Location</string>
-    <string name="settings_config_editor">Config Editor</string>
-    <string name="settings_reset_config">Reset Geyser config</string>
-    <string name="settings_reset_user_auths">Reset Geyser user auths</string>
-    <string name="settings_reset_config_success_title">Deleted config</string>
-    <string name="settings_reset_config_success_message">Removed the Geyser config!</string>
-    <string name="settings_reset_config_failed_title">Deletion failed</string>
+    <string name="settings_storage">Lokace Úložiště</string>
+    <string name="settings_config_editor">Editor nastavení</string>
+    <string name="settings_reset_config">Resetovat konfiguraci Geyseru</string>
+    <string name="settings_reset_user_auths">Resetovat přihlášení uživatele</string>
+    <string name="settings_reset_config_success_title">Smazána konfigurace</string>
+    <string name="settings_reset_config_success_message">Smazána konfigurace Geyseru!</string>
+    <string name="settings_reset_config_failed_title">Nepodařilo se smazat</string>
     <string name="settings_reset_config_failed_message">Failed to remove the Geyser config!</string>
     <string name="settings_reset_config_missing_title">Missing config</string>
     <string name="settings_reset_config_missing_message">The Geyser config file is missing!</string>
@@ -107,6 +107,6 @@
     <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
     <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
     <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
-    <string name="settings_other">Other</string>
-    <string name="settings_theme">Theme</string>
+    <string name="settings_other">Ostatní</string>
+    <string name="settings_theme">Vzhled</string>
 </resources>
