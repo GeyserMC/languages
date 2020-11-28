@@ -43,13 +43,13 @@
     <string name="config_editor_save_message">Chcete uložit konfiguraci?</string>
     <string name="config_editor_save_save">Uložit</string>
     <string name="config_editor_save_failed">Nepodařilo se zapsat konfiguraci!</string>
-    <string name="config_editor_save_discard">Neuložit</string>
+    <string name="config_editor_save_discard">Zahodit</string>
     <string name="config_editor_config_missing">Nebylo možno najít konfiguraci, prosím nejdřív spusťte server!</string>
-    <string name="config_editor_failed_title">Konfigurace se nepodařila načíst</string>
-    <string name="config_editor_failed_message">The config failed to load, please reset it manually!</string>
+    <string name="config_editor_failed_title">Konfiguraci se nepodařilo načíst</string>
+    <string name="config_editor_failed_message">Nepovedlo se načíst konfiguraci, zkuste ji resetovat ručně!</string>
     <!-- Simple Config Editor -->
-    <string name="config_editor_simple_title">Simple Config Editor</string>
-    <string name="config_editor_simple_address">Address</string>
+    <string name="config_editor_simple_title">Jednoduchý editor konfigurace</string>
+    <string name="config_editor_simple_address">Adresa</string>
     <string name="config_editor_simple_port">Port</string>
     <string name="config_editor_simple_auth_type">Typ přihlášení</string>
     <string name="config_editor_simple_advanced">Pokročilé</string>
@@ -58,7 +58,7 @@
     <string name="config_editor_simple_generate_failed_message">Konfigurace se nepodařila vygenerovat, prosím resetujte ji v nastavení!</string>
     <!-- Advanced Config Editor -->
     <string name="config_editor_advanced_title">Rozšířený Konfigurační Editor</string>
-    <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
+    <string name="config_editor_advanced_user_auth_desc">Klikněte pro upravení uživatelských údajů</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">Vzdálený</string>
     <string name="config_editor_advanced_section_advanced">Pokročilé</string>
