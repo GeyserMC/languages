@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_settings">Nastavení</string>
-    <string name="action_about">O</string>
+    <string name="action_about">O aplikaci</string>
     <string name="action_config_help">Pomoc</string>
     <string name="utils_loader">Načítání...</string>
     <string name="utils_copy_success">Text zkopírován</string>
     <!-- Navigation -->
-    <string name="menu_home">Domov</string>
+    <string name="menu_home">Domovská stránka</string>
     <string name="menu_proxy">LAN Proxy</string>
     <string name="menu_geyser">Geyser</string>
     <string name="menu_website">Webová stránka</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
-    <string name="home_desc">Geyser Android je android verze Geyseru obsahující proxy k připojení do serveru.</string>
+    <string name="home_desc">Geyser Android je android verze Geyseru obsahující proxy na přesměrování serveru.</string>
     <string name="home_join_be">Připojit k Bedrock serveru</string>
     <string name="home_join_je">Připojit k Java serveru</string>
     <!-- Proxy Screen -->
@@ -20,10 +20,10 @@
     <string name="proxy_port">Port</string>
     <string name="proxy_start">Start</string>
     <string name="proxy_starting">Startuji</string>
-    <string name="proxy_stop">Stop</string>
+    <string name="proxy_stop">Zastavit</string>
     <string name="proxy_logs">Záznam</string>
     <string name="proxy_background_notification">LAN Proxy běží v pozadí!</string>
-    <string name="proxy_geyser_running_warn">Geyser už běží, zastavte to v Geyser -&gt; Zastavte aby jste mohly používat LAN Proxy!</string>
+    <string name="proxy_geyser_running_warn">Geyser už běží, zastavte to v Geyser -&gt; Zastavte aby jste mohli používat LAN Proxy!</string>
     <string name="proxy_started">Server začal na %s</string>
     <string name="proxy_shutdown">Vypínání!</string>
     <string name="proxy_shutdown_done">Uspěšně vypnuto!</string>
@@ -31,7 +31,7 @@
     <string name="geyser_config">Konfigurace</string>
     <string name="geyser_start">Start</string>
     <string name="geyser_starting">Startuji</string>
-    <string name="geyser_stop">Stop</string>
+    <string name="geyser_stop">Zastavit</string>
     <string name="geyser_logs">Záznam</string>
     <string name="geyser_command">Příkaz</string>
     <string name="geyser_not_running">Geyser momentálně neběží!</string>
@@ -57,7 +57,7 @@
     <string name="config_editor_simple_generate_failed_title">Konfigurace se nepodařila vygenerovat</string>
     <string name="config_editor_simple_generate_failed_message">Konfigurace se nepodařila vygenerovat, prosím resetujte ji v nastavení!</string>
     <!-- Advanced Config Editor -->
-    <string name="config_editor_advanced_title">Rozšířený Konfigurační Editor</string>
+    <string name="config_editor_advanced_title">Rozšířený editor konfigurace</string>
     <string name="config_editor_advanced_user_auth_desc">Klikněte pro upravení přihlašovacích údajů</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">Vzdálený</string>
@@ -102,11 +102,11 @@
     <string name="settings_reset_config_failed_title">Nepodařilo se smazat</string>
     <string name="settings_reset_config_failed_message">Nepovedlo se odstranit konfiguraci Geyseru!</string>
     <string name="settings_reset_config_missing_title">Chybějící konfigurační soubor</string>
-    <string name="settings_reset_config_missing_message">The Geyser config file is missing!</string>
-    <string name="settings_reset_user_auths_success_title">Deleted user auths</string>
-    <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
-    <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
-    <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
+    <string name="settings_reset_config_missing_message">Konfigurační soubor Geyseru chybí!</string>
+    <string name="settings_reset_user_auths_success_title">Přihlašovací údaje smazány</string>
+    <string name="settings_reset_user_auths_success_message">Přihlašovací údaje jsou vymazány!</string>
+    <string name="settings_reset_user_auths_missing_title">Přihlašovací údaje chybí</string>
+    <string name="settings_reset_user_auths_missing_message">Přihlašovací údaje Geyseru chybí nebo jsou prázdné!</string>
     <string name="settings_other">Ostatní</string>
     <string name="settings_theme">Vzhled</string>
 </resources>
