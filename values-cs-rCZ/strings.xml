@@ -53,33 +53,33 @@
     <string name="config_editor_simple_port">Port</string>
     <string name="config_editor_simple_auth_type">Typ přihlášení</string>
     <string name="config_editor_simple_advanced">Pokročilé</string>
-    <string name="config_editor_simple_user_auths">Přihlášení uživatele</string>
+    <string name="config_editor_simple_user_auths">Přihlašovací ůdaje</string>
     <string name="config_editor_simple_generate_failed_title">Konfigurace se nepodařila vygenerovat</string>
     <string name="config_editor_simple_generate_failed_message">Konfigurace se nepodařila vygenerovat, prosím resetujte ji v nastavení!</string>
     <!-- Advanced Config Editor -->
     <string name="config_editor_advanced_title">Rozšířený Konfigurační Editor</string>
-    <string name="config_editor_advanced_user_auth_desc">Klikněte pro upravení uživatelských údajů</string>
+    <string name="config_editor_advanced_user_auth_desc">Klikněte pro upravení přihlašovacích údajů</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">Vzdálený</string>
     <string name="config_editor_advanced_section_advanced">Pokročilé</string>
     <string name="config_editor_advanced_section_metrics">Metrics</string>
     <!-- User Auths Editor -->
-    <string name="user_auths_title">Přihlášení uživatele</string>
-    <string name="user_auths_exists_title">Přihlášení uživatele</string>
+    <string name="user_auths_title">Přihlašovací ůdaje</string>
+    <string name="user_auths_exists_title">Přihlašovací ůdaje</string>
     <string name="user_auths_exists_message">User auth already exists for that Xbox username</string>
     <string name="user_auths_new">New User Auth</string>
     <string name="user_auths_failed_title">User Auths failed to load</string>
     <string name="user_auths_failed_message">The user auths failed to load, please reset them manually!</string>
-    <string name="user_auths_save_title">Save</string>
+    <string name="user_auths_save_title">Uložit</string>
     <string name="user_auths_save_message">Do you wish to save the user auths?</string>
-    <string name="user_auths_save_save">Save</string>
+    <string name="user_auths_save_save">Uložit</string>
     <string name="user_auths_save_failed">Unable to save user auths!</string>
     <string name="user_auths_save_discard">Discard</string>
     <string name="user_auths_delete_dialog_title">User Auth</string>
     <string name="user_auths_delete_dialog_message">Are you sure you\'d like to delete the selected entry?</string>
     <string name="user_auths_delete_dialog_positive">Smazat</string>
     <!-- User Auth Dialog -->
-    <string name="user_auth_dialog_title">Přihlášení</string>
+    <string name="user_auth_dialog_title">Přihlašovací ůdaj</string>
     <string name="user_auth_dialog_positive">Uložit</string>
     <string name="user_auth_dialog_negative">Zrušit</string>
     <string name="user_auth_dialog_xbox_username">Xbox Username</string>
@@ -96,7 +96,7 @@
     <string name="settings_storage">Lokace Úložiště</string>
     <string name="settings_config_editor">Editor nastavení</string>
     <string name="settings_reset_config">Resetovat konfiguraci Geyseru</string>
-    <string name="settings_reset_user_auths">Resetovat přihlášení uživatele</string>
+    <string name="settings_reset_user_auths">Resetovat přihlašovací ůdaje</string>
     <string name="settings_reset_config_success_title">Smazána konfigurace</string>
     <string name="settings_reset_config_success_message">Smazána konfigurace Geyseru!</string>
     <string name="settings_reset_config_failed_title">Nepodařilo se smazat</string>
