@@ -52,12 +52,12 @@
     <string name="config_editor_simple_address">Adresa</string>
     <string name="config_editor_simple_port">Port</string>
     <string name="config_editor_simple_auth_type">Typ přihlášení</string>
-    <string name="config_editor_simple_advanced">Pokročilé</string>
+    <string name="config_editor_simple_advanced">Pokročilý editor</string>
     <string name="config_editor_simple_user_auths">Přihlašovací ůdaje</string>
     <string name="config_editor_simple_generate_failed_title">Konfigurace se nepodařila vygenerovat</string>
     <string name="config_editor_simple_generate_failed_message">Konfigurace se nepodařila vygenerovat, prosím resetujte ji v nastavení!</string>
     <!-- Advanced Config Editor -->
-    <string name="config_editor_advanced_title">Rozšířený editor konfigurace</string>
+    <string name="config_editor_advanced_title">Pokročilý editor konfigurace</string>
     <string name="config_editor_advanced_user_auth_desc">Klikněte pro upravení přihlašovacích údajů</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">Vzdálený</string>
