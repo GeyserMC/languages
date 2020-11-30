@@ -45,15 +45,15 @@
     <string name="config_editor_save_failed">Niet in staat om de configuratie te schrijven!</string>
     <string name="config_editor_save_discard">Weggooien</string>
     <string name="config_editor_config_missing">Kon de configuratie niet vinden, alstublieft start eerst de server!</string>
-    <string name="config_editor_failed_title">Kon Configuratie niet laden</string>
-    <string name="config_editor_failed_message">Kan configuratie niet laden, alstublieft reset het manueel!</string>
+    <string name="config_editor_failed_title">Configuratie mislukt om te laden</string>
+    <string name="config_editor_failed_message">Kan configuratie niet laden, reset alstublieft het manueel!</string>
     <!-- Simple Config Editor -->
-    <string name="config_editor_simple_title">Eenvoudige configuratie editor</string>
+    <string name="config_editor_simple_title">Eenvoudige configuratie bewerker</string>
     <string name="config_editor_simple_address">Adres</string>
     <string name="config_editor_simple_port">Poort</string>
     <string name="config_editor_simple_auth_type">Auth Type</string>
     <string name="config_editor_simple_advanced">Geavanceerd</string>
-    <string name="config_editor_simple_user_auths">Gebruiker auth</string>
+    <string name="config_editor_simple_user_auths">Gebruikers auth</string>
     <string name="config_editor_simple_generate_failed_title">Configuratie kan niet worden gegenereerd</string>
     <string name="config_editor_simple_generate_failed_message">Kon de configuratie niet genereren, alstublieft reset het via de instellingen!</string>
     <!-- Advanced Config Editor -->
@@ -94,7 +94,7 @@
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
     <string name="settings_storage">Opslag locatie</string>
-    <string name="settings_config_editor">Configuratie editor</string>
+    <string name="settings_config_editor">Configuratie bewerker</string>
     <string name="settings_reset_config">Reset Geyser configuratie</string>
     <string name="settings_reset_user_auths">Reset Geyser gebruikers auth</string>
     <string name="settings_reset_config_success_title">Verwijder configuratie</string>
