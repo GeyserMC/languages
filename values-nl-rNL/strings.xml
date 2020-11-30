@@ -12,7 +12,7 @@
     <string name="menu_website">Website</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
-    <string name="home_desc">Geyser Android is een android versie van Geyser inclusief een serveromleiding proxy.</string>
+    <string name="home_desc">Geyser Android is een android versie van Geyser inclusief een serveromleidings proxy.</string>
     <string name="home_join_be">Verbind met een Bedrock server</string>
     <string name="home_join_je">Verbind met een Java server</string>
     <!-- Proxy Screen -->
