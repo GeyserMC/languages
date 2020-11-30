@@ -64,7 +64,7 @@
     <string name="config_editor_advanced_section_advanced">Geavanceerd</string>
     <string name="config_editor_advanced_section_metrics">Statistieken</string>
     <!-- User Auths Editor -->
-    <string name="user_auths_title">Gebruikersauthenticatie</string>
+    <string name="user_auths_title">Gebruikers authenticatie</string>
     <string name="user_auths_exists_title">Gebruikers authenticatie</string>
     <string name="user_auths_exists_message">Er bestaat al een gebruikers authenticatie voor die Xbox gebruikersnaam</string>
     <string name="user_auths_new">Nieuwe gebruikers authenticatie</string>
