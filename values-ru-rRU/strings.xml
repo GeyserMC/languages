@@ -53,33 +53,33 @@
     <string name="config_editor_simple_port">Порт</string>
     <string name="config_editor_simple_auth_type">Тип авторизации</string>
     <string name="config_editor_simple_advanced">Продвинутый редактор</string>
-    <string name="config_editor_simple_user_auths">Аутентификация</string>
+    <string name="config_editor_simple_user_auths">Данные аутентификации</string>
     <string name="config_editor_simple_generate_failed_title">Не удалось сгенерировать конфиг</string>
     <string name="config_editor_simple_generate_failed_message">Не удалось сгенерировать конфиг, пожалуйста, сбростье его через настройки!</string>
     <!-- Advanced Config Editor -->
     <string name="config_editor_advanced_title">Продвинутый редактор конфига</string>
-    <string name="config_editor_advanced_user_auth_desc">Нажмите для изменения аутентификаций</string>
+    <string name="config_editor_advanced_user_auth_desc">Нажмите для изменения данных аутентификации</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">Удаленно</string>
     <string name="config_editor_advanced_section_advanced">Продвинутый редактор</string>
     <string name="config_editor_advanced_section_metrics">Метрика</string>
     <!-- User Auths Editor -->
-    <string name="user_auths_title">Авторизации пользователя</string>
-    <string name="user_auths_exists_title">Авторизации пользователя</string>
-    <string name="user_auths_exists_message">Для этого имени пользователя Xbox уже существует аутентификация</string>
-    <string name="user_auths_new">Новая аутентификация</string>
-    <string name="user_auths_failed_title">Не удалось загрузить аутентификации</string>
-    <string name="user_auths_failed_message">Не удалось загрузить аутентификации, пожалуйста, сбросьте их вручную!</string>
+    <string name="user_auths_title">Данные аутентификации</string>
+    <string name="user_auths_exists_title">Данные аутентификации</string>
+    <string name="user_auths_exists_message">Для этого имени пользователя Xbox уже существуют данные аутентификации</string>
+    <string name="user_auths_new">Добавить данные аутентификации</string>
+    <string name="user_auths_failed_title">Не удалось загрузить данные аутентификации</string>
+    <string name="user_auths_failed_message">Не удалось загрузить данные аутентификации, пожалуйста, сбросьте их вручную!</string>
     <string name="user_auths_save_title">Сохранить</string>
-    <string name="user_auths_save_message">Вы хотите сохранить аутентификации?</string>
+    <string name="user_auths_save_message">Вы хотите сохранить данные аутентификации?</string>
     <string name="user_auths_save_save">Сохранить</string>
-    <string name="user_auths_save_failed">Не удалось сохранить аутентификации!</string>
+    <string name="user_auths_save_failed">Не удалось сохранить данные аутентификации!</string>
     <string name="user_auths_save_discard">Не сохранять</string>
-    <string name="user_auths_delete_dialog_title">Аутентификация</string>
+    <string name="user_auths_delete_dialog_title">Данные аутентификации</string>
     <string name="user_auths_delete_dialog_message">Вы уверены, что хотите удалить выбранную запись?</string>
     <string name="user_auths_delete_dialog_positive">Удалить</string>
     <!-- User Auth Dialog -->
-    <string name="user_auth_dialog_title">Аутентификация</string>
+    <string name="user_auth_dialog_title">Данные аутентификации</string>
     <string name="user_auth_dialog_positive">Сохранить</string>
     <string name="user_auth_dialog_negative">Отмена</string>
     <string name="user_auth_dialog_xbox_username">Тег XBOX Live</string>
@@ -96,17 +96,17 @@
     <string name="settings_storage">Место хранения</string>
     <string name="settings_config_editor">Редактор конфига</string>
     <string name="settings_reset_config">Сбросить конфиг Geyser</string>
-    <string name="settings_reset_user_auths">Сбросить аутентификации Geyser</string>
+    <string name="settings_reset_user_auths">Сбросить данные аутентификации Geyser</string>
     <string name="settings_reset_config_success_title">Конфиг удалён</string>
     <string name="settings_reset_config_success_message">Конфиг Geyser успешно удалён!</string>
     <string name="settings_reset_config_failed_title">Удаление провалилось</string>
     <string name="settings_reset_config_failed_message">Не удалось удалить конфиг Geyser!</string>
     <string name="settings_reset_config_missing_title">Конфиг отсутствует</string>
     <string name="settings_reset_config_missing_message">Конфиг Geyser отсутствует!</string>
-    <string name="settings_reset_user_auths_success_title">Аутентификации успешно удалены</string>
-    <string name="settings_reset_user_auths_success_message">Аутентификации Geyser успешно сброшены!</string>
+    <string name="settings_reset_user_auths_success_title">Данные аутентификации успешно удалены</string>
+    <string name="settings_reset_user_auths_success_message">Данные аутентификации Geyser успешно сброшены!</string>
     <string name="settings_reset_user_auths_missing_title">Отсутствуют аутентификации</string>
-    <string name="settings_reset_user_auths_missing_message">Аутентификации Geyser либо отсутствуют, либо пусты!</string>
+    <string name="settings_reset_user_auths_missing_message">Данные аутентификации Geyser либо отсутствуют, либо пусты!</string>
     <string name="settings_other">Другое</string>
     <string name="settings_theme">Тема</string>
 </resources>
