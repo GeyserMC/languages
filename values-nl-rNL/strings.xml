@@ -2,7 +2,7 @@
 <resources>
     <string name="action_settings">Instellingen</string>
     <string name="action_about">Over</string>
-    <string name="action_config_help">Help</string>
+    <string name="action_config_help">Hulp</string>
     <string name="utils_loader">Laden...</string>
     <string name="utils_copy_success">Tekst Gekopieerd</string>
     <!-- Navigation -->
@@ -12,7 +12,7 @@
     <string name="menu_website">Website</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
-    <string name="home_desc">Geyser Android is een Android versie van Geyser inclusief een omleiding proxy.</string>
+    <string name="home_desc">Geyser Android is een android versie van Geyser inclusief een serveromleiding proxy.</string>
     <string name="home_join_be">Verbind met een Bedrock server</string>
     <string name="home_join_je">Verbind met een Java server</string>
     <!-- Proxy Screen -->
@@ -32,19 +32,19 @@
     <string name="geyser_start">Start</string>
     <string name="geyser_starting">Starten</string>
     <string name="geyser_stop">Stop</string>
-    <string name="geyser_logs">Logs</string>
+    <string name="geyser_logs">Logboeken</string>
     <string name="geyser_command">Opdracht</string>
-    <string name="geyser_not_running">Geyser draait voorlopig nog niet!</string>
+    <string name="geyser_not_running">Geyser draait momenteel niet!</string>
     <string name="geyser_background_notification">Geyser draait op de achtergrond!</string>
-    <string name="geyser_command_failed">Kon opdracht niet uitvoeren!</string>
+    <string name="geyser_command_failed">Commando mislukt om uit te voeren!</string>
     <string name="geyser_proxy_running_warn">LAN-proxy is al actief, stop deze in Proxy -&gt; Stop om Geyser te gebruiken!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Opslaan</string>
-    <string name="config_editor_save_message">Wil je de configuratie opslaan?</string>
+    <string name="config_editor_save_message">Wenst u de configuratie op te slaan?</string>
     <string name="config_editor_save_save">Opslaan</string>
-    <string name="config_editor_save_failed">Kan configuratie niet schrijven!</string>
+    <string name="config_editor_save_failed">Niet in staat om de configuratie te schrijven!</string>
     <string name="config_editor_save_discard">Weggooien</string>
-    <string name="config_editor_config_missing">Kon configuratie niet vinden, Alstublieft start eerst de server!</string>
+    <string name="config_editor_config_missing">Kon de configuratie niet vinden, alstublieft start eerst de server!</string>
     <string name="config_editor_failed_title">Kon Configuratie niet laden</string>
     <string name="config_editor_failed_message">Kan configuratie niet laden, alstublieft reset het manueel!</string>
     <!-- Simple Config Editor -->
@@ -96,17 +96,17 @@
     <string name="settings_storage">Opslag locatie</string>
     <string name="settings_config_editor">Configuratie editor</string>
     <string name="settings_reset_config">Reset Geyser configuratie</string>
-    <string name="settings_reset_user_auths">Reset Geyser Gebruikers auth</string>
+    <string name="settings_reset_user_auths">Reset Geyser gebruikers auth</string>
     <string name="settings_reset_config_success_title">Verwijder configuratie</string>
     <string name="settings_reset_config_success_message">De Geyser configuratie is verwijderd!</string>
     <string name="settings_reset_config_failed_title">Verwijderen mislukt</string>
-    <string name="settings_reset_config_failed_message">Kan configuratie van Geyser niet verwijderen!</string>
-    <string name="settings_reset_config_missing_title">Ontbrekende configuratie</string>
+    <string name="settings_reset_config_failed_message">Configuratie van Geyser mislukt om te verwijderen!</string>
+    <string name="settings_reset_config_missing_title">Configuratie ontbreekt</string>
     <string name="settings_reset_config_missing_message">Het configuratie bestand van Geyser ontbreekt!</string>
     <string name="settings_reset_user_auths_success_title">Verwijderde gebruiker auth</string>
-    <string name="settings_reset_user_auths_success_message">De gebruiker auth van de Geyser gewist!</string>
-    <string name="settings_reset_user_auths_missing_title">Ontbrekende gebruiker auths</string>
-    <string name="settings_reset_user_auths_missing_message">De gebruiker auth van de Geyser ontbreken of zijn leeg!</string>
+    <string name="settings_reset_user_auths_success_message">De gebruikers auth uit Geyser gewist!</string>
+    <string name="settings_reset_user_auths_missing_title">Gebruikers auths ontbreken</string>
+    <string name="settings_reset_user_auths_missing_message">De geyser gebruiker auths ontbreken of zijn leeg!</string>
     <string name="settings_other">Andere</string>
     <string name="settings_theme">Thema</string>
 </resources>
