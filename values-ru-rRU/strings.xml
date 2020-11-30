@@ -105,7 +105,7 @@
     <string name="settings_reset_config_missing_message">Конфиг Geyser отсутствует!</string>
     <string name="settings_reset_user_auths_success_title">Данные аутентификации успешно удалены</string>
     <string name="settings_reset_user_auths_success_message">Данные аутентификации Geyser успешно сброшены!</string>
-    <string name="settings_reset_user_auths_missing_title">Отсутствуют аутентификации</string>
+    <string name="settings_reset_user_auths_missing_title">Отсутствуют данные аутентификации</string>
     <string name="settings_reset_user_auths_missing_message">Данные аутентификации Geyser либо отсутствуют, либо пусты!</string>
     <string name="settings_other">Другое</string>
     <string name="settings_theme">Тема</string>
