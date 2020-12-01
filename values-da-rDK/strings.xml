@@ -23,10 +23,10 @@
     <string name="proxy_stop">Stop</string>
     <string name="proxy_logs">Logs</string>
     <string name="proxy_background_notification">LAN Proxy kører i baggrunden!</string>
-    <string name="proxy_geyser_running_warn">Geyser is already running, please stop it in Geyser -&gt; Stop in order to use LAN Proxy!</string>
-    <string name="proxy_started">Server started on %s</string>
-    <string name="proxy_shutdown">Shutting down!</string>
-    <string name="proxy_shutdown_done">Successfully shutdown!</string>
+    <string name="proxy_geyser_running_warn">Geyser kører allerede. Stop det i Geyser -&gt; Stop for at bruge LAN Proxy!</string>
+    <string name="proxy_started">Server startede på %s</string>
+    <string name="proxy_shutdown">Lukker ned!</string>
+    <string name="proxy_shutdown_done">Lukkede korrekt ned!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">Konfiguration</string>
     <string name="geyser_start">Start</string>
@@ -37,7 +37,7 @@
     <string name="geyser_not_running">Geyser kører ikke i øjeblikket!</string>
     <string name="geyser_background_notification">Geyser kører i baggrunden!</string>
     <string name="geyser_command_failed">Kunne ikke køre kommandoen!</string>
-    <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -&gt; Stop in order to use Geyser!</string>
+    <string name="geyser_proxy_running_warn">LAN Proxy kører allerede. Stop det i Proxy -&gt; Stop for at bruge Geyser!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Gem</string>
     <string name="config_editor_save_message">Ønsker du at gemme konfigurationen?</string>
