@@ -46,7 +46,7 @@
     <string name="config_editor_save_discard">Weggooien</string>
     <string name="config_editor_config_missing">Kon de configuratie niet vinden, alstublieft start eerst de server!</string>
     <string name="config_editor_failed_title">Configuratie mislukt om te laden</string>
-    <string name="config_editor_failed_message">Kan configuratie niet laden, reset alstublieft het manueel!</string>
+    <string name="config_editor_failed_message">Kon configuratie niet laden, reset het alstublieft handmatig!</string>
     <!-- Simple Config Editor -->
     <string name="config_editor_simple_title">Eenvoudige configuratie bewerker</string>
     <string name="config_editor_simple_address">Adres</string>
