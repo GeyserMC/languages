@@ -24,7 +24,7 @@
     <string name="proxy_logs">로그</string>
     <string name="proxy_background_notification">LAN 프록시가 백그라운드에서 구동되고 있습니다!</string>
     <string name="proxy_geyser_running_warn">Geyser이 구동중입니다, LAN 프록시를 사용하려면 Geyser를 종료해 주세요!</string>
-    <string name="proxy_started">서버가 %s에 시작되었습니다</string>
+    <string name="proxy_started">서버가 %s에서 시작되었습니다</string>
     <string name="proxy_shutdown">종료하는 중입니다!</string>
     <string name="proxy_shutdown_done">성공적으로 종료했습니다!</string>
     <!-- Geyser Screen -->
@@ -34,7 +34,7 @@
     <string name="geyser_stop">중지</string>
     <string name="geyser_logs">로그</string>
     <string name="geyser_command">명령어 입력</string>
-    <string name="geyser_not_running">Geyser이 구동되지 않았습니다!</string>
+    <string name="geyser_not_running">Geyser를 구동하고 있지 않습니다!</string>
     <string name="geyser_background_notification">Geyser이 백그라운드에서 구동되고 있습니다!</string>
     <string name="geyser_command_failed">명령어 실행을 실패했습니다!</string>
     <string name="geyser_proxy_running_warn">LAN 프록시가 구동중입니다, Geyser를 사용하려면 LAN 프록시를 종료해 주세요!</string>
@@ -42,8 +42,8 @@
     <string name="config_editor_save_title">저장</string>
     <string name="config_editor_save_message">설정을 저장하시겠습니까?</string>
     <string name="config_editor_save_save">저장</string>
-    <string name="config_editor_save_failed">설정을 수정할 수 없습니다!</string>
-    <string name="config_editor_save_discard">저장하지 않기</string>
+    <string name="config_editor_save_failed">설정을 작성할 수 없습니다!</string>
+    <string name="config_editor_save_discard">저장하지 않음</string>
     <string name="config_editor_config_missing">설정을 확인할 수 없습니다, 서버를 먼저 시작해 주세요!</string>
     <string name="config_editor_failed_title">설정을 불러올 수 없음</string>
     <string name="config_editor_failed_message">설정을 불러올 수 없습니다, 직접 초기화 해주세요!</string>
@@ -62,13 +62,13 @@
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">원격</string>
     <string name="config_editor_advanced_section_advanced">고급</string>
-    <string name="config_editor_advanced_section_metrics">메트릭스</string>
+    <string name="config_editor_advanced_section_metrics">Metrics</string>
     <!-- User Auths Editor -->
     <string name="user_auths_title">사용자 인증</string>
     <string name="user_auths_exists_title">사용자 인증</string>
     <string name="user_auths_exists_message">Xbox 사용자명이 사용자 인증 목록에 이미 존재합니다</string>
     <string name="user_auths_new">사용자 인증 추가</string>
-    <string name="user_auths_failed_title">사용자 인증 목록을 불러올 수 없음</string>
+    <string name="user_auths_failed_title">사용자 인증을 불러올 수 없음</string>
     <string name="user_auths_failed_message">사용자 인증 목록을 불러올 수 없습니다, 직접 초기화 해주세요!</string>
     <string name="user_auths_save_title">저장</string>
     <string name="user_auths_save_message">사용자 인증을 저장하시겠습니까?</string>
@@ -99,7 +99,7 @@
     <string name="settings_reset_user_auths">Geyser 사용자 인증 초기화</string>
     <string name="settings_reset_config_success_title">설정을 초기화함</string>
     <string name="settings_reset_config_success_message">Geyser 설정을 초기화했습니다!</string>
-    <string name="settings_reset_config_failed_title">초기화 실패</string>
+    <string name="settings_reset_config_failed_title">초기화를 실패함</string>
     <string name="settings_reset_config_failed_message">Geyser 설정을 초기화할 수 없습니다!</string>
     <string name="settings_reset_config_missing_title">설정이 없음</string>
     <string name="settings_reset_config_missing_message">Geyser의 설정 파일이 존재하지 않습니다!</string>
