@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_settings">Настройки</string>
-    <string name="action_about">About</string>
+    <string name="action_about">Информация</string>
     <string name="action_config_help">Помощь</string>
     <string name="utils_loader">Загрузка...</string>
-    <string name="utils_copy_success">Copied Text</string>
+    <string name="utils_copy_success">Текст скопирован</string>
     <!-- Navigation -->
-    <string name="menu_home">Home</string>
+    <string name="menu_home">Главная</string>
     <string name="menu_proxy">LAN Прокси</string>
     <string name="menu_geyser">Geyser</string>
     <string name="menu_website">Сайт</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
-    <string name="home_desc">Geyser Android is an android version of Geyser including a server redirection proxy.</string>
-    <string name="home_join_be">Присоедениться к Bedrock-серверу</string>
-    <string name="home_join_je">Присоединиться к Java-серверу</string>
+    <string name="home_desc">Geyser Android - это Android версия Geyser, которая содержит в себе прокси для серверного перенаправления.</string>
+    <string name="home_join_be">Присоедениться к Bedrock серверу</string>
+    <string name="home_join_je">Присоединиться к Java серверу</string>
     <!-- Proxy Screen -->
     <string name="proxy_address">Адрес</string>
     <string name="proxy_port">Порт</string>
-    <string name="proxy_start">Старт</string>
+    <string name="proxy_start">Запуск</string>
     <string name="proxy_starting">Идёт запуск</string>
-    <string name="proxy_stop">Выключить</string>
+    <string name="proxy_stop">Остановить</string>
     <string name="proxy_logs">Логи</string>
     <string name="proxy_background_notification">LAN-Прокси работает в фоновом режиме!</string>
     <string name="proxy_geyser_running_warn">Уже запущен Geyser, пожалуйста, остановите его во вкладке Geyser -&gt; Стоп, чтобы использовать LAN прокси!</string>
-    <string name="proxy_started">Server started on %s</string>
-    <string name="proxy_shutdown">Shutting down!</string>
-    <string name="proxy_shutdown_done">Successfully shutdown!</string>
+    <string name="proxy_started">Сервер запущен по адресу %s</string>
+    <string name="proxy_shutdown">Выключение!</string>
+    <string name="proxy_shutdown_done">Успешно выключено!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">Конфиг</string>
     <string name="geyser_start">Запуск</string>
@@ -45,41 +45,41 @@
     <string name="config_editor_save_failed">Не удалось записать конфиг!</string>
     <string name="config_editor_save_discard">Не сохранять</string>
     <string name="config_editor_config_missing">Не удалось найти конфиг, пожалуйста сначала запустите сервер!</string>
-    <string name="config_editor_failed_title">Config failed to load</string>
-    <string name="config_editor_failed_message">The config failed to load, please reset it manually!</string>
+    <string name="config_editor_failed_title">Не удалось загрузить конфиг</string>
+    <string name="config_editor_failed_message">Не удалось загрузить конфиг, пожалуйста, сбросьте его вручную!</string>
     <!-- Simple Config Editor -->
     <string name="config_editor_simple_title">Простой редаетор конфига</string>
     <string name="config_editor_simple_address">Адрес</string>
     <string name="config_editor_simple_port">Порт</string>
     <string name="config_editor_simple_auth_type">Тип авторизации</string>
     <string name="config_editor_simple_advanced">Продвинутый редактор</string>
-    <string name="config_editor_simple_user_auths">User Auths</string>
+    <string name="config_editor_simple_user_auths">Данные аутентификации</string>
     <string name="config_editor_simple_generate_failed_title">Не удалось сгенерировать конфиг</string>
     <string name="config_editor_simple_generate_failed_message">Не удалось сгенерировать конфиг, пожалуйста, сбростье его через настройки!</string>
     <!-- Advanced Config Editor -->
     <string name="config_editor_advanced_title">Продвинутый редактор конфига</string>
-    <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
+    <string name="config_editor_advanced_user_auth_desc">Нажмите для изменения данных аутентификации</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
-    <string name="config_editor_advanced_section_remote">Remote</string>
+    <string name="config_editor_advanced_section_remote">Удаленно</string>
     <string name="config_editor_advanced_section_advanced">Продвинутый редактор</string>
     <string name="config_editor_advanced_section_metrics">Метрика</string>
     <!-- User Auths Editor -->
-    <string name="user_auths_title">User Auths</string>
-    <string name="user_auths_exists_title">User Auths</string>
-    <string name="user_auths_exists_message">User auth already exists for that Xbox username</string>
-    <string name="user_auths_new">New User Auth</string>
-    <string name="user_auths_failed_title">User Auths failed to load</string>
-    <string name="user_auths_failed_message">The user auths failed to load, please reset them manually!</string>
+    <string name="user_auths_title">Данные аутентификации</string>
+    <string name="user_auths_exists_title">Данные аутентификации</string>
+    <string name="user_auths_exists_message">Для этого имени пользователя Xbox уже существуют данные аутентификации</string>
+    <string name="user_auths_new">Добавить данные аутентификации</string>
+    <string name="user_auths_failed_title">Не удалось загрузить данные аутентификации</string>
+    <string name="user_auths_failed_message">Не удалось загрузить данные аутентификации, пожалуйста, сбросьте их вручную!</string>
     <string name="user_auths_save_title">Сохранить</string>
-    <string name="user_auths_save_message">Do you wish to save the user auths?</string>
+    <string name="user_auths_save_message">Вы хотите сохранить данные аутентификации?</string>
     <string name="user_auths_save_save">Сохранить</string>
-    <string name="user_auths_save_failed">Unable to save user auths!</string>
+    <string name="user_auths_save_failed">Не удалось сохранить данные аутентификации!</string>
     <string name="user_auths_save_discard">Не сохранять</string>
-    <string name="user_auths_delete_dialog_title">User Auth</string>
-    <string name="user_auths_delete_dialog_message">Are you sure you\'d like to delete the selected entry?</string>
+    <string name="user_auths_delete_dialog_title">Данные аутентификации</string>
+    <string name="user_auths_delete_dialog_message">Вы уверены, что хотите удалить выбранную запись?</string>
     <string name="user_auths_delete_dialog_positive">Удалить</string>
     <!-- User Auth Dialog -->
-    <string name="user_auth_dialog_title">User Auth</string>
+    <string name="user_auth_dialog_title">Данные аутентификации</string>
     <string name="user_auth_dialog_positive">Сохранить</string>
     <string name="user_auth_dialog_negative">Отмена</string>
     <string name="user_auth_dialog_xbox_username">Тег XBOX Live</string>
@@ -88,7 +88,7 @@
     <!-- About Screen -->
     <string name="about_about_title">Информация</string>
     <string name="about_links_title">Ссылки</string>
-    <string name="about_credits_title">Credits</string>
+    <string name="about_credits_title">Разработчики</string>
     <string name="about_licences_title">Лицензии</string>
     <string name="about_version_copied">Имя версии скопировано в буфер обмена!</string>
     <!-- Settings Screen -->
@@ -96,17 +96,17 @@
     <string name="settings_storage">Место хранения</string>
     <string name="settings_config_editor">Редактор конфига</string>
     <string name="settings_reset_config">Сбросить конфиг Geyser</string>
-    <string name="settings_reset_user_auths">Reset Geyser user auths</string>
+    <string name="settings_reset_user_auths">Сбросить данные аутентификации Geyser</string>
     <string name="settings_reset_config_success_title">Конфиг удалён</string>
     <string name="settings_reset_config_success_message">Конфиг Geyser успешно удалён!</string>
     <string name="settings_reset_config_failed_title">Удаление провалилось</string>
     <string name="settings_reset_config_failed_message">Не удалось удалить конфиг Geyser!</string>
     <string name="settings_reset_config_missing_title">Конфиг отсутствует</string>
     <string name="settings_reset_config_missing_message">Конфиг Geyser отсутствует!</string>
-    <string name="settings_reset_user_auths_success_title">Deleted user auths</string>
-    <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
-    <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
-    <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
+    <string name="settings_reset_user_auths_success_title">Данные аутентификации успешно удалены</string>
+    <string name="settings_reset_user_auths_success_message">Данные аутентификации Geyser успешно сброшены!</string>
+    <string name="settings_reset_user_auths_missing_title">Отсутствуют данные аутентификации</string>
+    <string name="settings_reset_user_auths_missing_message">Данные аутентификации Geyser либо отсутствуют, либо пусты!</string>
     <string name="settings_other">Другое</string>
     <string name="settings_theme">Тема</string>
 </resources>

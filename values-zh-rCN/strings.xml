@@ -23,10 +23,10 @@
     <string name="proxy_stop">停止</string>
     <string name="proxy_logs">日志</string>
     <string name="proxy_background_notification">LAN 代理正在后台运行！</string>
-    <string name="proxy_geyser_running_warn">Geyser is already running, please stop it in Geyser -&gt; Stop in order to use LAN Proxy!</string>
-    <string name="proxy_started">Server started on %s</string>
-    <string name="proxy_shutdown">Shutting down!</string>
-    <string name="proxy_shutdown_done">Successfully shutdown!</string>
+    <string name="proxy_geyser_running_warn">Geyser 已在运行，请停止 Geyser -&gt; 停止 Geysey 以使用 LAN 代理！</string>
+    <string name="proxy_started">服务器已在 %s 上启动</string>
+    <string name="proxy_shutdown">关闭中！</string>
+    <string name="proxy_shutdown_done">成功关闭！</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">设置</string>
     <string name="geyser_start">启动</string>
@@ -37,7 +37,7 @@
     <string name="geyser_not_running">Geyser 当前未运行！</string>
     <string name="geyser_background_notification">Geyser 正在后台运行！</string>
     <string name="geyser_command_failed">运行命令失败！</string>
-    <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -&gt; Stop in order to use Geyser!</string>
+    <string name="geyser_proxy_running_warn">LAN 代理已在运行，请停止代理 -&gt; 停止 LAN 代理以使用 Geyser！</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">保存</string>
     <string name="config_editor_save_message">您要保存配置吗？</string>
