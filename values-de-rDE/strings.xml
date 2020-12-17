@@ -23,7 +23,7 @@
     <string name="proxy_stop">Stop</string>
     <string name="proxy_logs">Logs</string>
     <string name="proxy_background_notification">Lan Proxy läuft im Hintergrund!</string>
-    <string name="proxy_geyser_running_warn">Geyser is already running, please stop it in Geyser -&gt; Stop in order to use LAN Proxy!</string>
+    <string name="proxy_geyser_running_warn">Geyser läuft schon, bitte beende es in Geyser -&gt; Beende es um den LAN Proxy zu verwenden!</string>
     <string name="proxy_started">Server gestartet am %s</string>
     <string name="proxy_shutdown">Wird heruntergefahren!</string>
     <string name="proxy_shutdown_done">Erfolgreich ausgeschaltet!</string>
@@ -37,7 +37,7 @@
     <string name="geyser_not_running">Geyser läuft gerade nicht!</string>
     <string name="geyser_background_notification">Geyser läuft im Hintergrund!</string>
     <string name="geyser_command_failed">Fehler beim ausführen des Befehls!</string>
-    <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -&gt; Stop in order to use Geyser!</string>
+    <string name="geyser_proxy_running_warn">LAN Proxy läuft schon, bitte beende es in Proxy -&gt; Beende es um Geyser zu verwenden!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Speichern</string>
     <string name="config_editor_save_message">Möchtest du die config Speichern?</string>
@@ -45,7 +45,7 @@
     <string name="config_editor_save_failed">Fehler beim Speichern der config!</string>
     <string name="config_editor_save_discard">Verwerfen</string>
     <string name="config_editor_config_missing">Konnte config nicht finden, bitte starte vorher den Server!</string>
-    <string name="config_editor_failed_title">Config failed to load</string>
+    <string name="config_editor_failed_title">Konfiguration konnte nicht geladen werden</string>
     <string name="config_editor_failed_message">The config failed to load, please reset it manually!</string>
     <!-- Simple Config Editor -->
     <string name="config_editor_simple_title">Einfacher config Editor</string>
