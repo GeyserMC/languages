@@ -13,8 +13,8 @@
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
     <string name="home_desc">Geyser Android is an android version of Geyser including a server redirection proxy.</string>
-    <string name="home_join_be">Join a Bedrock server</string>
-    <string name="home_join_je">Join a Java server</string>
+    <string name="home_join_be">加入基岩版伺服器</string>
+    <string name="home_join_je">加入 Java 版伺服器</string>
     <!-- Proxy Screen -->
     <string name="proxy_address">Address</string>
     <string name="proxy_port">Port</string>
@@ -39,9 +39,9 @@
     <string name="geyser_command_failed">Failed to run command!</string>
     <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -&gt; Stop in order to use Geyser!</string>
     <!-- Config Editors -->
-    <string name="config_editor_save_title">Save</string>
+    <string name="config_editor_save_title">儲存</string>
     <string name="config_editor_save_message">Do you wish to save the config?</string>
-    <string name="config_editor_save_save">Save</string>
+    <string name="config_editor_save_save">儲存</string>
     <string name="config_editor_save_failed">Unable to write config!</string>
     <string name="config_editor_save_discard">Discard</string>
     <string name="config_editor_config_missing">Unable to locate config, please start the server first!</string>
