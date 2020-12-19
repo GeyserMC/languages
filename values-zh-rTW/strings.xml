@@ -4,7 +4,7 @@
     <string name="action_about">關於</string>
     <string name="action_config_help">說明</string>
     <string name="utils_loader">載入中...</string>
-    <string name="utils_copy_success">Copied Text</string>
+    <string name="utils_copy_success">已複製文字</string>
     <!-- Navigation -->
     <string name="menu_home">首頁</string>
     <string name="menu_proxy">LAN Proxy</string>
@@ -70,9 +70,9 @@
     <string name="user_auths_new">New User Auth</string>
     <string name="user_auths_failed_title">User Auths failed to load</string>
     <string name="user_auths_failed_message">The user auths failed to load, please reset them manually!</string>
-    <string name="user_auths_save_title">Save</string>
+    <string name="user_auths_save_title">儲存</string>
     <string name="user_auths_save_message">Do you wish to save the user auths?</string>
-    <string name="user_auths_save_save">Save</string>
+    <string name="user_auths_save_save">儲存</string>
     <string name="user_auths_save_failed">Unable to save user auths!</string>
     <string name="user_auths_save_discard">Discard</string>
     <string name="user_auths_delete_dialog_title">User Auth</string>
