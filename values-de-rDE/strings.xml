@@ -6,8 +6,8 @@
     <string name="utils_loader">Lädt...</string>
     <string name="utils_copy_success">Text Kopiert</string>
     <!-- Navigation -->
-    <string name="menu_home">Home</string>
-    <string name="menu_proxy">Lan Proxy</string>
+    <string name="menu_home">Startseite</string>
+    <string name="menu_proxy">LAN Proxy</string>
     <string name="menu_geyser">Geyser</string>
     <string name="menu_website">Webseite</string>
     <string name="menu_discord">Discord</string>
@@ -22,7 +22,7 @@
     <string name="proxy_starting">Startet</string>
     <string name="proxy_stop">Stop</string>
     <string name="proxy_logs">Logs</string>
-    <string name="proxy_background_notification">Lan Proxy läuft im Hintergrund!</string>
+    <string name="proxy_background_notification">LAN Proxy läuft im Hintergrund!</string>
     <string name="proxy_geyser_running_warn">Geyser läuft schon, bitte beende es in Geyser -&gt; Beende es um den LAN Proxy zu verwenden!</string>
     <string name="proxy_started">Server gestartet am %s</string>
     <string name="proxy_shutdown">Wird heruntergefahren!</string>
@@ -40,24 +40,24 @@
     <string name="geyser_proxy_running_warn">LAN Proxy läuft schon, bitte beende es in Proxy -&gt; Beende es um Geyser zu verwenden!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Speichern</string>
-    <string name="config_editor_save_message">Möchtest du die config Speichern?</string>
+    <string name="config_editor_save_message">Möchtest du die Konfiguration Speichern?</string>
     <string name="config_editor_save_save">Speichern</string>
-    <string name="config_editor_save_failed">Fehler beim Speichern der config!</string>
+    <string name="config_editor_save_failed">Fehler beim Speichern der Konfiguration!</string>
     <string name="config_editor_save_discard">Verwerfen</string>
-    <string name="config_editor_config_missing">Konnte config nicht finden, bitte starte vorher den Server!</string>
+    <string name="config_editor_config_missing">Konnte Konfiguration nicht finden, bitte starte vorher den Server!</string>
     <string name="config_editor_failed_title">Konfiguration konnte nicht geladen werden</string>
-    <string name="config_editor_failed_message">Config konnte nicht geladen werden, bitte setze sie manuell zurück!</string>
+    <string name="config_editor_failed_message">Konfiguration konnte nicht geladen werden, bitte setze sie manuell zurück!</string>
     <!-- Simple Config Editor -->
-    <string name="config_editor_simple_title">Einfacher config Editor</string>
+    <string name="config_editor_simple_title">Einfacher Konfiguration Editor</string>
     <string name="config_editor_simple_address">Adresse</string>
     <string name="config_editor_simple_port">Port</string>
     <string name="config_editor_simple_auth_type">Authentifizierungsmethode</string>
     <string name="config_editor_simple_advanced">Erweitert</string>
     <string name="config_editor_simple_user_auths">Benutzerauthentifizierungen</string>
-    <string name="config_editor_simple_generate_failed_title">Config konnte nicht erstellt werden</string>
-    <string name="config_editor_simple_generate_failed_message">Config konnte nicht erstellt werden, bitte setze sie in den Einstellungen zurück!</string>
+    <string name="config_editor_simple_generate_failed_title">Konfiguration konnte nicht erstellt werden</string>
+    <string name="config_editor_simple_generate_failed_message">Konfiguration konnte nicht erstellt werden, bitte setze sie in den Einstellungen zurück!</string>
     <!-- Advanced Config Editor -->
-    <string name="config_editor_advanced_title">Erweiterter Config Editor</string>
+    <string name="config_editor_advanced_title">Erweiterter Konfigurationen Editor</string>
     <string name="config_editor_advanced_user_auth_desc">Klicke um Benutzerauthentifizierungen zu bearbeiten</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">Remote</string>
@@ -69,7 +69,7 @@
     <string name="user_auths_exists_message">Benutzerauthentifizierung ist bereits für den Xbox Benutzer vorhanden</string>
     <string name="user_auths_new">Neue Benutzerauthentifizierung</string>
     <string name="user_auths_failed_title">Benutzerauthentifizierung konnte nicht geladen werden</string>
-    <string name="user_auths_failed_message">Benutzerauthentifizierungenkonnte nicht geladen werden, bitte setze sie manuell zurück!</string>
+    <string name="user_auths_failed_message">Benutzerauthentifizierungen konnte nicht geladen werden, bitte setze sie manuell zurück!</string>
     <string name="user_auths_save_title">Speichern</string>
     <string name="user_auths_save_message">Möchtest du die Benutzerauthentifizierungen Speichern?</string>
     <string name="user_auths_save_save">Speichern</string>
