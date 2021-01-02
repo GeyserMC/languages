@@ -48,7 +48,7 @@
     <string name="config_editor_failed_title">Konfiguration konnte nicht geladen werden</string>
     <string name="config_editor_failed_message">Konfiguration konnte nicht geladen werden, bitte setze sie manuell zurück!</string>
     <!-- Simple Config Editor -->
-    <string name="config_editor_simple_title">Einfacher Konfiguration Editor</string>
+    <string name="config_editor_simple_title">Einfacher Konfigurationseditor</string>
     <string name="config_editor_simple_address">Adresse</string>
     <string name="config_editor_simple_port">Port</string>
     <string name="config_editor_simple_auth_type">Authentifizierungsmethode</string>
@@ -62,14 +62,14 @@
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">Remote</string>
     <string name="config_editor_advanced_section_advanced">Erweitert</string>
-    <string name="config_editor_advanced_section_metrics">Metrics</string>
+    <string name="config_editor_advanced_section_metrics">Datenerhebung</string>
     <!-- User Auths Editor -->
     <string name="user_auths_title">Benutzerauthentifizierungen</string>
     <string name="user_auths_exists_title">Benutzerauthentifizierungen</string>
     <string name="user_auths_exists_message">Benutzerauthentifizierung ist bereits für den Xbox Benutzer vorhanden</string>
     <string name="user_auths_new">Neue Benutzerauthentifizierung</string>
     <string name="user_auths_failed_title">Benutzerauthentifizierung konnte nicht geladen werden</string>
-    <string name="user_auths_failed_message">Benutzerauthentifizierungen konnte nicht geladen werden, bitte setze sie manuell zurück!</string>
+    <string name="user_auths_failed_message">Benutzerauthentifizierungen konnten nicht geladen werden, bitte setze sie manuell zurück!</string>
     <string name="user_auths_save_title">Speichern</string>
     <string name="user_auths_save_message">Möchtest du die Benutzerauthentifizierungen Speichern?</string>
     <string name="user_auths_save_save">Speichern</string>
@@ -94,7 +94,7 @@
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
     <string name="settings_storage">Speicherort</string>
-    <string name="settings_config_editor">Konfiguration Editor</string>
+    <string name="settings_config_editor">Konfigurationseditor</string>
     <string name="settings_reset_config">Geyser Konfiguration zurücksetzen</string>
     <string name="settings_reset_user_auths">Geyser Benutzerauthentifizierungen zurücksetzen</string>
     <string name="settings_reset_config_success_title">Konfiguration löschen</string>
@@ -102,7 +102,7 @@
     <string name="settings_reset_config_failed_title">Löschen fehlgeschlagen</string>
     <string name="settings_reset_config_failed_message">Konnte die Geyser Konfiguration nicht entfernen!</string>
     <string name="settings_reset_config_missing_title">Konfiguration fehlt</string>
-    <string name="settings_reset_config_missing_message">Die Geyser Konfiguration Datei fehlt!</string>
+    <string name="settings_reset_config_missing_message">Die Geyser Konfigurationsdatei fehlt!</string>
     <string name="settings_reset_user_auths_success_title">Benutzerauthentifizierungen löschen</string>
     <string name="settings_reset_user_auths_success_message">Geyser Benutzerauthentifizierungen zurückgesetzt!</string>
     <string name="settings_reset_user_auths_missing_title">Fehlende Benutzerauthentifizierungen</string>
