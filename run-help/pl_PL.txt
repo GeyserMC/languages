@@ -1,13 +1,13 @@
 
 --------------------------------------------------------------------------------
 
-  Ups! Uruchomiłeś wtyczkę, a nie samodzielną wersję Geyser!
+  Ups! Uruchomiłeś plugin, a nie samodzielną wersję Geyser!
 
-  Ten plik jar to wtyczka dla ${plugin_type}. Możesz uruchomić ten plik
+  Ten plik jar to plugin do ${plugin_type}. Możesz uruchomić ten plik
   wrzucając go do folderu "${plugin_folder}".
 
   Tutaj możesz znaleźć samodzielną wersję,
-  która nie jest wtyczką. Znajdziesz ją tutaj:
+  która nie jest pluginem. Znajdziesz ją tutaj:
 
     http://ci.geysermc.org/
 
