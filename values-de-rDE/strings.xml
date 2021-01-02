@@ -24,7 +24,7 @@
     <string name="proxy_logs">Logs</string>
     <string name="proxy_background_notification">LAN Proxy läuft im Hintergrund!</string>
     <string name="proxy_geyser_running_warn">Geyser läuft schon, bitte beende es in Geyser -&gt; Beende es um den LAN Proxy zu verwenden!</string>
-    <string name="proxy_started">Server gestartet am %s</string>
+    <string name="proxy_started">Server unter %s gestartet</string>
     <string name="proxy_shutdown">Wird heruntergefahren!</string>
     <string name="proxy_shutdown_done">Erfolgreich ausgeschaltet!</string>
     <!-- Geyser Screen -->
@@ -57,7 +57,7 @@
     <string name="config_editor_simple_generate_failed_title">Konfiguration konnte nicht erstellt werden</string>
     <string name="config_editor_simple_generate_failed_message">Konfiguration konnte nicht erstellt werden, bitte setze sie in den Einstellungen zurück!</string>
     <!-- Advanced Config Editor -->
-    <string name="config_editor_advanced_title">Erweiterter Konfigurationen Editor</string>
+    <string name="config_editor_advanced_title">Erweiterter Konfigurationseditor</string>
     <string name="config_editor_advanced_user_auth_desc">Klicke um Benutzerauthentifizierungen zu bearbeiten</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">Remote</string>
