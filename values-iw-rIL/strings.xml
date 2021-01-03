@@ -54,8 +54,8 @@
     <string name="config_editor_simple_auth_type">Auth Type</string>
     <string name="config_editor_simple_advanced">מִתקַדֵם</string>
     <string name="config_editor_simple_user_auths">אימות מִשׁתַמֵשׁ</string>
-    <string name="config_editor_simple_generate_failed_title">Config failed to generate</string>
-    <string name="config_editor_simple_generate_failed_message">The config failed to generate, please reset it via the settings!</string>
+    <string name="config_editor_simple_generate_failed_title">לא יכול לעשות config</string>
+    <string name="config_editor_simple_generate_failed_message">לא יכול לעשות config, בבקשה לאתחול את זה מן ההגדרות!</string>
     <!-- Advanced Config Editor -->
     <string name="config_editor_advanced_title">Advanced Config Editor</string>
     <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
