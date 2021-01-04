@@ -40,7 +40,7 @@
     <string name="geyser_proxy_running_warn">LAN Proxy läuft schon, bitte beende es in Proxy -&gt; Beende es um Geyser zu verwenden!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Speichern</string>
-    <string name="config_editor_save_message">Möchtest du die Konfiguration Speichern?</string>
+    <string name="config_editor_save_message">Möchtest du die Konfiguration speichern?</string>
     <string name="config_editor_save_save">Speichern</string>
     <string name="config_editor_save_failed">Fehler beim Speichern der Konfiguration!</string>
     <string name="config_editor_save_discard">Verwerfen</string>
@@ -97,16 +97,16 @@
     <string name="settings_config_editor">Konfigurationseditor</string>
     <string name="settings_reset_config">Geyser Konfiguration zurücksetzen</string>
     <string name="settings_reset_user_auths">Geyser Benutzerauthentifizierungen zurücksetzen</string>
-    <string name="settings_reset_config_success_title">Konfiguration löschen</string>
-    <string name="settings_reset_config_success_message">Geyser Konfiguration gelöscht!</string>
+    <string name="settings_reset_config_success_title">Konfiguration gelöscht</string>
+    <string name="settings_reset_config_success_message">Geyser Konfiguration entfernt!</string>
     <string name="settings_reset_config_failed_title">Löschen fehlgeschlagen</string>
     <string name="settings_reset_config_failed_message">Konnte die Geyser Konfiguration nicht entfernen!</string>
     <string name="settings_reset_config_missing_title">Konfiguration fehlt</string>
     <string name="settings_reset_config_missing_message">Die Geyser Konfigurationsdatei fehlt!</string>
-    <string name="settings_reset_user_auths_success_title">Benutzerauthentifizierungen löschen</string>
+    <string name="settings_reset_user_auths_success_title">Benutzerauthentifizierungen gelöscht</string>
     <string name="settings_reset_user_auths_success_message">Geyser Benutzerauthentifizierungen zurückgesetzt!</string>
     <string name="settings_reset_user_auths_missing_title">Fehlende Benutzerauthentifizierungen</string>
     <string name="settings_reset_user_auths_missing_message">Geyser Benutzerauthentifizierungen fehlen oder sind leer!</string>
     <string name="settings_other">Anderes</string>
-    <string name="settings_theme">Thema</string>
+    <string name="settings_theme">Design</string>
 </resources>
