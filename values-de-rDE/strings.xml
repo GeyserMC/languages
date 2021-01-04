@@ -12,7 +12,7 @@
     <string name="menu_website">Webseite</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
-    <string name="home_desc">Geyser Android ist eine Android Version von Geyser mit einem proxy.</string>
+    <string name="home_desc">Geyser Android ist eine Android Version von Geyser mit einem Server-Weiterleitungs-Proxy.</string>
     <string name="home_join_be">Bedrock Server beitreten</string>
     <string name="home_join_je">Java Server beitreten</string>
     <!-- Proxy Screen -->
@@ -36,7 +36,7 @@
     <string name="geyser_command">Befehl</string>
     <string name="geyser_not_running">Geyser läuft gerade nicht!</string>
     <string name="geyser_background_notification">Geyser läuft im Hintergrund!</string>
-    <string name="geyser_command_failed">Fehler beim ausführen des Befehls!</string>
+    <string name="geyser_command_failed">Fehler beim Ausführen des Befehls!</string>
     <string name="geyser_proxy_running_warn">LAN Proxy läuft schon, bitte beende es in Proxy -&gt; Beende es um Geyser zu verwenden!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Speichern</string>
