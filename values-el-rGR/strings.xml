@@ -50,12 +50,12 @@
     <!-- Simple Config Editor -->
     <string name="config_editor_simple_title">Simple Config Editor</string>
     <string name="config_editor_simple_address">Διεύθυνση</string>
-    <string name="config_editor_simple_port">Port</string>
-    <string name="config_editor_simple_auth_type">Auth Type</string>
-    <string name="config_editor_simple_advanced">Advanced</string>
-    <string name="config_editor_simple_user_auths">User Auths</string>
-    <string name="config_editor_simple_generate_failed_title">Config failed to generate</string>
-    <string name="config_editor_simple_generate_failed_message">The config failed to generate, please reset it via the settings!</string>
+    <string name="config_editor_simple_port">Λιμάνι</string>
+    <string name="config_editor_simple_auth_type">Τύπος ελέγχου ταυτότητας</string>
+    <string name="config_editor_simple_advanced">Προχωρημένος</string>
+    <string name="config_editor_simple_user_auths">Έλεγχος ταυτότητας χρήστη</string>
+    <string name="config_editor_simple_generate_failed_title">Η δημιουργία του Config απέτυχε</string>
+    <string name="config_editor_simple_generate_failed_message">Η διαμόρφωση απέτυχε να δημιουργήσει, επαναφέρετέ την μέσω των ρυθμίσεων!</string>
     <!-- Advanced Config Editor -->
     <string name="config_editor_advanced_title">Advanced Config Editor</string>
     <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
@@ -88,25 +88,25 @@
     <!-- About Screen -->
     <string name="about_about_title">About</string>
     <string name="about_links_title">Links</string>
-    <string name="about_credits_title">Credits</string>
-    <string name="about_licences_title">Licences</string>
+    <string name="about_credits_title">Πιστώσεις</string>
+    <string name="about_licences_title">Άδειες</string>
     <string name="about_version_copied">Copied version name to clipboard!</string>
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
     <string name="settings_storage">Storage Location</string>
-    <string name="settings_config_editor">Config Editor</string>
+    <string name="settings_config_editor">Επεξεργαστής διαμόρφωσης</string>
     <string name="settings_reset_config">Reset Geyser config</string>
     <string name="settings_reset_user_auths">Reset Geyser user auths</string>
-    <string name="settings_reset_config_success_title">Deleted config</string>
+    <string name="settings_reset_config_success_title">Διαγράφηκε η διαμόρφωση</string>
     <string name="settings_reset_config_success_message">Removed the Geyser config!</string>
-    <string name="settings_reset_config_failed_title">Deletion failed</string>
+    <string name="settings_reset_config_failed_title">Η διαγραφή απέτυχε</string>
     <string name="settings_reset_config_failed_message">Failed to remove the Geyser config!</string>
-    <string name="settings_reset_config_missing_title">Missing config</string>
+    <string name="settings_reset_config_missing_title">Λείπει η διαμόρφωση</string>
     <string name="settings_reset_config_missing_message">The Geyser config file is missing!</string>
-    <string name="settings_reset_user_auths_success_title">Deleted user auths</string>
+    <string name="settings_reset_user_auths_success_title">Διαγράφηκε έλεγχος ταυτότητας χρήστη</string>
     <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
-    <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
+    <string name="settings_reset_user_auths_missing_title">Λείπει έλεγχος ταυτότητας χρήστη</string>
     <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
-    <string name="settings_other">Other</string>
-    <string name="settings_theme">Theme</string>
+    <string name="settings_other">Αλλα</string>
+    <string name="settings_theme">Θέμα</string>
 </resources>
