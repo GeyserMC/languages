@@ -51,10 +51,10 @@
     <string name="config_editor_simple_title">Simple Config Editor</string>
     <string name="config_editor_simple_address">位址</string>
     <string name="config_editor_simple_port">端口</string>
-    <string name="config_editor_simple_auth_type">Auth Type</string>
+    <string name="config_editor_simple_auth_type">認證類型</string>
     <string name="config_editor_simple_advanced">進階</string>
     <string name="config_editor_simple_user_auths">使用者認證</string>
-    <string name="config_editor_simple_generate_failed_title">Config failed to generate</string>
+    <string name="config_editor_simple_generate_failed_title">配置檔案建立失敗</string>
     <string name="config_editor_simple_generate_failed_message">The config failed to generate, please reset it via the settings!</string>
     <!-- Advanced Config Editor -->
     <string name="config_editor_advanced_title">Advanced Config Editor</string>
