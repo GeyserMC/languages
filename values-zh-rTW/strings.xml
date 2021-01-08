@@ -36,7 +36,7 @@
     <string name="geyser_command">指令</string>
     <string name="geyser_not_running">Geyser 目前尚未執行！</string>
     <string name="geyser_background_notification">Geyser is running in the background!</string>
-    <string name="geyser_command_failed">Failed to run command!</string>
+    <string name="geyser_command_failed">無法執行指令！</string>
     <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -&gt; Stop in order to use Geyser!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">儲存</string>
@@ -68,7 +68,7 @@
     <string name="user_auths_exists_title">使用者認證</string>
     <string name="user_auths_exists_message">User auth already exists for that Xbox username</string>
     <string name="user_auths_new">New User Auth</string>
-    <string name="user_auths_failed_title">User Auths failed to load</string>
+    <string name="user_auths_failed_title">使用者認證載入失敗</string>
     <string name="user_auths_failed_message">The user auths failed to load, please reset them manually!</string>
     <string name="user_auths_save_title">儲存</string>
     <string name="user_auths_save_message">Do you wish to save the user auths?</string>
@@ -99,8 +99,8 @@
     <string name="settings_reset_user_auths">Reset Geyser user auths</string>
     <string name="settings_reset_config_success_title">Deleted config</string>
     <string name="settings_reset_config_success_message">Removed the Geyser config!</string>
-    <string name="settings_reset_config_failed_title">Deletion failed</string>
-    <string name="settings_reset_config_failed_message">Failed to remove the Geyser config!</string>
+    <string name="settings_reset_config_failed_title">刪除失敗</string>
+    <string name="settings_reset_config_failed_message">無法刪除 Geyser 配置檔案！</string>
     <string name="settings_reset_config_missing_title">Missing config</string>
     <string name="settings_reset_config_missing_message">The Geyser config file is missing!</string>
     <string name="settings_reset_user_auths_success_title">Deleted user auths</string>
