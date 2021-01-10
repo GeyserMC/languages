@@ -12,7 +12,7 @@
     <string name="menu_website">網站</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
-    <string name="home_desc">Geyser Android is an android version of Geyser including a server redirection proxy.</string>
+    <string name="home_desc">Geyser Android 是 Geyser 的 Android 版本，包含了伺服器重定向代理。</string>
     <string name="home_join_be">加入基岩版伺服器</string>
     <string name="home_join_je">加入 Java 版伺服器</string>
     <!-- Proxy Screen -->
@@ -62,7 +62,7 @@
     <string name="config_editor_advanced_section_bedrock">基岩</string>
     <string name="config_editor_advanced_section_remote">遠端</string>
     <string name="config_editor_advanced_section_advanced">進階</string>
-    <string name="config_editor_advanced_section_metrics">Metrics</string>
+    <string name="config_editor_advanced_section_metrics">收集數據</string>
     <!-- User Auths Editor -->
     <string name="user_auths_title">使用者認證</string>
     <string name="user_auths_exists_title">使用者認證</string>
