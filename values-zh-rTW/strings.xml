@@ -69,14 +69,14 @@
     <string name="user_auths_exists_message">該 Xbox 帳號的使用者認證已經存在</string>
     <string name="user_auths_new">新的使用者認證</string>
     <string name="user_auths_failed_title">使用者認證載入失敗</string>
-    <string name="user_auths_failed_message">The user auths failed to load, please reset them manually!</string>
+    <string name="user_auths_failed_message">使用者身份驗證載入失敗，請手動重置！</string>
     <string name="user_auths_save_title">儲存</string>
     <string name="user_auths_save_message">您要儲存使用者認證嗎？</string>
     <string name="user_auths_save_save">儲存</string>
     <string name="user_auths_save_failed">無法儲存使用者認證資料！</string>
     <string name="user_auths_save_discard">丟棄</string>
     <string name="user_auths_delete_dialog_title">使用者認證</string>
-    <string name="user_auths_delete_dialog_message">Are you sure you\'d like to delete the selected entry?</string>
+    <string name="user_auths_delete_dialog_message">您確定要刪除所選條目嗎？</string>
     <string name="user_auths_delete_dialog_positive">刪除</string>
     <!-- User Auth Dialog -->
     <string name="user_auth_dialog_title">使用者認證</string>
@@ -87,9 +87,9 @@
     <string name="user_auth_dialog_java_password">Java 版帳號密碼</string>
     <!-- About Screen -->
     <string name="about_about_title">關於</string>
-    <string name="about_links_title">Links</string>
+    <string name="about_links_title">相關連結</string>
     <string name="about_credits_title">製作人員</string>
-    <string name="about_licences_title">Licences</string>
+    <string name="about_licences_title">許可證</string>
     <string name="about_version_copied">已經將版本名稱複製到剪貼簿！</string>
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
@@ -105,8 +105,8 @@
     <string name="settings_reset_config_missing_message">The Geyser config file is missing!</string>
     <string name="settings_reset_user_auths_success_title">Deleted user auths</string>
     <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
-    <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
-    <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
+    <string name="settings_reset_user_auths_missing_title">缺少使用者身份驗證</string>
+    <string name="settings_reset_user_auths_missing_message">Geyser 使用者身份驗證為空或已丟失！</string>
     <string name="settings_other">其他</string>
     <string name="settings_theme">主題</string>
 </resources>
