@@ -21,7 +21,7 @@
     <string name="proxy_start">啟動</string>
     <string name="proxy_starting">啟動中</string>
     <string name="proxy_stop">停止</string>
-    <string name="proxy_logs">Logs</string>
+    <string name="proxy_logs">日誌</string>
     <string name="proxy_background_notification">LAN 代理正在背景執行中！</string>
     <string name="proxy_geyser_running_warn">Geyser 已經在運行中。要使用 LAN 代理，請在 Geyser -&gt; 停止它！</string>
     <string name="proxy_started">伺服器已在 %s 上啟動</string>
@@ -32,7 +32,7 @@
     <string name="geyser_start">啟動</string>
     <string name="geyser_starting">啟動中</string>
     <string name="geyser_stop">停止</string>
-    <string name="geyser_logs">Logs</string>
+    <string name="geyser_logs">日誌</string>
     <string name="geyser_command">指令</string>
     <string name="geyser_not_running">Geyser 目前尚未執行！</string>
     <string name="geyser_background_notification">Geyser 正在背景執行中！</string>
@@ -46,19 +46,19 @@
     <string name="config_editor_save_discard">丟棄</string>
     <string name="config_editor_config_missing">無法找到配置檔案，請先啟動伺服器！</string>
     <string name="config_editor_failed_title">配置檔案載入失敗</string>
-    <string name="config_editor_failed_message">配置檔案載入失敗，請手動重置！</string>
+    <string name="config_editor_failed_message">配置檔案載入失敗，請手動將其重設！</string>
     <!-- Simple Config Editor -->
-    <string name="config_editor_simple_title">Simple Config Editor</string>
+    <string name="config_editor_simple_title">簡易配置編輯器</string>
     <string name="config_editor_simple_address">位址</string>
     <string name="config_editor_simple_port">端口</string>
     <string name="config_editor_simple_auth_type">認證類型</string>
     <string name="config_editor_simple_advanced">進階</string>
     <string name="config_editor_simple_user_auths">使用者認證</string>
     <string name="config_editor_simple_generate_failed_title">配置檔案建立失敗</string>
-    <string name="config_editor_simple_generate_failed_message">The config failed to generate, please reset it via the settings!</string>
+    <string name="config_editor_simple_generate_failed_message">無法建立配置，請通過設定將其重設！</string>
     <!-- Advanced Config Editor -->
-    <string name="config_editor_advanced_title">Advanced Config Editor</string>
-    <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
+    <string name="config_editor_advanced_title">進階配置編輯器</string>
+    <string name="config_editor_advanced_user_auth_desc">點擊以編輯使用者認證</string>
     <string name="config_editor_advanced_section_bedrock">基岩</string>
     <string name="config_editor_advanced_section_remote">遠端</string>
     <string name="config_editor_advanced_section_advanced">進階</string>
@@ -69,7 +69,7 @@
     <string name="user_auths_exists_message">該 Xbox 帳號的使用者認證已經存在</string>
     <string name="user_auths_new">新的使用者認證</string>
     <string name="user_auths_failed_title">使用者認證載入失敗</string>
-    <string name="user_auths_failed_message">使用者身份驗證載入失敗，請手動重置！</string>
+    <string name="user_auths_failed_message">使用者身份驗證載入失敗，請手動將其重設！</string>
     <string name="user_auths_save_title">儲存</string>
     <string name="user_auths_save_message">您要儲存使用者認證嗎？</string>
     <string name="user_auths_save_save">儲存</string>
@@ -97,14 +97,14 @@
     <string name="settings_config_editor">配置編輯器</string>
     <string name="settings_reset_config">重設 Geyser 配置</string>
     <string name="settings_reset_user_auths">重設 Geyser 使用者認證</string>
-    <string name="settings_reset_config_success_title">Deleted config</string>
-    <string name="settings_reset_config_success_message">Removed the Geyser config!</string>
+    <string name="settings_reset_config_success_title">己刪除配置</string>
+    <string name="settings_reset_config_success_message">已移除 Geyser 配置！</string>
     <string name="settings_reset_config_failed_title">刪除失敗</string>
     <string name="settings_reset_config_failed_message">無法刪除 Geyser 配置檔案！</string>
     <string name="settings_reset_config_missing_title">找不到配置檔案</string>
     <string name="settings_reset_config_missing_message">找不到 Geyser 配置檔案！</string>
-    <string name="settings_reset_user_auths_success_title">Deleted user auths</string>
-    <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
+    <string name="settings_reset_user_auths_success_title">己刪除使用者認證</string>
+    <string name="settings_reset_user_auths_success_message">已重設 Geyser 使用者認證！</string>
     <string name="settings_reset_user_auths_missing_title">找不到使用者身份驗證</string>
     <string name="settings_reset_user_auths_missing_message">Geyser 使用者身份驗證為空或已丟失！</string>
     <string name="settings_other">其他</string>
