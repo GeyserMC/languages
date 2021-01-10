@@ -23,7 +23,7 @@
     <string name="proxy_stop">停止</string>
     <string name="proxy_logs">Logs</string>
     <string name="proxy_background_notification">LAN 代理正在背景執行中！</string>
-    <string name="proxy_geyser_running_warn">Geyser is already running, please stop it in Geyser -&gt; Stop in order to use LAN Proxy!</string>
+    <string name="proxy_geyser_running_warn">Geyser 已經在運行中。要使用 LAN 代理，請在 Geyser -&gt; 停止它！</string>
     <string name="proxy_started">伺服器已在 %s 上啟動</string>
     <string name="proxy_shutdown">正在關閉中！</string>
     <string name="proxy_shutdown_done">已成功關閉！</string>
@@ -37,7 +37,7 @@
     <string name="geyser_not_running">Geyser 目前尚未執行！</string>
     <string name="geyser_background_notification">Geyser 正在背景執行中！</string>
     <string name="geyser_command_failed">無法執行指令！</string>
-    <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -&gt; Stop in order to use Geyser!</string>
+    <string name="geyser_proxy_running_warn">LAN 代理已經在運行中。要使用 Geyser，請在 Proxy -&gt; 停止它！</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">儲存</string>
     <string name="config_editor_save_message">您要儲存配置嗎？</string>
@@ -88,9 +88,9 @@
     <!-- About Screen -->
     <string name="about_about_title">關於</string>
     <string name="about_links_title">Links</string>
-    <string name="about_credits_title">Credits</string>
+    <string name="about_credits_title">製作人員</string>
     <string name="about_licences_title">Licences</string>
-    <string name="about_version_copied">Copied version name to clipboard!</string>
+    <string name="about_version_copied">已經將版本名稱複製到剪貼簿！</string>
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
     <string name="settings_storage">儲存位置</string>
