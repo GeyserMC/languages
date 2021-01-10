@@ -60,7 +60,7 @@
     <string name="config_editor_advanced_title">Advanced Config Editor</string>
     <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
     <string name="config_editor_advanced_section_bedrock">基岩</string>
-    <string name="config_editor_advanced_section_remote">Remote</string>
+    <string name="config_editor_advanced_section_remote">遠端</string>
     <string name="config_editor_advanced_section_advanced">進階</string>
     <string name="config_editor_advanced_section_metrics">Metrics</string>
     <!-- User Auths Editor -->
@@ -94,7 +94,7 @@
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
     <string name="settings_storage">儲存位置</string>
-    <string name="settings_config_editor">Config Editor</string>
+    <string name="settings_config_editor">配置編輯器</string>
     <string name="settings_reset_config">重設 Geyser 配置</string>
     <string name="settings_reset_user_auths">重設 Geyser 使用者認證</string>
     <string name="settings_reset_config_success_title">Deleted config</string>
