@@ -11,7 +11,7 @@
 
     http://ci.geyser.org/
 
-  如果您需要更多幫助，請到 Discord 以聯繫我們
+  如果您需要更多幫助，請到 Discord 聯繫我們︰
 
     http://discord.geysermc.org/
 
