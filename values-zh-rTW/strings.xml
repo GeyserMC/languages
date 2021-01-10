@@ -22,7 +22,7 @@
     <string name="proxy_starting">啟動中</string>
     <string name="proxy_stop">停止</string>
     <string name="proxy_logs">Logs</string>
-    <string name="proxy_background_notification">LAN Proxy is running in the background!</string>
+    <string name="proxy_background_notification">LAN 代理正在背景執行中！</string>
     <string name="proxy_geyser_running_warn">Geyser is already running, please stop it in Geyser -&gt; Stop in order to use LAN Proxy!</string>
     <string name="proxy_started">伺服器已在 %s 上啟動</string>
     <string name="proxy_shutdown">正在關閉中！</string>
@@ -93,7 +93,7 @@
     <string name="about_version_copied">Copied version name to clipboard!</string>
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
-    <string name="settings_storage">Storage Location</string>
+    <string name="settings_storage">儲存位置</string>
     <string name="settings_config_editor">Config Editor</string>
     <string name="settings_reset_config">重設 Geyser 配置</string>
     <string name="settings_reset_user_auths">重設 Geyser 使用者認證</string>
