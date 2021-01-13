@@ -26,17 +26,17 @@
     <string name="proxy_geyser_running_warn">Geyser är redan igång, stoppa det i Geyser -&gt; Stoppa för att kunna använda LAN Proxy!</string>
     <string name="proxy_started">Servern startade den %s</string>
     <string name="proxy_shutdown">Stänger ner!</string>
-    <string name="proxy_shutdown_done">Successfully shutdown!</string>
+    <string name="proxy_shutdown_done">Avstängning lyckades!</string>
     <!-- Geyser Screen -->
-    <string name="geyser_config">Config</string>
+    <string name="geyser_config">Konfig</string>
     <string name="geyser_start">Start</string>
-    <string name="geyser_starting">Starting</string>
-    <string name="geyser_stop">Stop</string>
-    <string name="geyser_logs">Logs</string>
-    <string name="geyser_command">Command</string>
-    <string name="geyser_not_running">Geyser is not currently running!</string>
-    <string name="geyser_background_notification">Geyser is running in the background!</string>
-    <string name="geyser_command_failed">Failed to run command!</string>
+    <string name="geyser_starting">Startande</string>
+    <string name="geyser_stop">Sluta</string>
+    <string name="geyser_logs">Loggar</string>
+    <string name="geyser_command">Kommando</string>
+    <string name="geyser_not_running">Geyser körs för närvarande inte!</string>
+    <string name="geyser_background_notification">Geyser körs i bakgrunden!</string>
+    <string name="geyser_command_failed">Det gick inte att köra kommandot!</string>
     <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -&gt; Stop in order to use Geyser!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Save</string>
