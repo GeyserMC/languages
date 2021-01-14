@@ -13,6 +13,6 @@
 
   Si necesitas ayuda, deberìas unirte a nuestro Discord:
 
-    discord.geysermc.org
+    http://discord.geysermc.org/
 
 --------------------------------------------------------------------------------
