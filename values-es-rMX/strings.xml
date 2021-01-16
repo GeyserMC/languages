@@ -23,10 +23,10 @@
     <string name="proxy_stop">Parar</string>
     <string name="proxy_logs">Registros</string>
     <string name="proxy_background_notification">El proxy LAN se está ejecutando en segundo plano!</string>
-    <string name="proxy_geyser_running_warn">Geyser is already running, please stop it in Geyser -&gt; Stop in order to use LAN Proxy!</string>
-    <string name="proxy_started">Server started on %s</string>
-    <string name="proxy_shutdown">Shutting down!</string>
-    <string name="proxy_shutdown_done">Successfully shutdown!</string>
+    <string name="proxy_geyser_running_warn">Geyser está activo, por favor, desactívelo en Geyser -&gt; ¡Desactívelo para usar el proxy LAN!</string>
+    <string name="proxy_started">Servidor iniciado en %s</string>
+    <string name="proxy_shutdown">¡Apagando!</string>
+    <string name="proxy_shutdown_done">¡Apagado correctamente!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">Configuración</string>
     <string name="geyser_start">Iniciar</string>
@@ -37,7 +37,7 @@
     <string name="geyser_not_running">Geyser no se está ejecutando!</string>
     <string name="geyser_background_notification">Geyser se está ejecutando en segundo plano!</string>
     <string name="geyser_command_failed">¡Error al ejecutar el comando!</string>
-    <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -&gt; Stop in order to use Geyser!</string>
+    <string name="geyser_proxy_running_warn">El proxy LAN está activo, por favor, desactívelo en Proxy -&gt; ¡Desactívelo para usar Geyser!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Guardar</string>
     <string name="config_editor_save_message">¿Quieres guardar la configuración?</string>
