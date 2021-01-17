@@ -107,12 +107,12 @@
     <string name="settings_reset_user_auths_success_message">Rimosse tutte le credenziali salvate!</string>
     <string name="settings_reset_user_auths_missing_title">Credenziali mancanti</string>
     <string name="settings_reset_user_auths_missing_message">Le credenziali utenti di Geyser sono mancanti oppure vuote!</string>
-    <string name="settings_create_device_dump">Create device dump</string>
+    <string name="settings_create_device_dump">Crea dump del dispositivo</string>
     <string name="settings_create_device_dump_failed_title">Errore</string>
     <string name="settings_create_device_dump_failed_message">Impossibile caricare il dump: %1$s</string>
     <string name="settings_create_device_dump_success_title">Dump caricato</string>
     <string name="settings_create_device_dump_open">Apri</string>
-    <string name="settings_create_device_dump_uploading">Uploading dump...</string>
+    <string name="settings_create_device_dump_uploading">Caricamento del dump...</string>
     <string name="settings_other">Altro</string>
     <string name="settings_theme">Tema</string>
 </resources>
