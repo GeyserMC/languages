@@ -107,6 +107,12 @@
     <string name="settings_reset_user_auths_success_message">Ryddet Geyser-brugergodkendelser!</string>
     <string name="settings_reset_user_auths_missing_title">Manglende brugergodkendelser</string>
     <string name="settings_reset_user_auths_missing_message">Geyser-brugergodkendelser enten mangler eller er tomt!</string>
+    <string name="settings_create_device_dump">Opret enhedsdump</string>
+    <string name="settings_create_device_dump_failed_title">Fejl</string>
+    <string name="settings_create_device_dump_failed_message">Kunne ikke uploade dump: %1$s</string>
+    <string name="settings_create_device_dump_success_title">Uploadet dump</string>
+    <string name="settings_create_device_dump_open">Åben</string>
+    <string name="settings_create_device_dump_uploading">Uploader dump...</string>
     <string name="settings_other">Andet</string>
     <string name="settings_theme">Tema</string>
 </resources>
