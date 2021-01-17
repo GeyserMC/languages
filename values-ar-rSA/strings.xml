@@ -113,6 +113,7 @@
     <string name="settings_create_device_dump_failed_message">Failed to upload dump: %1$s</string>
     <string name="settings_create_device_dump_success_title">Uploaded dump</string>
     <string name="settings_create_device_dump_open">Open</string>
+    <string name="settings_create_device_dump_uploading">Uploading dump...</string>
     <string name="settings_other">آخر</string>
     <string name="settings_theme">المضهر</string>
 </resources>
