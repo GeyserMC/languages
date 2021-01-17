@@ -112,7 +112,7 @@
     <string name="settings_create_device_dump_failed_message">Kunne ikke uploade dump: %1$s</string>
     <string name="settings_create_device_dump_success_title">Uploadet dump</string>
     <string name="settings_create_device_dump_open">Åben</string>
-    <string name="settings_create_device_dump_uploading">Uploading dump...</string>
+    <string name="settings_create_device_dump_uploading">Uploader dump...</string>
     <string name="settings_other">Andet</string>
     <string name="settings_theme">Tema</string>
 </resources>
