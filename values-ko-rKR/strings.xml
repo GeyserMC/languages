@@ -107,6 +107,11 @@
     <string name="settings_reset_user_auths_success_message">Geyser의 사용자 인증을 삭제했습니다!</string>
     <string name="settings_reset_user_auths_missing_title">사용자 인증이 없음</string>
     <string name="settings_reset_user_auths_missing_message">Geyser의 사용자 인증이 비어있거나 존재하지 않습니다!</string>
+    <string name="settings_create_device_dump">Create device dump</string>
+    <string name="settings_create_device_dump_failed_title">Error</string>
+    <string name="settings_create_device_dump_failed_message">Failed to upload dump: %1$s</string>
+    <string name="settings_create_device_dump_success_title">Uploaded dump</string>
+    <string name="settings_create_device_dump_open">Open</string>
     <string name="settings_other">그 외</string>
     <string name="settings_theme">테마</string>
 </resources>
