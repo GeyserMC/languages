@@ -107,12 +107,12 @@
     <string name="settings_reset_user_auths_success_message">Informations utilisateur supprimées !</string>
     <string name="settings_reset_user_auths_missing_title">Informations utilisateur manquantes</string>
     <string name="settings_reset_user_auths_missing_message">Les identifiants pour Geyser sont manquants ou vides !</string>
-    <string name="settings_create_device_dump">Create device dump</string>
-    <string name="settings_create_device_dump_failed_title">Error</string>
-    <string name="settings_create_device_dump_failed_message">Failed to upload dump: %1$s</string>
-    <string name="settings_create_device_dump_success_title">Uploaded dump</string>
-    <string name="settings_create_device_dump_open">Open</string>
-    <string name="settings_create_device_dump_uploading">Uploading dump...</string>
+    <string name="settings_create_device_dump">Créer un vidage de l\'appareil</string>
+    <string name="settings_create_device_dump_failed_title">Erreur</string>
+    <string name="settings_create_device_dump_failed_message">Échec de l\'envoi du vidage: %1$s</string>
+    <string name="settings_create_device_dump_success_title">Vidage envoyé</string>
+    <string name="settings_create_device_dump_open">Ouvert</string>
+    <string name="settings_create_device_dump_uploading">Envoi du vidage...</string>
     <string name="settings_other">Autre</string>
     <string name="settings_theme">Thème</string>
 </resources>
