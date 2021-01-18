@@ -28,7 +28,7 @@
     <string name="proxy_shutdown">Desligando!</string>
     <string name="proxy_shutdown_done">Desligamento bem-sucedido!</string>
     <!-- Geyser Screen -->
-    <string name="geyser_config">Definições</string>
+    <string name="geyser_config">Configurações</string>
     <string name="geyser_start">Iniciar</string>
     <string name="geyser_starting">Iniciando</string>
     <string name="geyser_stop">Parar</string>
@@ -40,13 +40,13 @@
     <string name="geyser_proxy_running_warn">Proxy LAN já está sendo executada, por favor pare-a na Proxy -&gt; Pare para usar o Geyser!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Salvar</string>
-    <string name="config_editor_save_message">Você quer salvar as definições?</string>
+    <string name="config_editor_save_message">Você quer salvar as configurações?</string>
     <string name="config_editor_save_save">Salvar</string>
-    <string name="config_editor_save_failed">Não foi possível salvar definições!</string>
+    <string name="config_editor_save_failed">Não foi possível salvar configurações!</string>
     <string name="config_editor_save_discard">Descartar</string>
     <string name="config_editor_config_missing">Não foi possível localizar definições, por favor inicie o servidor primeiro!</string>
-    <string name="config_editor_failed_title">Carregamento de definições falhou</string>
-    <string name="config_editor_failed_message">O carregamento das definições falhou, por favor reinicie-o manualmente!</string>
+    <string name="config_editor_failed_title">Carregamento de configurações falhou</string>
+    <string name="config_editor_failed_message">O carregamento das configurações falhou, por favor reinicie-o manualmente!</string>
     <!-- Simple Config Editor -->
     <string name="config_editor_simple_title">Editor de config. simples</string>
     <string name="config_editor_simple_address">Endereço</string>
@@ -54,15 +54,15 @@
     <string name="config_editor_simple_auth_type">Tipo de autenticação</string>
     <string name="config_editor_simple_advanced">Avançado</string>
     <string name="config_editor_simple_user_auths">Autenticações de usuário</string>
-    <string name="config_editor_simple_generate_failed_title">Geração de definições falhou</string>
-    <string name="config_editor_simple_generate_failed_message">The config failed to generate, please reset it via the settings!</string>
+    <string name="config_editor_simple_generate_failed_title">Geração de configurações falhou</string>
+    <string name="config_editor_simple_generate_failed_message">A geração de configurações falhou, por favor reinicie-a via definições!</string>
     <!-- Advanced Config Editor -->
-    <string name="config_editor_advanced_title">Advanced Config Editor</string>
-    <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
+    <string name="config_editor_advanced_title">Editor de config. avançado</string>
+    <string name="config_editor_advanced_user_auth_desc">Clique para editar authenticações de usuários</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
-    <string name="config_editor_advanced_section_remote">Remote</string>
-    <string name="config_editor_advanced_section_advanced">Advanced</string>
-    <string name="config_editor_advanced_section_metrics">Metrics</string>
+    <string name="config_editor_advanced_section_remote">Remoto</string>
+    <string name="config_editor_advanced_section_advanced">Avançado</string>
+    <string name="config_editor_advanced_section_metrics">Métricos</string>
     <!-- User Auths Editor -->
     <string name="user_auths_title">User Auths</string>
     <string name="user_auths_exists_title">User Auths</string>
@@ -94,25 +94,25 @@
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
     <string name="settings_storage">Storage Location</string>
-    <string name="settings_config_editor">Config Editor</string>
-    <string name="settings_reset_config">Reset Geyser config</string>
+    <string name="settings_config_editor">Editor de configurações</string>
+    <string name="settings_reset_config">Reiniciar config. do Geyser</string>
     <string name="settings_reset_user_auths">Reset Geyser user auths</string>
-    <string name="settings_reset_config_success_title">Deleted config</string>
-    <string name="settings_reset_config_success_message">Removed the Geyser config!</string>
-    <string name="settings_reset_config_failed_title">Deletion failed</string>
-    <string name="settings_reset_config_failed_message">Failed to remove the Geyser config!</string>
-    <string name="settings_reset_config_missing_title">Missing config</string>
-    <string name="settings_reset_config_missing_message">The Geyser config file is missing!</string>
+    <string name="settings_reset_config_success_title">Configuração excluída</string>
+    <string name="settings_reset_config_success_message">Configuração do Geyser removida!</string>
+    <string name="settings_reset_config_failed_title">Exclusão falhou</string>
+    <string name="settings_reset_config_failed_message">Falha ao remover configuração do Geyser!</string>
+    <string name="settings_reset_config_missing_title">Configuração faltando</string>
+    <string name="settings_reset_config_missing_message">O arquivo de configuração do Geyser está faltando!</string>
     <string name="settings_reset_user_auths_success_title">Deleted user auths</string>
     <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
     <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
     <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
     <string name="settings_create_device_dump">Create device dump</string>
-    <string name="settings_create_device_dump_failed_title">Error</string>
+    <string name="settings_create_device_dump_failed_title">Erro</string>
     <string name="settings_create_device_dump_failed_message">Failed to upload dump: %1$s</string>
     <string name="settings_create_device_dump_success_title">Uploaded dump</string>
-    <string name="settings_create_device_dump_open">Open</string>
+    <string name="settings_create_device_dump_open">Abrir</string>
     <string name="settings_create_device_dump_uploading">Uploading dump...</string>
-    <string name="settings_other">Other</string>
-    <string name="settings_theme">Theme</string>
+    <string name="settings_other">Outros</string>
+    <string name="settings_theme">Tema</string>
 </resources>
