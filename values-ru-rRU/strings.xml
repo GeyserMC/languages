@@ -13,7 +13,7 @@
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
     <string name="home_desc">Geyser Android - это Android версия Geyser, которая содержит в себе прокси для серверного перенаправления.</string>
-    <string name="home_join_be">Присоедениться к Bedrock серверу</string>
+    <string name="home_join_be">Присоединиться к Bedrock серверу</string>
     <string name="home_join_je">Присоединиться к Java серверу</string>
     <!-- Proxy Screen -->
     <string name="proxy_address">Адрес</string>
