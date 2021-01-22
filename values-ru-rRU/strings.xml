@@ -59,8 +59,8 @@
     <!-- Advanced Config Editor -->
     <string name="config_editor_advanced_title">Продвинутый редактор конфига</string>
     <string name="config_editor_advanced_user_auth_desc">Нажмите для изменения данных аутентификации</string>
-    <string name="config_editor_advanced_section_bedrock">Bedrock</string>
-    <string name="config_editor_advanced_section_remote">Удаленно</string>
+    <string name="config_editor_advanced_section_bedrock">Настройки локального подключения</string>
+    <string name="config_editor_advanced_section_remote">Настройки удалённого подключения</string>
     <string name="config_editor_advanced_section_advanced">Продвинутый редактор</string>
     <string name="config_editor_advanced_section_metrics">Метрика</string>
     <!-- User Auths Editor -->
