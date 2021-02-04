@@ -1,4 +1,5 @@
 # Languages
+[![Crowdin](https://badges.crowdin.net/geyser/localized.svg)](https://translate.geysermc.org/project/geyser)  
 This repository contains the localizations for Geyser.
 
 ## Guidelines
