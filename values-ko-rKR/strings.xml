@@ -55,7 +55,7 @@
     <string name="config_editor_simple_advanced">고급 설정</string>
     <string name="config_editor_simple_user_auths">사용자 인증</string>
     <string name="config_editor_simple_generate_failed_title">설정 파일을 생성할 수 없음</string>
-    <string name="config_editor_simple_generate_failed_message">설정 파일 생성을 실패했습니다, 앱 설정을 통해 초기화 하세요!</string>
+    <string name="config_editor_simple_generate_failed_message">설정 파일 생성을 실패했습니다, 앱 설정을 통해 초기화 해주세요!</string>
     <!-- Advanced Config Editor -->
     <string name="config_editor_advanced_title">고급 설정 편집기</string>
     <string name="config_editor_advanced_user_auth_desc">클릭하여 사용자 인증 수정</string>
