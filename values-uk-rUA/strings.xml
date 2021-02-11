@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_settings">Опції</string>
-    <string name="action_about">Про</string>
+    <string name="action_about">Інформація</string>
     <string name="action_config_help">Допомога</string>
     <string name="utils_loader">Завантаження...</string>
     <string name="utils_copy_success">Скопійовано текст</string>
@@ -24,7 +24,7 @@
     <string name="proxy_logs">Логи</string>
     <string name="proxy_background_notification">LAN Proxy is running in the background!</string>
     <string name="proxy_geyser_running_warn">Geyser is already running, please stop it in Geyser -&gt; Stop in order to use LAN Proxy!</string>
-    <string name="proxy_started">Server started on %s</string>
+    <string name="proxy_started">Сервер запущений за адресою %s</string>
     <string name="proxy_shutdown">Вимкнення!</string>
     <string name="proxy_shutdown_done">Успішне вимкнення!</string>
     <!-- Geyser Screen -->
@@ -35,12 +35,12 @@
     <string name="geyser_logs">Логи</string>
     <string name="geyser_command">Команди</string>
     <string name="geyser_not_running">Geyser зараз не працює!</string>
-    <string name="geyser_background_notification">Geyser is running in the background!</string>
+    <string name="geyser_background_notification">Geyser працює в фоновому режимі</string>
     <string name="geyser_command_failed">Не вдалося запустити команду</string>
     <string name="geyser_proxy_running_warn">LAN Proxy is already running, please stop it in Proxy -&gt; Stop in order to use Geyser!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Зберегти</string>
-    <string name="config_editor_save_message">Do you wish to save the config?</string>
+    <string name="config_editor_save_message">Ви хочете зберегти конфігурації?</string>
     <string name="config_editor_save_save">Зберегти</string>
     <string name="config_editor_save_failed">Неможливо написати конфігурацію!</string>
     <string name="config_editor_save_discard">Discard</string>
@@ -53,7 +53,7 @@
     <string name="config_editor_simple_port">Порт</string>
     <string name="config_editor_simple_auth_type">Тип авторизації</string>
     <string name="config_editor_simple_advanced">Просунуті налаштування</string>
-    <string name="config_editor_simple_user_auths">User Auths</string>
+    <string name="config_editor_simple_user_auths">Ідентифікації користувача</string>
     <string name="config_editor_simple_generate_failed_title">Налаштування не вдалося завантажити</string>
     <string name="config_editor_simple_generate_failed_message">The config failed to generate, please reset it via the settings!</string>
     <!-- Advanced Config Editor -->
@@ -62,45 +62,45 @@
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">Remote</string>
     <string name="config_editor_advanced_section_advanced">Просунуті налаштування</string>
-    <string name="config_editor_advanced_section_metrics">Metrics</string>
+    <string name="config_editor_advanced_section_metrics">Метрика</string>
     <!-- User Auths Editor -->
-    <string name="user_auths_title">User Auths</string>
-    <string name="user_auths_exists_title">User Auths</string>
-    <string name="user_auths_exists_message">User auth already exists for that Xbox username</string>
-    <string name="user_auths_new">New User Auth</string>
-    <string name="user_auths_failed_title">User Auths failed to load</string>
+    <string name="user_auths_title">Ідентифікації користувача</string>
+    <string name="user_auths_exists_title">Ідентифікації користувача</string>
+    <string name="user_auths_exists_message">Для цього імені користувача Xbox вже існують дані аутентифікації</string>
+    <string name="user_auths_new">Додати дані аутентифікації</string>
+    <string name="user_auths_failed_title">Не вдалося завантажити дані аутентифікації</string>
     <string name="user_auths_failed_message">The user auths failed to load, please reset them manually!</string>
     <string name="user_auths_save_title">Зберегти</string>
-    <string name="user_auths_save_message">Do you wish to save the user auths?</string>
+    <string name="user_auths_save_message">Ви хочете зберегти конфігурації?</string>
     <string name="user_auths_save_save">Зберегти</string>
-    <string name="user_auths_save_failed">Unable to save user auths!</string>
-    <string name="user_auths_save_discard">Discard</string>
-    <string name="user_auths_delete_dialog_title">User Auth</string>
+    <string name="user_auths_save_failed">Неможливо зберегти дані аутентифікації!</string>
+    <string name="user_auths_save_discard">Не зберігати</string>
+    <string name="user_auths_delete_dialog_title">Дані аутентифікації</string>
     <string name="user_auths_delete_dialog_message">Are you sure you\'d like to delete the selected entry?</string>
-    <string name="user_auths_delete_dialog_positive">Delete</string>
+    <string name="user_auths_delete_dialog_positive">Видалити</string>
     <!-- User Auth Dialog -->
-    <string name="user_auth_dialog_title">User Auth</string>
+    <string name="user_auth_dialog_title">Дані аутентифікації</string>
     <string name="user_auth_dialog_positive">Зберегти</string>
     <string name="user_auth_dialog_negative">Скасувати</string>
     <string name="user_auth_dialog_xbox_username">Xbox Нікнейм</string>
-    <string name="user_auth_dialog_java_username">Java Email</string>
-    <string name="user_auth_dialog_java_password">Java Password</string>
-    <string name="user_auth_dialog_microsoft">Microsoft Account</string>
+    <string name="user_auth_dialog_java_username">Эл. Пошта Java</string>
+    <string name="user_auth_dialog_java_password">Пароль Java</string>
+    <string name="user_auth_dialog_microsoft">Аккаунт Microsoft</string>
     <!-- About Screen -->
-    <string name="about_about_title">About</string>
-    <string name="about_links_title">Links</string>
-    <string name="about_credits_title">Credits</string>
-    <string name="about_licences_title">Licences</string>
-    <string name="about_version_copied">Copied version name to clipboard!</string>
+    <string name="about_about_title">Інформація</string>
+    <string name="about_links_title">Посилання</string>
+    <string name="about_credits_title">Розробники</string>
+    <string name="about_licences_title">Ліцензії</string>
+    <string name="about_version_copied">Ім\'я версії скопійовано в буфер обміну!</string>
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
-    <string name="settings_storage">Storage Location</string>
-    <string name="settings_config_editor">Config Editor</string>
-    <string name="settings_reset_config">Reset Geyser config</string>
+    <string name="settings_storage">Місце зберігання</string>
+    <string name="settings_config_editor">Редактор конфігурацій</string>
+    <string name="settings_reset_config">Скинути конфігурації Geyser</string>
     <string name="settings_reset_user_auths">Reset Geyser user auths</string>
-    <string name="settings_reset_config_success_title">Deleted config</string>
-    <string name="settings_reset_config_success_message">Removed the Geyser config!</string>
-    <string name="settings_reset_config_failed_title">Deletion failed</string>
+    <string name="settings_reset_config_success_title">Видалити конфігурації</string>
+    <string name="settings_reset_config_success_message">Конфігурація Geyser успішно видалена!</string>
+    <string name="settings_reset_config_failed_title">Видалення не вдалося</string>
     <string name="settings_reset_config_failed_message">Failed to remove the Geyser config!</string>
     <string name="settings_reset_config_missing_title">Missing config</string>
     <string name="settings_reset_config_missing_message">The Geyser config file is missing!</string>
