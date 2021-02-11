@@ -9,7 +9,7 @@
     <string name="menu_home">Домашня сторінка</string>
     <string name="menu_proxy">LAN Проксі</string>
     <string name="menu_geyser">Geyser</string>
-    <string name="menu_website">Вебсайт</string>
+    <string name="menu_website">Веб-сайт</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
     <string name="home_desc">Geyser Android is an android version of Geyser including a server redirection proxy.</string>
@@ -71,21 +71,21 @@
     <string name="user_auths_failed_title">Не вдалося завантажити дані аутентифікації</string>
     <string name="user_auths_failed_message">The user auths failed to load, please reset them manually!</string>
     <string name="user_auths_save_title">Зберегти</string>
-    <string name="user_auths_save_message">Ви хочете зберегти конфігурації?</string>
+    <string name="user_auths_save_message">Ви хочете зберегти дані автентифікації?</string>
     <string name="user_auths_save_save">Зберегти</string>
     <string name="user_auths_save_failed">Неможливо зберегти дані аутентифікації!</string>
     <string name="user_auths_save_discard">Не зберігати</string>
-    <string name="user_auths_delete_dialog_title">Дані аутентифікації</string>
+    <string name="user_auths_delete_dialog_title">Дані автентифікації</string>
     <string name="user_auths_delete_dialog_message">Are you sure you\'d like to delete the selected entry?</string>
     <string name="user_auths_delete_dialog_positive">Видалити</string>
     <!-- User Auth Dialog -->
-    <string name="user_auth_dialog_title">Дані аутентифікації</string>
+    <string name="user_auth_dialog_title">Дані автентифікації</string>
     <string name="user_auth_dialog_positive">Зберегти</string>
     <string name="user_auth_dialog_negative">Скасувати</string>
     <string name="user_auth_dialog_xbox_username">Xbox Нікнейм</string>
     <string name="user_auth_dialog_java_username">Эл. Пошта Java</string>
     <string name="user_auth_dialog_java_password">Пароль Java</string>
-    <string name="user_auth_dialog_microsoft">Аккаунт Microsoft</string>
+    <string name="user_auth_dialog_microsoft">Обліковий запис Microsoft</string>
     <!-- About Screen -->
     <string name="about_about_title">Інформація</string>
     <string name="about_links_title">Посилання</string>
@@ -96,7 +96,7 @@
     <string name="settings_geyser">Geyser</string>
     <string name="settings_storage">Місце зберігання</string>
     <string name="settings_config_editor">Редактор конфігурацій</string>
-    <string name="settings_reset_config">Скинути конфігурації Geyser</string>
+    <string name="settings_reset_config">Скинути конфігурацію Geyser</string>
     <string name="settings_reset_user_auths">Reset Geyser user auths</string>
     <string name="settings_reset_config_success_title">Видалити конфігурації</string>
     <string name="settings_reset_config_success_message">Конфігурація Geyser успішно видалена!</string>
