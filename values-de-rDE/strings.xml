@@ -85,6 +85,7 @@
     <string name="user_auth_dialog_xbox_username">Xbox Benutzername</string>
     <string name="user_auth_dialog_java_username">Java E-Mail</string>
     <string name="user_auth_dialog_java_password">Java Passwort</string>
+    <string name="user_auth_dialog_microsoft">Microsoft Account</string>
     <!-- About Screen -->
     <string name="about_about_title">Über</string>
     <string name="about_links_title">Links</string>
