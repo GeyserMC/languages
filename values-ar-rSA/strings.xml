@@ -23,7 +23,7 @@
     <string name="proxy_stop">توقف</string>
     <string name="proxy_logs">السجلات</string>
     <string name="proxy_background_notification">خادم LAN يعمل في الخلفية!</string>
-    <string name="proxy_geyser_running_warn">Geyser يعمل بالفعل, يرجى إيقافه في Geyser -> إيقاف من أجل استخدام وكيل LAN!</string>
+    <string name="proxy_geyser_running_warn">Geyser يعمل بالفعل, يرجى إيقافه في Geyser -&gt; إيقاف من أجل استخدام وكيل LAN!</string>
     <string name="proxy_started">بدأ الخادم على %s</string>
     <string name="proxy_shutdown">إيقاف التشغيل!</string>
     <string name="proxy_shutdown_done">تم إيقاف التشغيل بنجاح!</string>
@@ -37,7 +37,7 @@
     <string name="geyser_not_running">Geyser لا يعمل حالياً!</string>
     <string name="geyser_background_notification">Geyser يعمل في الخلفية!</string>
     <string name="geyser_command_failed">فشل تشغيل الأمر!</string>
-    <string name="geyser_proxy_running_warn">وكيل LAN يعمل بالفعل, يرجى إيقافه في ويكل -> إيقاف من أجل استخدام Geyser!</string>
+    <string name="geyser_proxy_running_warn">وكيل LAN يعمل بالفعل, يرجى إيقافه في ويكل -&gt; إيقاف من أجل استخدام Geyser!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">حفظ</string>
     <string name="config_editor_save_message">هل تريد حفظ الإعدادات؟</string>
