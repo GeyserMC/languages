@@ -85,6 +85,7 @@
     <string name="user_auth_dialog_xbox_username">Xbox 사용자명</string>
     <string name="user_auth_dialog_java_username">Java 이메일</string>
     <string name="user_auth_dialog_java_password">Java 비밀번호</string>
+    <string name="user_auth_dialog_microsoft">Microsoft 계정</string>
     <!-- About Screen -->
     <string name="about_about_title">정보</string>
     <string name="about_links_title">링크</string>
