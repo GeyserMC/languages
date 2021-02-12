@@ -40,7 +40,7 @@
     <string name="geyser_proxy_running_warn">LAN Проксі вже працює, будь ласка, зупиніть його у вкладці Проксі -&gt; Стоп, щоб використовувати Geyser!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Зберегти</string>
-    <string name="config_editor_save_message">Ви хочете зберегти конфігурації?</string>
+    <string name="config_editor_save_message">Ви хочете зберегти конфігурацію?</string>
     <string name="config_editor_save_save">Зберегти</string>
     <string name="config_editor_save_failed">Неможливо написати конфігурацію!</string>
     <string name="config_editor_save_discard">Не зберігати</string>
