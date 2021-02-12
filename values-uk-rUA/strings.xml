@@ -76,7 +76,7 @@
     <string name="user_auths_save_failed">Не вдалося зберегти дані автентифікації!</string>
     <string name="user_auths_save_discard">Не зберігати</string>
     <string name="user_auths_delete_dialog_title">Дані автентифікації</string>
-    <string name="user_auths_delete_dialog_message">Are you sure you\'d like to delete the selected entry?</string>
+    <string name="user_auths_delete_dialog_message">Ви впевнені що хочете видалити вибраний запис?</string>
     <string name="user_auths_delete_dialog_positive">Видалити</string>
     <!-- User Auth Dialog -->
     <string name="user_auth_dialog_title">Дані автентифікації</string>
@@ -97,23 +97,23 @@
     <string name="settings_storage">Місце зберігання</string>
     <string name="settings_config_editor">Редактор конфігурацій</string>
     <string name="settings_reset_config">Скинути конфігурацію Geyser</string>
-    <string name="settings_reset_user_auths">Reset Geyser user auths</string>
+    <string name="settings_reset_user_auths">Скинути аунтефікацію користувачів Geyser</string>
     <string name="settings_reset_config_success_title">Видалити конфігурації</string>
     <string name="settings_reset_config_success_message">Конфігурація Geyser успішно видалена!</string>
     <string name="settings_reset_config_failed_title">Видалення не вдалося</string>
-    <string name="settings_reset_config_failed_message">Failed to remove the Geyser config!</string>
-    <string name="settings_reset_config_missing_title">Missing config</string>
-    <string name="settings_reset_config_missing_message">The Geyser config file is missing!</string>
-    <string name="settings_reset_user_auths_success_title">Deleted user auths</string>
-    <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
-    <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
-    <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
-    <string name="settings_create_device_dump">Create device dump</string>
+    <string name="settings_reset_config_failed_message">Не вдалося видалити конфігурацію Geyser!</string>
+    <string name="settings_reset_config_missing_title">Відсутня конфігурація</string>
+    <string name="settings_reset_config_missing_message">Файл конфігурації Geyser відсутній!</string>
+    <string name="settings_reset_user_auths_success_title">Віддалена аутентифікація користувача</string>
+    <string name="settings_reset_user_auths_success_message">Стерта користувача Гейзер аутификсации!</string>
+    <string name="settings_reset_user_auths_missing_title">Відсутні дані аутентифікації користувача</string>
+    <string name="settings_reset_user_auths_missing_message">Данні аутентифікації Geyser або відсутні або порожні!</string>
+    <string name="settings_create_device_dump">Створити дамп</string>
     <string name="settings_create_device_dump_failed_title">Помилка</string>
-    <string name="settings_create_device_dump_failed_message">Failed to upload dump: %1$s</string>
-    <string name="settings_create_device_dump_success_title">Uploaded dump</string>
+    <string name="settings_create_device_dump_failed_message">Не вдалося завантажити інформацію: %1$s</string>
+    <string name="settings_create_device_dump_success_title">Завантажено інформацію</string>
     <string name="settings_create_device_dump_open">Відкрити</string>
-    <string name="settings_create_device_dump_uploading">Uploading dump...</string>
+    <string name="settings_create_device_dump_uploading">Завантаження інформації...</string>
     <string name="settings_other">Інше</string>
     <string name="settings_theme">Тема</string>
 </resources>
