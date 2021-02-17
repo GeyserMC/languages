@@ -13,7 +13,7 @@
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
     <string name="home_desc">Geyser Android 是 Geyser 的安卓版本，包含服务器重定向代理。</string>
-    <string name="home_join_be">加入基岩版服务器服务器</string>
+    <string name="home_join_be">加入基岩版服务器</string>
     <string name="home_join_je">加入 Java 版服务器</string>
     <!-- Proxy Screen -->
     <string name="proxy_address">地址</string>
@@ -99,7 +99,7 @@
     <string name="settings_reset_config">重置 Geyser 配置</string>
     <string name="settings_reset_user_auths">重置 Geyser 用户认证</string>
     <string name="settings_reset_config_success_title">删除配置文件</string>
-    <string name="settings_reset_config_success_message">删除 Geyser 配置</string>
+    <string name="settings_reset_config_success_message">删除 Geyser 配置！</string>
     <string name="settings_reset_config_failed_title">删除失败</string>
     <string name="settings_reset_config_failed_message">无法删除 Geyser 配置文件！</string>
     <string name="settings_reset_config_missing_title">缺少配置文件</string>
