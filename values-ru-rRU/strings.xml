@@ -55,7 +55,7 @@
     <string name="config_editor_simple_advanced">Продвинутый редактор</string>
     <string name="config_editor_simple_user_auths">Данные аутентификации</string>
     <string name="config_editor_simple_generate_failed_title">Не удалось сгенерировать конфиг</string>
-    <string name="config_editor_simple_generate_failed_message">Не удалось сгенерировать конфиг, пожалуйста, сбростье его через настройки!</string>
+    <string name="config_editor_simple_generate_failed_message">Не удалось сгенерировать конфиг, пожалуйста, сбросьте его через настройки!</string>
     <!-- Advanced Config Editor -->
     <string name="config_editor_advanced_title">Продвинутый редактор конфига</string>
     <string name="config_editor_advanced_user_auth_desc">Нажмите для изменения данных аутентификации</string>
