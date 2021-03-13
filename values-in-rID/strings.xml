@@ -72,12 +72,12 @@
     <string name="user_auths_failed_message">The user auths failed to load, please reset them manually!</string>
     <string name="user_auths_save_title">Save</string>
     <string name="user_auths_save_message">Do you wish to save the user auths?</string>
-    <string name="user_auths_save_save">Save</string>
-    <string name="user_auths_save_failed">Unable to save user auths!</string>
-    <string name="user_auths_save_discard">Discard</string>
-    <string name="user_auths_delete_dialog_title">User Auth</string>
-    <string name="user_auths_delete_dialog_message">Are you sure you\'d like to delete the selected entry?</string>
-    <string name="user_auths_delete_dialog_positive">Delete</string>
+    <string name="user_auths_save_save">Simpan</string>
+    <string name="user_auths_save_failed">Gagal menyimpan autentikasi pengguna!</string>
+    <string name="user_auths_save_discard">Batalkan</string>
+    <string name="user_auths_delete_dialog_title">Autentikasi pengguna</string>
+    <string name="user_auths_delete_dialog_message">Apakah kamu yakin untuk menghapus entri yang dipilih?</string>
+    <string name="user_auths_delete_dialog_positive">Hapus</string>
     <!-- User Auth Dialog -->
     <string name="user_auth_dialog_title">User Auth</string>
     <string name="user_auth_dialog_positive">Save</string>
