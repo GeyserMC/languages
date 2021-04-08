@@ -35,7 +35,7 @@
     <string name="geyser_logs">Log</string>
     <string name="geyser_command">Comando</string>
     <string name="geyser_not_running">Geyser non è in esecuzione al momento!</string>
-    <string name="geyser_background_notification">Geyser è in esecuzione nel background!</string>
+    <string name="geyser_background_notification">Geyser è in esecuzione in background!</string>
     <string name="geyser_command_failed">Impossibile eseguire il comando!</string>
     <string name="geyser_proxy_running_warn">Il Proxy LAN è gia in esecuzione, arrestalo in Proxy -&gt; Arresta per poter usare Geyser!</string>
     <!-- Config Editors -->
