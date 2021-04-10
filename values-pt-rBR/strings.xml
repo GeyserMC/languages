@@ -57,15 +57,15 @@
     <string name="config_editor_simple_generate_failed_title">Geração de configurações falhou</string>
     <string name="config_editor_simple_generate_failed_message">A geração de configurações falhou, por favor reinicie-a via definições!</string>
     <!-- Advanced Config Editor -->
-    <string name="config_editor_advanced_title">Editor de config. avançado</string>
-    <string name="config_editor_advanced_user_auth_desc">Clique para editar authenticações de usuários</string>
+    <string name="config_editor_advanced_title">Editor de configurações avançado</string>
+    <string name="config_editor_advanced_user_auth_desc">Clique para editar credenciais de usuários</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">Remoto</string>
     <string name="config_editor_advanced_section_advanced">Avançado</string>
     <string name="config_editor_advanced_section_metrics">Métricos</string>
     <!-- User Auths Editor -->
-    <string name="user_auths_title">Autenticação de usuários</string>
-    <string name="user_auths_exists_title">Autenticação de usuários</string>
+    <string name="user_auths_title">Credenciais do usuário</string>
+    <string name="user_auths_exists_title">Credenciais do usuário</string>
     <string name="user_auths_exists_message">Estas credenciais de usuário já existem para esse usuário de Xbox</string>
     <string name="user_auths_new">Nova autenticação de usuário</string>
     <string name="user_auths_failed_title">Erro ao carregar as credenciais do usuário</string>
