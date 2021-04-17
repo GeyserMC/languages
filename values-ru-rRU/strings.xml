@@ -48,7 +48,7 @@
     <string name="config_editor_failed_title">Не удалось загрузить конфиг</string>
     <string name="config_editor_failed_message">Не удалось загрузить конфиг, пожалуйста, сбросьте его вручную!</string>
     <!-- Simple Config Editor -->
-    <string name="config_editor_simple_title">Простой редаетор конфига</string>
+    <string name="config_editor_simple_title">Простой редактор конфига</string>
     <string name="config_editor_simple_address">Адрес</string>
     <string name="config_editor_simple_port">Порт</string>
     <string name="config_editor_simple_auth_type">Тип авторизации</string>
