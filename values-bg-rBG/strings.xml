@@ -59,7 +59,7 @@
     <!-- Advanced Config Editor -->
     <string name="config_editor_advanced_title">Advanced Config Editor</string>
     <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
-    <string name="config_editor_advanced_section_bedrock">Бедрок</string>
+    <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">Remote</string>
     <string name="config_editor_advanced_section_advanced">Advanced</string>
     <string name="config_editor_advanced_section_metrics">Метрика</string>
@@ -108,12 +108,12 @@
     <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
     <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
     <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
-    <string name="settings_create_device_dump">Create device dump</string>
-    <string name="settings_create_device_dump_failed_title">Error</string>
-    <string name="settings_create_device_dump_failed_message">Failed to upload dump: %1$s</string>
-    <string name="settings_create_device_dump_success_title">Uploaded dump</string>
-    <string name="settings_create_device_dump_open">Open</string>
-    <string name="settings_create_device_dump_uploading">Uploading dump...</string>
-    <string name="settings_other">Other</string>
-    <string name="settings_theme">Theme</string>
+    <string name="settings_create_device_dump">Създаване на dump на устройството</string>
+    <string name="settings_create_device_dump_failed_title">Грешка</string>
+    <string name="settings_create_device_dump_failed_message">Неуспешно качване на dump: %1$s</string>
+    <string name="settings_create_device_dump_success_title">Качен dump</string>
+    <string name="settings_create_device_dump_open">Отвори</string>
+    <string name="settings_create_device_dump_uploading">Качване на dump...</string>
+    <string name="settings_other">Друго</string>
+    <string name="settings_theme">Тема</string>
 </resources>
