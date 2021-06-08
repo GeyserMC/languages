@@ -91,16 +91,16 @@
     <string name="about_links_title">Länkar</string>
     <string name="about_credits_title">Medverkande</string>
     <string name="about_licences_title">Licenser</string>
-    <string name="about_version_copied">Copied version name to clipboard!</string>
+    <string name="about_version_copied">Kopierade versionsnamn till urklipp!</string>
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
-    <string name="settings_storage">Storage Location</string>
-    <string name="settings_config_editor">Config Editor</string>
-    <string name="settings_reset_config">Reset Geyser config</string>
-    <string name="settings_reset_user_auths">Reset Geyser user auths</string>
-    <string name="settings_reset_config_success_title">Deleted config</string>
-    <string name="settings_reset_config_success_message">Removed the Geyser config!</string>
-    <string name="settings_reset_config_failed_title">Deletion failed</string>
+    <string name="settings_storage">Lagringsplats</string>
+    <string name="settings_config_editor">Konfigurationsredigerare</string>
+    <string name="settings_reset_config">Återställ Geyser konfiguration</string>
+    <string name="settings_reset_user_auths">Återställ Geysers användarautentiseringar</string>
+    <string name="settings_reset_config_success_title">Konfiguration borttagen</string>
+    <string name="settings_reset_config_success_message">Tog bort Geyser-konfigurationen!</string>
+    <string name="settings_reset_config_failed_title">Borttagning misslyckades</string>
     <string name="settings_reset_config_failed_message">Det gick inte att ta bort Geyser-konfigurationen!</string>
     <string name="settings_reset_config_missing_title">Saknad konfiguration</string>
     <string name="settings_reset_config_missing_message">Geyser-konfigurationsfilen saknas!</string>
@@ -108,12 +108,12 @@
     <string name="settings_reset_user_auths_success_message">Rensade Geysers användarautentiseringar!</string>
     <string name="settings_reset_user_auths_missing_title">Användarautentisering saknas</string>
     <string name="settings_reset_user_auths_missing_message">Geysers användarautentiseringar saknas eller är tomma!</string>
-    <string name="settings_create_device_dump">Create device dump</string>
-    <string name="settings_create_device_dump_failed_title">Error</string>
-    <string name="settings_create_device_dump_failed_message">Failed to upload dump: %1$s</string>
-    <string name="settings_create_device_dump_success_title">Uploaded dump</string>
-    <string name="settings_create_device_dump_open">Open</string>
-    <string name="settings_create_device_dump_uploading">Uploading dump...</string>
+    <string name="settings_create_device_dump">Skapa enhetsdump</string>
+    <string name="settings_create_device_dump_failed_title">Fel</string>
+    <string name="settings_create_device_dump_failed_message">Det gick inte att ladda upp dump: %1$s</string>
+    <string name="settings_create_device_dump_success_title">Laddade upp dump</string>
+    <string name="settings_create_device_dump_open">Öppna</string>
+    <string name="settings_create_device_dump_uploading">Laddar upp dump...</string>
     <string name="settings_other">Andra</string>
     <string name="settings_theme">Tema</string>
 </resources>
