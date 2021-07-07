@@ -42,10 +42,10 @@
     <string name="config_editor_save_title">Lagre</string>
     <string name="config_editor_save_message">Vil du lagre konfigurasjonen?</string>
     <string name="config_editor_save_save">Lagre</string>
-    <string name="config_editor_save_failed">Kunne ikke skrive konfigurasjonen!</string>
+    <string name="config_editor_save_failed">Kunne ikke skrive konfigurasjon!</string>
     <string name="config_editor_save_discard">Slett</string>
-    <string name="config_editor_config_missing">Kan ikke finne konfigurasjon, start vennligst serveren først!</string>
-    <string name="config_editor_failed_title">Konfigurasjonen kunne ikke laste in</string>
+    <string name="config_editor_config_missing">Kan ikke finne konfigurasjon, vennligst start serveren først!</string>
+    <string name="config_editor_failed_title">Konfigurasjonen kunne ikke laste inn</string>
     <string name="config_editor_failed_message">Konfigurasjonen kunne ikke lastes, vennligst nullstill den manuelt!</string>
     <!-- Simple Config Editor -->
     <string name="config_editor_simple_title">Enkel konfigureringsprogram</string>
@@ -95,14 +95,14 @@
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
     <string name="settings_storage">Lagringssted</string>
-    <string name="settings_config_editor">Config Editor</string>
-    <string name="settings_reset_config">Reset Geyser config</string>
-    <string name="settings_reset_user_auths">Reset Geyser user auths</string>
-    <string name="settings_reset_config_success_title">Deleted config</string>
-    <string name="settings_reset_config_success_message">Removed the Geyser config!</string>
-    <string name="settings_reset_config_failed_title">Deletion failed</string>
-    <string name="settings_reset_config_failed_message">Failed to remove the Geyser config!</string>
-    <string name="settings_reset_config_missing_title">Missing config</string>
+    <string name="settings_config_editor">Konfigurasjons redigering</string>
+    <string name="settings_reset_config">Nullstill Geyser konfigurasjon</string>
+    <string name="settings_reset_user_auths">Tilbakestill Geyser brukerautentisering</string>
+    <string name="settings_reset_config_success_title">Slettet konfigurasjon</string>
+    <string name="settings_reset_config_success_message">Fjernet Geyser konfigurasjon!</string>
+    <string name="settings_reset_config_failed_title">Sletting feilet</string>
+    <string name="settings_reset_config_failed_message">Kunne ikke fjerne Geyser konfigurasjon!</string>
+    <string name="settings_reset_config_missing_title">Mangler konfigurasjon</string>
     <string name="settings_reset_config_missing_message">The Geyser config file is missing!</string>
     <string name="settings_reset_user_auths_success_title">Deleted user auths</string>
     <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
