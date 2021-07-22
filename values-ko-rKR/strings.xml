@@ -102,7 +102,7 @@
     <string name="settings_reset_config_success_message">Geyser 구성을 제거했습니다!</string>
     <string name="settings_reset_config_failed_title">삭제 실패</string>
     <string name="settings_reset_config_failed_message">Geyser 구성을 제거하지 못했습니다!</string>
-    <string name="settings_reset_config_missing_title">설정 없음</string>
+    <string name="settings_reset_config_missing_title">구성 없음</string>
     <string name="settings_reset_config_missing_message">Geyser 구성 파일이 없습니다!</string>
     <string name="settings_reset_user_auths_success_title">사용자 인증 삭제</string>
     <string name="settings_reset_user_auths_success_message">Geyser 사용자 인증을 지웠습니다!</string>
