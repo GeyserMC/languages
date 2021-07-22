@@ -23,7 +23,7 @@
     <string name="proxy_stop">중지</string>
     <string name="proxy_logs">로그</string>
     <string name="proxy_background_notification">LAN 프록시가 백그라운드에서 실행 중입니다!</string>
-    <string name="proxy_geyser_running_warn">Geyser가 이미 실행 중입니다, LAN 프록시를 사용하려면 Geyser -&gt; [중지]에서 중지하세요!</string>
+    <string name="proxy_geyser_running_warn">Geyser가 이미 실행 중입니다, LAN 프록시를 사용하려면 [Geyser] -&gt; [중지]에서 중지하세요!</string>
     <string name="proxy_started">서버가 %s에서 시작되었습니다</string>
     <string name="proxy_shutdown">종료 중입니다!</string>
     <string name="proxy_shutdown_done">종료했습니다!</string>
@@ -37,7 +37,7 @@
     <string name="geyser_not_running">Geyser가 현재 실행되고 있지 않습니다!</string>
     <string name="geyser_background_notification">Geyser가 백그라운드에서 실행 중입니다!</string>
     <string name="geyser_command_failed">명령을 실행하지 못했습니다!</string>
-    <string name="geyser_proxy_running_warn">LAN 프록시가 이미 실행 중입니다, Geyser를 사용하려면 프록시 -&gt; [중지]에서 중지하세요!</string>
+    <string name="geyser_proxy_running_warn">LAN 프록시가 이미 실행 중입니다, Geyser를 사용하려면 [프록시] -&gt; [중지]에서 중지하세요!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">저장</string>
     <string name="config_editor_save_message">구성을 저장하시겠습니까?</string>
@@ -57,7 +57,7 @@
     <string name="config_editor_simple_generate_failed_title">구성을 생성할 수 없음</string>
     <string name="config_editor_simple_generate_failed_message">구성을 생성하지 못했습니다, 설정을 통해 초기화하세요!</string>
     <!-- Advanced Config Editor -->
-    <string name="config_editor_advanced_title">고급 설정 편집기</string>
+    <string name="config_editor_advanced_title">고급 구성 편집기</string>
     <string name="config_editor_advanced_user_auth_desc">사용자 인증을 편집하려면 클릭</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">원격</string>
