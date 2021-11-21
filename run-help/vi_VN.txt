@@ -1,13 +1,13 @@
 
 --------------------------------------------------------------------------------
 
-  Oops! You attempted to run a plugin version of Geyser directly!
+  Ối! Bạn đã cố chạy trực tiếp phiên bản của Geyser!
 
-  This jar file is a plugin for ${plugin_type}. You can run this file as a
-  plugin by dropping the jar file into the "${plugin_folder}" directory.
+  File jar này là plugin cho ${plugin_type}. Bạn có thể chạy file này như
+  plugin bằng cách thả file jar vào thư mục "${plugin_folder}".
 
-  There is also a standalone version available that doesn't need to
-  be installed as a plugin, you can find it on our build server:
+  Phiên bản độc lập cũng khả dụng mà không cần
+  phải được cài dưới dạng plugin, bạn có thể tìm nó ở trên máy chủ phần mềm:
 
     http://ci.geysermc.org/
 
