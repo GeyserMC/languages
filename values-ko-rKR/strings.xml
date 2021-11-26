@@ -24,7 +24,7 @@
     <string name="proxy_logs">로그</string>
     <string name="proxy_background_notification">LAN 프록시가 백그라운드에서 실행 중입니다!</string>
     <string name="proxy_geyser_running_warn">Geyser가 이미 실행 중입니다, LAN 프록시를 사용하려면 [Geyser] -&gt; [중지]에서 중지하세요!</string>
-    <string name="proxy_started">서버가 %s에서 시작되었습니다</string>
+    <string name="proxy_started">%s에서 서버가 시작되었습니다</string>
     <string name="proxy_shutdown">종료 중입니다!</string>
     <string name="proxy_shutdown_done">종료했습니다!</string>
     <!-- Geyser Screen -->
