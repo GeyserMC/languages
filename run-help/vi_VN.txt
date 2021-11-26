@@ -1,0 +1,18 @@
+
+--------------------------------------------------------------------------------
+
+  Ối! Bạn đã cố chạy trực tiếp phiên bản của Geyser!
+
+  File jar này là plugin cho ${plugin_type}. Bạn có thể chạy file này như
+  plugin bằng cách thả file jar vào thư mục "${plugin_folder}".
+
+  Phiên bản độc lập cũng khả dụng mà không cần
+  phải được cài dưới dạng plugin, bạn có thể tìm nó ở trên máy chủ phần mềm:
+
+    http://ci.geysermc.org/
+
+  Nếu bạn cần thêm sự trợ giúp, bạn có thể tham gia Discord của chúng tôi:
+
+    http://discord.geysermc.org/
+
+--------------------------------------------------------------------------------
