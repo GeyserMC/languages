@@ -69,7 +69,7 @@
     <string name="user_auths_exists_message">Estas credenciales de usuario ya existen para ese usuario de Xbox</string>
     <string name="user_auths_new">Nuevas credenciales de usuario</string>
     <string name="user_auths_failed_title">Error al cargar las credenciales de usuario</string>
-    <string name="user_auths_failed_message">Las credenciales de usuario fallaron al cargar, ¡reinícialo manualmente por favor!</string>
+    <string name="user_auths_failed_message">¡Fallaron en cargar las credenciales de usuario, por favor, reinicie estos manualmente!</string>
     <string name="user_auths_save_title">Guardar</string>
     <string name="user_auths_save_message">¿Quieres guardar las credenciales de usuario?</string>
     <string name="user_auths_save_save">Guardar</string>
@@ -88,7 +88,7 @@
     <string name="user_auth_dialog_microsoft">Cuenta de Microsoft</string>
     <!-- About Screen -->
     <string name="about_about_title">Acerca de</string>
-    <string name="about_links_title">Enlances</string>
+    <string name="about_links_title">Enlaces</string>
     <string name="about_credits_title">Créditos</string>
     <string name="about_licences_title">Licencias</string>
     <string name="about_version_copied">¡Nombre de la versión copiado al portapapeles!</string>
