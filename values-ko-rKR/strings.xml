@@ -9,7 +9,7 @@
     <string name="menu_home">홈</string>
     <string name="menu_proxy">LAN 프록시</string>
     <string name="menu_geyser">Geyser</string>
-    <string name="menu_website">웹사이트</string>
+    <string name="menu_website">웹 사이트</string>
     <string name="menu_discord">디스코드</string>
     <!-- Home Screen -->
     <string name="home_desc">Geyser Android는 서버 리디렉션 프록시를 포함한 Android 버전의 Geyser입니다.</string>
@@ -22,29 +22,29 @@
     <string name="proxy_starting">시작 중</string>
     <string name="proxy_stop">중지</string>
     <string name="proxy_logs">로그</string>
-    <string name="proxy_background_notification">LAN 프록시가 백그라운드에서 실행 중입니다!</string>
-    <string name="proxy_geyser_running_warn">Geyser가 이미 실행 중입니다, LAN 프록시를 사용하려면 [Geyser] -&gt; [중지]에서 중지하세요!</string>
-    <string name="proxy_started">%s에서 서버가 시작되었습니다</string>
-    <string name="proxy_shutdown">종료 중입니다!</string>
-    <string name="proxy_shutdown_done">종료했습니다!</string>
+    <string name="proxy_background_notification">LAN 프록시를 백그라운드에서 구동중입니다!</string>
+    <string name="proxy_geyser_running_warn">Geyser가 이미 켜져 있습니다, LAN 프록시를 사용하려면 Geyser를 종료해 주세요!</string>
+    <string name="proxy_started">서버가 %s에서 시작되었습니다</string>
+    <string name="proxy_shutdown">종료하는 중입니다!</string>
+    <string name="proxy_shutdown_done">성공적으로 종료했습니다!</string>
     <!-- Geyser Screen -->
-    <string name="geyser_config">구성</string>
+    <string name="geyser_config">설정</string>
     <string name="geyser_start">시작</string>
     <string name="geyser_starting">시작 중</string>
     <string name="geyser_stop">중지</string>
     <string name="geyser_logs">로그</string>
-    <string name="geyser_command">명령</string>
-    <string name="geyser_not_running">Geyser가 현재 실행되고 있지 않습니다!</string>
-    <string name="geyser_background_notification">Geyser가 백그라운드에서 실행 중입니다!</string>
-    <string name="geyser_command_failed">명령을 실행하지 못했습니다!</string>
-    <string name="geyser_proxy_running_warn">LAN 프록시가 이미 실행 중입니다, Geyser를 사용하려면 [프록시] -&gt; [중지]에서 중지하세요!</string>
+    <string name="geyser_command">명령어 입력</string>
+    <string name="geyser_not_running">Geyser를 아직 켜지 않았습니다!</string>
+    <string name="geyser_background_notification">Geyser를 백그라운드에서 구동중입니다!</string>
+    <string name="geyser_command_failed">명령어 실행을 실패했습니다!</string>
+    <string name="geyser_proxy_running_warn">LAN 프록시가 이미 켜져 있습니다, Geyser를 사용하려면 LAN 프록시를 종료해 주세요!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">저장</string>
-    <string name="config_editor_save_message">구성을 저장하시겠습니까?</string>
+    <string name="config_editor_save_message">설정을 저장하시겠습니까?</string>
     <string name="config_editor_save_save">저장</string>
-    <string name="config_editor_save_failed">구성을 작성할 수 없습니다!</string>
-    <string name="config_editor_save_discard">버리기</string>
-    <string name="config_editor_config_missing">구성을 찾을 수 없습니다, 서버를 먼저 시작하세요!</string>
+    <string name="config_editor_save_failed">설정을 작성할 수 없습니다!</string>
+    <string name="config_editor_save_discard">저장하지 않음</string>
+    <string name="config_editor_config_missing">설정을 확인할 수 없습니다, 서버를 먼저 시작해 주세요!</string>
     <string name="config_editor_failed_title">설정을 불러올 수 없음</string>
     <string name="config_editor_failed_message">설정을 불러올 수 없습니다, 직접 초기화 해주세요!</string>
     <!-- Simple Config Editor -->
