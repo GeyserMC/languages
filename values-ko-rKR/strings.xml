@@ -10,11 +10,11 @@
     <string name="menu_proxy">LAN 프록시</string>
     <string name="menu_geyser">Geyser</string>
     <string name="menu_website">웹 사이트</string>
-    <string name="menu_discord">디스코드</string>
+    <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
-    <string name="home_desc">Geyser Android는 서버 리디렉션 프록시를 포함한 Android 버전의 Geyser입니다.</string>
-    <string name="home_join_be">베드락에디션 서버 참여</string>
-    <string name="home_join_je">자바에디션 서버 참여</string>
+    <string name="home_desc">Geyser 안드로이드는 서버 이동 프록시가 포함된 안드로이드 버전의 Geyser 입니다.</string>
+    <string name="home_join_be">Bedrock 서버 접속</string>
+    <string name="home_join_je">Java 서버 접속</string>
     <!-- Proxy Screen -->
     <string name="proxy_address">주소</string>
     <string name="proxy_port">포트</string>
@@ -59,7 +59,7 @@
     <!-- Advanced Config Editor -->
     <string name="config_editor_advanced_title">고급 설정 편집기</string>
     <string name="config_editor_advanced_user_auth_desc">클릭하여 사용자 인증 수정</string>
-    <string name="config_editor_advanced_section_bedrock">베드락</string>
+    <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">원격</string>
     <string name="config_editor_advanced_section_advanced">고급</string>
     <string name="config_editor_advanced_section_metrics">통계</string>
