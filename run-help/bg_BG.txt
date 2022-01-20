@@ -1,17 +1,17 @@
 
 --------------------------------------------------------------------------------
 
-  Oops! You attempted to run a plugin version of Geyser directly!
+  Опс! Опитахте се да използвате плъгин версията на Geyser директно!
 
-  This jar file is a plugin for ${plugin_type}. You can run this file as a
-  plugin by dropping the jar file into the "${plugin_folder}" directory.
+  Този jar файл е плъгин за ${plugin_type}. Може да използвате този файл като
+  плъгин, като поставите jar файла в директорията "${plugin_folder}".
 
-  There is also a standalone version available that doesn't need to
-  be installed as a plugin, you can find it on our build server:
+  Също така има и самостоятелна версия, която не изисква
+  да бъде инсталиран като плъгин, можете да я намерите на нашия нилд сървър:
 
     http://ci.geysermc.org/
 
-  If you need more help, you should check out our discord:
+  Ако се нуждаете от повече помощ, проверете нашия discord:
 
     http://discord.geysermc.org/
 
