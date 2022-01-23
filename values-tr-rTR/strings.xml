@@ -13,7 +13,7 @@
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
     <string name="home_desc">Geyser Android, bir sunucu yeniden yönlendirme proxy\'si içeren Geyser\'in bir android sürümüdür.</string>
-    <string name="home_join_be">Bedrock sunucusuna katılın</string>
+    <string name="home_join_be">Bir Bedrock sunucusuna katılın</string>
     <string name="home_join_je">Bir Java sunucusuna katılın</string>
     <!-- Proxy Screen -->
     <string name="proxy_address">Adres</string>
@@ -23,7 +23,7 @@
     <string name="proxy_stop">Durdur</string>
     <string name="proxy_logs">Günlükler</string>
     <string name="proxy_background_notification">LAN Proxy arka planda çalışıyor!</string>
-    <string name="proxy_geyser_running_warn">Geyser zaten çalışıyor, lütfen Geyser\'de durdurun -&gt; LAN Proxy\'yi kullanmak için durun!</string>
+    <string name="proxy_geyser_running_warn">Geyser zaten çalışıyor, lütfen Geyser\'ı durdurun -&gt; LAN Proxy\'sini kullanmak için durdurun!</string>
     <string name="proxy_started">Sunucu %s tarihinde başladı</string>
     <string name="proxy_shutdown">Kapatılıyor!</string>
     <string name="proxy_shutdown_done">Başarıyla kapatıldı!</string>
@@ -37,7 +37,7 @@
     <string name="geyser_not_running">Geyser şu anda çalışmıyor!</string>
     <string name="geyser_background_notification">Geyser arka planda çalışıyor!</string>
     <string name="geyser_command_failed">Komut çalıştırılamadı!</string>
-    <string name="geyser_proxy_running_warn">LAN Proxy zaten çalışıyor, lütfen Proxy\'de durdurun -&gt; Geyser\'i kullanmak için durun!</string>
+    <string name="geyser_proxy_running_warn">LAN Proxy\'si zaten çalışıyor, lütfen Proxy\'yi durdurun -&gt; Geyser\'ı kullanmak için durun!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Kaydet</string>
     <string name="config_editor_save_message">Yapılandırmayı kaydetmek istiyor musunuz?</string>
