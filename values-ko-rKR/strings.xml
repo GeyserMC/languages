@@ -4,9 +4,9 @@
     <string name="action_about">정보</string>
     <string name="action_config_help">도움말</string>
     <string name="utils_loader">불러오는 중...</string>
-    <string name="utils_copy_success">텍스트를 복사했습니다.</string>
+    <string name="utils_copy_success">텍스트를 복사했습니다</string>
     <!-- Navigation -->
-    <string name="menu_home">홈</string>
+    <string name="menu_home">메인 메뉴</string>
     <string name="menu_proxy">LAN 프록시</string>
     <string name="menu_geyser">Geyser</string>
     <string name="menu_website">웹 사이트</string>
