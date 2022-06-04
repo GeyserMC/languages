@@ -49,22 +49,22 @@
     <string name="config_editor_failed_message">The config failed to load, please reset it manually!</string>
     <!-- Simple Config Editor -->
     <string name="config_editor_simple_title">Simple Config Editor</string>
-    <string name="config_editor_simple_address">Address</string>
+    <string name="config_editor_simple_address">Alamat</string>
     <string name="config_editor_simple_port">Port</string>
-    <string name="config_editor_simple_auth_type">Auth Type</string>
-    <string name="config_editor_simple_advanced">Advanced</string>
-    <string name="config_editor_simple_user_auths">User Auths</string>
-    <string name="config_editor_simple_generate_failed_title">Config failed to generate</string>
+    <string name="config_editor_simple_auth_type">Tipe Auth</string>
+    <string name="config_editor_simple_advanced">Tingkat lanjut</string>
+    <string name="config_editor_simple_user_auths">Autentikasi pengguna</string>
+    <string name="config_editor_simple_generate_failed_title">Konfigurasi gagal dibuat</string>
     <string name="config_editor_simple_generate_failed_message">The config failed to generate, please reset it via the settings!</string>
     <!-- Advanced Config Editor -->
     <string name="config_editor_advanced_title">Advanced Config Editor</string>
     <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
-    <string name="config_editor_advanced_section_remote">Remote</string>
-    <string name="config_editor_advanced_section_advanced">Advanced</string>
-    <string name="config_editor_advanced_section_metrics">Metrics</string>
+    <string name="config_editor_advanced_section_remote">Jarak jauh</string>
+    <string name="config_editor_advanced_section_advanced">Tingkat lanjut</string>
+    <string name="config_editor_advanced_section_metrics">Metrik</string>
     <!-- User Auths Editor -->
-    <string name="user_auths_title">User Auths</string>
+    <string name="user_auths_title">Autentikasi pengguna</string>
     <string name="user_auths_exists_title">User Auths</string>
     <string name="user_auths_exists_message">User auth already exists for that Xbox username</string>
     <string name="user_auths_new">New User Auth</string>
