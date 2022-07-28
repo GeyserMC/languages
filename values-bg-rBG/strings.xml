@@ -4,27 +4,27 @@
     <string name="action_about">Относно</string>
     <string name="action_config_help">Помощ</string>
     <string name="utils_loader">Зареждане...</string>
-    <string name="utils_copy_success">Копиран Текст</string>
+    <string name="utils_copy_success">Копиран текст</string>
     <!-- Navigation -->
-    <string name="menu_home">Начална Страница</string>
+    <string name="menu_home">Начална страница</string>
     <string name="menu_proxy">LAN Прокси</string>
     <string name="menu_geyser">Geyser</string>
     <string name="menu_website">Уебсайт</string>
     <string name="menu_discord">Дискорд</string>
     <!-- Home Screen -->
     <string name="home_desc">Geyser Android е android версия на Geyser, която включва пренасочващо прокси.</string>
-    <string name="home_join_be">Влез в Bedrock сървър</string>
-    <string name="home_join_je">Влез в Java сървър</string>
+    <string name="home_join_be">Присъединяване към сървър на Bedrock</string>
+    <string name="home_join_je">Присъединяване към сървър на Java</string>
     <!-- Proxy Screen -->
     <string name="proxy_address">Адрес</string>
     <string name="proxy_port">Порт</string>
     <string name="proxy_start">Старт</string>
-    <string name="proxy_starting">Стартиране</string>
+    <string name="proxy_starting">Започване</string>
     <string name="proxy_stop">Стоп</string>
-    <string name="proxy_logs">Логове</string>
+    <string name="proxy_logs">Дневници на събития</string>
     <string name="proxy_background_notification">LAN Прокси работи на заден фон!</string>
     <string name="proxy_geyser_running_warn">Geyser вече работи, моля спрете Geyser от - &gt; Спрете, за да използвате LAN Прокси!</string>
-    <string name="proxy_started">Сървъра е стартиран на %s</string>
+    <string name="proxy_started">Сървърът започна на %s</string>
     <string name="proxy_shutdown">Изключване!</string>
     <string name="proxy_shutdown_done">Успешно изключване!</string>
     <!-- Geyser Screen -->
@@ -32,17 +32,17 @@
     <string name="geyser_start">Старт</string>
     <string name="geyser_starting">Стартиране</string>
     <string name="geyser_stop">Стоп</string>
-    <string name="geyser_logs">Логове</string>
+    <string name="geyser_logs">Дневници на събития</string>
     <string name="geyser_command">Команда</string>
     <string name="geyser_not_running">Geyser не работи в момента!</string>
     <string name="geyser_background_notification">Geyser работи на заден фон!</string>
     <string name="geyser_command_failed">Провал при опит за изпълнение на командата!</string>
     <string name="geyser_proxy_running_warn">LAN Прокси вече работи, моля спрете Проксито -&gt; Спрете, за да използвате Geyser!</string>
     <!-- Config Editors -->
-    <string name="config_editor_save_title">Запази</string>
+    <string name="config_editor_save_title">Запазване</string>
     <string name="config_editor_save_message">Желаете ли да запазите конфигурацията?</string>
-    <string name="config_editor_save_save">Запази</string>
-    <string name="config_editor_save_failed">Не можем да запишем конфигурацията!</string>
+    <string name="config_editor_save_save">Запазване</string>
+    <string name="config_editor_save_failed">Конфигурирането не може да се запише!</string>
     <string name="config_editor_save_discard">Отхвърли</string>
     <string name="config_editor_config_missing">Не можахме да намерим конфигурацията, моля първо стартирайте сървъра!</string>
     <string name="config_editor_failed_title">Конфигурацията не можа да зареди</string>
@@ -51,9 +51,9 @@
     <string name="config_editor_simple_title">Прост Конфиг Редактор</string>
     <string name="config_editor_simple_address">Адрес</string>
     <string name="config_editor_simple_port">Порт</string>
-    <string name="config_editor_simple_auth_type">Тип Аутентикация</string>
+    <string name="config_editor_simple_auth_type">Тип на удостоверяване</string>
     <string name="config_editor_simple_advanced">Разширено</string>
-    <string name="config_editor_simple_user_auths">Потребителски Аутентикации</string>
+    <string name="config_editor_simple_user_auths">Потребителски удостоверявания</string>
     <string name="config_editor_simple_generate_failed_title">Конфигурацията не успя да се генерира</string>
     <string name="config_editor_simple_generate_failed_message">Конфигурацията не успя да се генерира, моля ресетнете я чрез настройките!</string>
     <!-- Advanced Config Editor -->
@@ -70,26 +70,26 @@
     <string name="user_auths_new">Нова Потребителска Аутентикация</string>
     <string name="user_auths_failed_title">Потребителските Аутентикации не успяха да се заредят</string>
     <string name="user_auths_failed_message">Потребителските аутентикации не успяха да се заредят, моля ресетнете ги ръчно!</string>
-    <string name="user_auths_save_title">Запази</string>
-    <string name="user_auths_save_message">Желаете ли да запазите потребителските аутентикации?</string>
-    <string name="user_auths_save_save">Запази</string>
-    <string name="user_auths_save_failed">Не можахме да запазим потребителските аутентикации!</string>
+    <string name="user_auths_save_title">Запазване</string>
+    <string name="user_auths_save_message">Желаете ли да запазите потребителските удостоверявания?</string>
+    <string name="user_auths_save_save">Запазване</string>
+    <string name="user_auths_save_failed">Неуспешно запазване на потребителските удостоверявания!</string>
     <string name="user_auths_save_discard">Отхвърли</string>
     <string name="user_auths_delete_dialog_title">Потребителска Аутентикация</string>
     <string name="user_auths_delete_dialog_message">Сигурни ли сте, че искате да изтриете избрания запис?</string>
-    <string name="user_auths_delete_dialog_positive">Изтрий</string>
+    <string name="user_auths_delete_dialog_positive">Изтриване</string>
     <!-- User Auth Dialog -->
-    <string name="user_auth_dialog_title">Потребителска Аутентикация</string>
-    <string name="user_auth_dialog_positive">Запази</string>
-    <string name="user_auth_dialog_negative">Откажи</string>
-    <string name="user_auth_dialog_xbox_username">Xbox Потребителско Име</string>
+    <string name="user_auth_dialog_title">Потребителски удостоверявания</string>
+    <string name="user_auth_dialog_positive">Запазване</string>
+    <string name="user_auth_dialog_negative">Отказ</string>
+    <string name="user_auth_dialog_xbox_username">Потребителско име в Xbox</string>
     <string name="user_auth_dialog_java_username">Java Имейл</string>
     <string name="user_auth_dialog_java_password">Java Парола</string>
-    <string name="user_auth_dialog_microsoft">Microsoft Акаунт</string>
+    <string name="user_auth_dialog_microsoft">Акаунт в Microsoft</string>
     <!-- About Screen -->
     <string name="about_about_title">Относно</string>
     <string name="about_links_title">Линкове</string>
-    <string name="about_credits_title">Кредити</string>
+    <string name="about_credits_title">Заслуги</string>
     <string name="about_licences_title">Лицензи</string>
     <string name="about_version_copied">Името на версията е копирано в клипборда!</string>
     <!-- Settings Screen -->
@@ -97,22 +97,22 @@
     <string name="settings_storage">Място за Съхранение</string>
     <string name="settings_config_editor">Редактор на Конфигурация</string>
     <string name="settings_reset_config">Ресетни Конфигурацията на Geyser</string>
-    <string name="settings_reset_user_auths">Ресетни Потребителските Аутентикации на Geyser</string>
+    <string name="settings_reset_user_auths">Зануляване на потребителските удостоверения на Geyser</string>
     <string name="settings_reset_config_success_title">Изтрита конфигурация</string>
     <string name="settings_reset_config_success_message">Премахни конфигурацията на Geyser!</string>
     <string name="settings_reset_config_failed_title">Провал при изтриване</string>
     <string name="settings_reset_config_failed_message">Провал при изтриването на конфигурацията на Geyser!</string>
     <string name="settings_reset_config_missing_title">Липсваща конфигурация</string>
     <string name="settings_reset_config_missing_message">Конфигурационния файл на Geyser липсва!</string>
-    <string name="settings_reset_user_auths_success_title">Изтрити потребителски аутентикации</string>
-    <string name="settings_reset_user_auths_success_message">Потребителските аутентикации на Geyser са изтрити!</string>
-    <string name="settings_reset_user_auths_missing_title">Липсващи потребителски аутентикации</string>
+    <string name="settings_reset_user_auths_success_title">Изтрити потребителски удостоверения</string>
+    <string name="settings_reset_user_auths_success_message">Потребителските удостоверения на Geyser са изтрити!</string>
+    <string name="settings_reset_user_auths_missing_title">Липсват потребителски удостоверения</string>
     <string name="settings_reset_user_auths_missing_message">Потребителските аутентикации на Geyser или са празни или липсват!</string>
     <string name="settings_create_device_dump">Създаване на dump на устройството</string>
     <string name="settings_create_device_dump_failed_title">Грешка</string>
     <string name="settings_create_device_dump_failed_message">Неуспешно качване на dump: %1$s</string>
     <string name="settings_create_device_dump_success_title">Качен dump</string>
-    <string name="settings_create_device_dump_open">Отвори</string>
+    <string name="settings_create_device_dump_open">Отваряне</string>
     <string name="settings_create_device_dump_uploading">Качване на dump...</string>
     <string name="settings_other">Друго</string>
     <string name="settings_theme">Тема</string>
