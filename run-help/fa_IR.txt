@@ -1,0 +1,18 @@
+
+--------------------------------------------------------------------------------
+
+  Oops! Shoma talash kardid ke yek noskhe az plugin Geyser ra mostaghiman ejra konid!
+
+  In file JAR yek plugin baraye ${plugin_type} mibashad. Shoma mitavanid in file ra be onvan yek
+   plugin ba drop kardan file JAR dar masir "${plugin_folder}" ejra konid.
+
+  Hamchenin yek noskhe joda vojod darad ke niazi be
+   nasb be onvan yek plugin nadarad, shoma mitavanid an ra dar server build ma peyda konid:
+
+    http://ci.geysermc.org/
+
+  Agar niaz be komak bishtar dashtid, hamchenin mitavanid be server Discord ma join shavid:
+
+    http://discord.geysermc.org/
+
+--------------------------------------------------------------------------------
