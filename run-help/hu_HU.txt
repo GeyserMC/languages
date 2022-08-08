@@ -1,17 +1,17 @@
 
 --------------------------------------------------------------------------------
 
-  Hoppá! You attempted to run a plugin version of Geyser directly!
+  Hoppá! Megpróbáltad közvetlenül futtatni a Geyser plugin verzióját!
 
-  This jar file is a plugin for ${plugin_type}. You can run this file as a
-  plugin by dropping the jar file into the "${plugin_folder}" directory.
+  Ez a jar fájl a ${plugin_type} beépülő modulja. Ezt a fájlt bővítményként futtathatja,
+  ha a jar fájlt a „${plugin_folder}” könyvtárba helyezi.
 
-  There is also a standalone version available that doesn't need to
-  be installed as a plugin, you can find it on our build server:
+  Rendelkezésre áll egy különálló verzió is,
+  amelyet nem kell bővítményként telepíteni, megtalálható a build szerverünkön:
 
     http://ci.geysermc.org/
 
-  If you need more help, you should check out our discord:
+  Ha további segítségre van szüksége, nézze meg diszkordunkat:
 
     http://discord.geysermc.org/
 
