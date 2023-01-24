@@ -45,7 +45,7 @@
     <string name="config_editor_save_failed">ناتوانی در نوشتن پیکربندی!</string>
     <string name="config_editor_save_discard">لغو تغییرات</string>
     <string name="config_editor_config_missing">Unable to locate config, please start the server first!</string>
-    <string name="config_editor_failed_title">Config failed to load</string>
+    <string name="config_editor_failed_title">پیکربندی بالا نیامد</string>
     <string name="config_editor_failed_message">The config failed to load, please reset it manually!</string>
     <!-- Simple Config Editor -->
     <string name="config_editor_simple_title">ویرایشگر ساده پیکربندی</string>
