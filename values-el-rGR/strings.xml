@@ -7,9 +7,9 @@
     <string name="utils_copy_success">Αντιγραμμένο κείμενο</string>
     <!-- Navigation -->
     <string name="menu_home">Σπίτι</string>
-    <string name="menu_proxy">LAN Proxy</string>
+    <string name="menu_proxy">Μεσολαβητής Τοπικού Δικτύου</string>
     <string name="menu_geyser">Geyser</string>
-    <string name="menu_website">Website</string>
+    <string name="menu_website">Ιστοσελίδα</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
     <string name="home_desc">Geyser Android is an android version of Geyser including a server redirection proxy.</string>
