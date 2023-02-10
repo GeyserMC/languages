@@ -108,7 +108,7 @@
     <string name="settings_reset_user_auths_success_message">Přihlašovací údaje jsou vymazány!</string>
     <string name="settings_reset_user_auths_missing_title">Přihlašovací údaje chybí</string>
     <string name="settings_reset_user_auths_missing_message">Přihlašovací údaje Geyseru chybí nebo jsou prázdné!</string>
-    <string name="settings_create_device_dump">Vytvořit dump zaízení</string>
+    <string name="settings_create_device_dump">Vytvořit výpis paměti</string>
     <string name="settings_create_device_dump_failed_title">Chyba</string>
     <string name="settings_create_device_dump_failed_message">Selhalo nahrání dumpu %1$s</string>
     <string name="settings_create_device_dump_success_title">Nahrán dump</string>
