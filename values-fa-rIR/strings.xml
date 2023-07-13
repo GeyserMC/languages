@@ -54,15 +54,15 @@
     <string name="config_editor_simple_auth_type">نحوه تائید اعتبار</string>
     <string name="config_editor_simple_advanced">پیشرفته</string>
     <string name="config_editor_simple_user_auths">User Auths</string>
-    <string name="config_editor_simple_generate_failed_title">Config failed to generate</string>
-    <string name="config_editor_simple_generate_failed_message">The config failed to generate, please reset it via the settings!</string>
+    <string name="config_editor_simple_generate_failed_title">پیکربندی نتوانست درست شود</string>
+    <string name="config_editor_simple_generate_failed_message">پیکربندی نتوانست درست شود لطفا از طریق ستینگ ریسیت نمایید!</string>
     <!-- Advanced Config Editor -->
     <string name="config_editor_advanced_title">Advanced Config Editor</string>
     <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
-    <string name="config_editor_advanced_section_bedrock">Bedrock</string>
-    <string name="config_editor_advanced_section_remote">Remote</string>
-    <string name="config_editor_advanced_section_advanced">Advanced</string>
-    <string name="config_editor_advanced_section_metrics">Metrics</string>
+    <string name="config_editor_advanced_section_bedrock">بدراک</string>
+    <string name="config_editor_advanced_section_remote">ریموت</string>
+    <string name="config_editor_advanced_section_advanced">پیشرفته</string>
+    <string name="config_editor_advanced_section_metrics">معیارها</string>
     <!-- User Auths Editor -->
     <string name="user_auths_title">User Auths</string>
     <string name="user_auths_exists_title">User Auths</string>
