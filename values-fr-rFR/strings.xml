@@ -25,8 +25,8 @@
     <string name="proxy_background_notification">Le proxy LAN est en cours d’exécution en arrière plan !</string>
     <string name="proxy_geyser_running_warn">Geyser est déjà en cours d\'exécution, veuillez l\'arrêter dans Geyser -&gt; Arrêtez afin d\'utiliser le Proxy LAN !</string>
     <string name="proxy_started">Serveur démarré sur %s</string>
-    <string name="proxy_shutdown">Extinction !</string>
-    <string name="proxy_shutdown_done">Extinction complète !</string>
+    <string name="proxy_shutdown">Arrêt en cours !</string>
+    <string name="proxy_shutdown_done">Arrêt réussi !</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">Configuration</string>
     <string name="geyser_start">Exécuter</string>
