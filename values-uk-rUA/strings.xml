@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_settings">Налаштування</string>
-    <string name="action_about">Інформація</string>
-    <string name="action_config_help">Допомога</string>
+    <string name="action_about">Про мод</string>
+    <string name="action_config_help">Довідка</string>
     <string name="utils_loader">Завантаження...</string>
     <string name="utils_copy_success">Скопійовано текст</string>
     <!-- Navigation -->
