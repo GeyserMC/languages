@@ -61,7 +61,7 @@
     <string name="config_editor_advanced_user_auth_desc">Натисніть для зміни даних автентифікації</string>
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">Налаштування віддаленого підключення</string>
-    <string name="config_editor_advanced_section_advanced">Просунуті налаштування</string>
+    <string name="config_editor_advanced_section_advanced">Додатково</string>
     <string name="config_editor_advanced_section_metrics">Метрика</string>
     <!-- User Auths Editor -->
     <string name="user_auths_title">Дані автентифікації</string>
