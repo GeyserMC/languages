@@ -1,17 +1,17 @@
 
 --------------------------------------------------------------------------------
 
-  Oops! You attempted to run a plugin version of Geyser directly!
+  Ups! Pokúsili ste sa priamo spustiť pluginovú verziu Geyseru!
 
-  This jar file is a plugin for ${plugin_type}. You can run this file as a
-  plugin by dropping the jar file into the "${plugin_folder}" directory.
+  Tento jar súbor je plugin pre ${plugin_type}. Môžete spustiť tento súbor ako
+  plugin prehodením jar súboru do priečinka „${plugin_folder}".
 
-  There is also a standalone version available that doesn't need to
-  be installed as a plugin, you can find it on our build server:
+  K dispozícii je aj samostatná verzia, ktorá nepotrebuje
+  byť nainštalovaná ako plugin, nájdete ju na build serveri:
 
     http://ci.geysermc.org/
 
-  If you need more help, you should check out our discord:
+  Ak potrebujete ďalšiu pomoc, mali by ste sa pozrieť na náš discord:
 
     http://discord.geysermc.org/
 
