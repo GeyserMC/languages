@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Cài đặt</string>
+    <string name="action_about">Thông tin</string>
+    <string name="action_config_help">Trợ giúp</string>
+    <string name="utils_loader">Đang tải...</string>
+    <string name="utils_copy_success">Đã sao chép văn bản</string>
+    <!-- Navigation -->
+    <string name="menu_home">Trang chính</string>
+    <string name="menu_proxy">Proxy LAN</string>
+    <string name="menu_geyser">Geyser</string>
+    <string name="menu_website">Trang web</string>
+    <string name="menu_discord">Discord</string>
+    <!-- Home Screen -->
+    <string name="home_desc">Geyser Android là phiên bản Android của Geyser với proxy chuyển hướng máy chủ.</string>
+    <string name="home_join_be">Tham gia máy chủ Bedrock</string>
+    <string name="home_join_je">Tham gia máy chủ Java</string>
+    <!-- Proxy Screen -->
+    <string name="proxy_address">Địa chỉ</string>
+    <string name="proxy_port">Cổng</string>
+    <string name="proxy_start">Khởi động</string>
+    <string name="proxy_starting">Đang khởi động</string>
+    <string name="proxy_stop">Dừng</string>
+    <string name="proxy_logs">Nhật ký</string>
+    <string name="proxy_background_notification">Proxy LAN đang chạy ở trong nền!</string>
+    <string name="proxy_geyser_running_warn">Geyser vẫn đang chạy, vui lòng dừng nó ở Geyser -&gt; Dừng để dùng Proxy LAN!</string>
+    <string name="proxy_started">Máy chủ đã khởi động trên %s</string>
+    <string name="proxy_shutdown">Đang tắt!</string>
+    <string name="proxy_shutdown_done">Đã tắt!</string>
+    <!-- Geyser Screen -->
+    <string name="geyser_config">Cấu hình</string>
+    <string name="geyser_start">Khởi động</string>
+    <string name="geyser_starting">Đang khởi động</string>
+    <string name="geyser_stop">Dừng</string>
+    <string name="geyser_logs">Nhật ký</string>
+    <string name="geyser_command">Lệnh</string>
+    <string name="geyser_not_running">Geyser đang không chạy!</string>
+    <string name="geyser_background_notification">Geyser đang chạy ở trong nền!</string>
+    <string name="geyser_command_failed">Không thể chạy lệnh!</string>
+    <string name="geyser_proxy_running_warn">Proxy LAN vẫn đang chạy, vui lòng dừng nó ở Proxy -&gt; Dừng để dùng Geyser!</string>
+    <!-- Config Editors -->
+    <string name="config_editor_save_title">Lưu</string>
+    <string name="config_editor_save_message">Bạn có muốn lưu cấu hình không?</string>
+    <string name="config_editor_save_save">Lưu</string>
+    <string name="config_editor_save_failed">Không thể lưu cấu hình!</string>
+    <string name="config_editor_save_discard">Hủy bỏ</string>
+    <string name="config_editor_config_missing">Không thể tìm được cấu hình, vui lòng khởi động máy chủ trước!</string>
+    <string name="config_editor_failed_title">Không thể tải được cấu hình</string>
+    <string name="config_editor_failed_message">Không thể tải được cấu hình, vui lòng cài lại thủ công!</string>
+    <!-- Simple Config Editor -->
+    <string name="config_editor_simple_title">Trình cài đặt cấu hình đơn giản</string>
+    <string name="config_editor_simple_address">Địa chỉ</string>
+    <string name="config_editor_simple_port">Cổng</string>
+    <string name="config_editor_simple_auth_type">Loại xác thực</string>
+    <string name="config_editor_simple_advanced">Nâng cao</string>
+    <string name="config_editor_simple_user_auths">Xác thực của người dùng</string>
+    <string name="config_editor_simple_generate_failed_title">Không thể tạo được cấu hình</string>
+    <string name="config_editor_simple_generate_failed_message">Không thể tạo được cấu hình, vui lòng cài lại nó trong phần cài đặt!</string>
+    <!-- Advanced Config Editor -->
+    <string name="config_editor_advanced_title">Trình chỉnh sửa cấu hình nâng cao</string>
+    <string name="config_editor_advanced_user_auth_desc">Bấm để sửa xác thực người dùng</string>
+    <string name="config_editor_advanced_section_bedrock">Bedrock</string>
+    <string name="config_editor_advanced_section_remote">Máy chủ</string>
+    <string name="config_editor_advanced_section_advanced">Nâng cao</string>
+    <string name="config_editor_advanced_section_metrics">Các số liệu</string>
+    <!-- User Auths Editor -->
+    <string name="user_auths_title">Xác thực người dùng</string>
+    <string name="user_auths_exists_title">Xác thực người dùng</string>
+    <string name="user_auths_exists_message">Xác thực người dùng đã có cho người chơi Xbox đó</string>
+    <string name="user_auths_new">Tạo xác thực người dùng</string>
+    <string name="user_auths_failed_title">Không thể tải xác thực người dùng</string>
+    <string name="user_auths_failed_message">Không thể tải được xác thực người dùng, vui lòng cài lại chúng thủ công!</string>
+    <string name="user_auths_save_title">Lưu</string>
+    <string name="user_auths_save_message">Bạn có muốn lưu xác thực người dùng không?</string>
+    <string name="user_auths_save_save">Lưu</string>
+    <string name="user_auths_save_failed">Không thể lưu xác thực người dùng!</string>
+    <string name="user_auths_save_discard">Hủy bỏ</string>
+    <string name="user_auths_delete_dialog_title">Xác thực người dùng</string>
+    <string name="user_auths_delete_dialog_message">Bạn có chắc muốn xóa mục đã chọn không?</string>
+    <string name="user_auths_delete_dialog_positive">Xóa</string>
+    <!-- User Auth Dialog -->
+    <string name="user_auth_dialog_title">Xác thực người dùng</string>
+    <string name="user_auth_dialog_positive">Lưu</string>
+    <string name="user_auth_dialog_negative">Hủy</string>
+    <string name="user_auth_dialog_xbox_username">Tên người dùng Xbox</string>
+    <string name="user_auth_dialog_java_username">Email Java</string>
+    <string name="user_auth_dialog_java_password">Mật khẩu Java</string>
+    <string name="user_auth_dialog_microsoft">Tài khoản Microsoft</string>
+    <!-- About Screen -->
+    <string name="about_about_title">Thông tin</string>
+    <string name="about_links_title">Liên kết</string>
+    <string name="about_credits_title">Những người đóng góp</string>
+    <string name="about_licences_title">Giấy phép</string>
+    <string name="about_version_copied">Đã sao chép tên phiên bản vào bộ nhớ tạm!</string>
+    <!-- Settings Screen -->
+    <string name="settings_geyser">Geyser</string>
+    <string name="settings_storage">Vị trí lưu trữ</string>
+    <string name="settings_config_editor">Trình chỉnh sửa cấu hình</string>
+    <string name="settings_reset_config">Cài lại cấu hình Geyser</string>
+    <string name="settings_reset_user_auths">Cài lại xác thực người dùng cho Geyser</string>
+    <string name="settings_reset_config_success_title">Đã xóa cấu hình</string>
+    <string name="settings_reset_config_success_message">Đã xóa cấu hình Geyser!</string>
+    <string name="settings_reset_config_failed_title">Không thể xóa</string>
+    <string name="settings_reset_config_failed_message">Không thể xóa cấu hình Geyser!</string>
+    <string name="settings_reset_config_missing_title">Cấu hình còn thiếu</string>
+    <string name="settings_reset_config_missing_message">Tệp cấu hình Geyser không tồn tại!</string>
+    <string name="settings_reset_user_auths_success_title">Đã xóa xác thực người dùng</string>
+    <string name="settings_reset_user_auths_success_message">Đã dọn xác thực người dùng cho Geyser!</string>
+    <string name="settings_reset_user_auths_missing_title">Thiếu xác thực người dùng</string>
+    <string name="settings_reset_user_auths_missing_message">Xác thực người dùng cho geyser có thể đang không tồn tại hoặc đang trống!</string>
+    <string name="settings_create_device_dump">Tạo bản kết xuất thiết bị</string>
+    <string name="settings_create_device_dump_failed_title">Lỗi</string>
+    <string name="settings_create_device_dump_failed_message">Không thể tải bản kết xuất lên: %1$s</string>
+    <string name="settings_create_device_dump_success_title">Đã tải lên bản kết xuất</string>
+    <string name="settings_create_device_dump_open">Mở</string>
+    <string name="settings_create_device_dump_uploading">Đang tải lên bản kết xuất...</string>
+    <string name="settings_other">Khác</string>
+    <string name="settings_theme">Giao diện</string>
+</resources>

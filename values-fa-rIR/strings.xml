@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">تنظیمات</string>
+    <string name="action_about">درباره</string>
+    <string name="action_config_help">راهنما</string>
+    <string name="utils_loader">درحال بارگذاری...</string>
+    <string name="utils_copy_success">متن کپی شد</string>
+    <!-- Navigation -->
+    <string name="menu_home">خانه</string>
+    <string name="menu_proxy">پروکسی LAN</string>
+    <string name="menu_geyser">آبفشان</string>
+    <string name="menu_website">وبسایت</string>
+    <string name="menu_discord">دیسکورد</string>
+    <!-- Home Screen -->
+    <string name="home_desc">آبفشان اندروید یک نسخه از آبفشان بوده که شامل پروکسی انتقال به سرور نیز می باشد.</string>
+    <string name="home_join_be">پیوستن به یک سرور بدراک</string>
+    <string name="home_join_je">پیوستن به یک سرور جاوا</string>
+    <!-- Proxy Screen -->
+    <string name="proxy_address">آدرس</string>
+    <string name="proxy_port">پورت</string>
+    <string name="proxy_start">شروع</string>
+    <string name="proxy_starting">درحال شروع کردن</string>
+    <string name="proxy_stop">توقف</string>
+    <string name="proxy_logs">لاگ ها</string>
+    <string name="proxy_background_notification">پروکسی LAN درحال اجرا در پس زمینه می باشد!</string>
+    <string name="proxy_geyser_running_warn">آبفشان از قبل درحال اجراست، لطفا آن را در آبفشان متوقف کنید -&gt; برای استفاده از پروکسی LAN آن را متوقف کنید!</string>
+    <string name="proxy_started">سرور روی %s شروع به کار کرد</string>
+    <string name="proxy_shutdown">درحال خاموش کردن!</string>
+    <string name="proxy_shutdown_done">با موفقیت خاموش شد!</string>
+    <!-- Geyser Screen -->
+    <string name="geyser_config">پیکربندی</string>
+    <string name="geyser_start">شروع</string>
+    <string name="geyser_starting">درحال شروع کردن</string>
+    <string name="geyser_stop">توقف</string>
+    <string name="geyser_logs">لاگ ها</string>
+    <string name="geyser_command">دستور</string>
+    <string name="geyser_not_running">آبفشان درحال حاضر در اجرا نمی باشد!</string>
+    <string name="geyser_background_notification">آبفشان در پس زمینه در حال اجرا می باشد!</string>
+    <string name="geyser_command_failed">شکست در اجرای دستور!</string>
+    <string name="geyser_proxy_running_warn">پروکسی LAN از قبل درحال اجراست، لطفا آن را در Proxy متوقف کنید -&gt; برای استفاده از آبفشان آن را متوقف کنید!</string>
+    <!-- Config Editors -->
+    <string name="config_editor_save_title">ذخیره</string>
+    <string name="config_editor_save_message">آیا می خواهید پیکربندی را ذخیره کنید؟</string>
+    <string name="config_editor_save_save">ذخیره</string>
+    <string name="config_editor_save_failed">ناتوانی در نوشتن پیکربندی!</string>
+    <string name="config_editor_save_discard">لغو تغییرات</string>
+    <string name="config_editor_config_missing">نمیتوان جای پیکربندی را پیدا کرد لطفا اول سرور را روشن کنید!</string>
+    <string name="config_editor_failed_title">پیکربندی بالا نیامد</string>
+    <string name="config_editor_failed_message">این پیکربندی نتوانست بالا بیاید لطفا دستی آن را ریست کنید!</string>
+    <!-- Simple Config Editor -->
+    <string name="config_editor_simple_title">ویرایشگر ساده پیکربندی</string>
+    <string name="config_editor_simple_address">آدرس ها</string>
+    <string name="config_editor_simple_port">پورت</string>
+    <string name="config_editor_simple_auth_type">نحوه تائید اعتبار</string>
+    <string name="config_editor_simple_advanced">پیشرفته</string>
+    <string name="config_editor_simple_user_auths">User Auths</string>
+    <string name="config_editor_simple_generate_failed_title">پیکربندی نتوانست درست شود</string>
+    <string name="config_editor_simple_generate_failed_message">پیکربندی نتوانست درست شود لطفا از طریق ستینگ ریسیت نمایید!</string>
+    <!-- Advanced Config Editor -->
+    <string name="config_editor_advanced_title">Advanced Config Editor</string>
+    <string name="config_editor_advanced_user_auth_desc">Click to edit user auths</string>
+    <string name="config_editor_advanced_section_bedrock">بدراک</string>
+    <string name="config_editor_advanced_section_remote">ریموت</string>
+    <string name="config_editor_advanced_section_advanced">پیشرفته</string>
+    <string name="config_editor_advanced_section_metrics">معیارها</string>
+    <!-- User Auths Editor -->
+    <string name="user_auths_title">User Auths</string>
+    <string name="user_auths_exists_title">User Auths</string>
+    <string name="user_auths_exists_message">User auth already exists for that Xbox username</string>
+    <string name="user_auths_new">New User Auth</string>
+    <string name="user_auths_failed_title">User Auths failed to load</string>
+    <string name="user_auths_failed_message">The user auths failed to load, please reset them manually!</string>
+    <string name="user_auths_save_title">ذخیره</string>
+    <string name="user_auths_save_message">Do you wish to save the user auths?</string>
+    <string name="user_auths_save_save">ذخیره</string>
+    <string name="user_auths_save_failed">Unable to save user auths!</string>
+    <string name="user_auths_save_discard">لغو تغییرات</string>
+    <string name="user_auths_delete_dialog_title">User Auth</string>
+    <string name="user_auths_delete_dialog_message">آیا مطمئن هستید که می‌خواهید این مورد انتخاب شده را حذف کنید?</string>
+    <string name="user_auths_delete_dialog_positive">حذف</string>
+    <!-- User Auth Dialog -->
+    <string name="user_auth_dialog_title">User Auth</string>
+    <string name="user_auth_dialog_positive">ذخیره</string>
+    <string name="user_auth_dialog_negative">لغو</string>
+    <string name="user_auth_dialog_xbox_username">نام کاربری Xbox</string>
+    <string name="user_auth_dialog_java_username">ایمیل جاوا</string>
+    <string name="user_auth_dialog_java_password">رمز جاوا</string>
+    <string name="user_auth_dialog_microsoft">حساب مایکروسافت</string>
+    <!-- About Screen -->
+    <string name="about_about_title">درباره</string>
+    <string name="about_links_title">پیوندها</string>
+    <string name="about_credits_title">عوامل تهیه</string>
+    <string name="about_licences_title">گواهی ها</string>
+    <string name="about_version_copied">نام نسخه در بریده‌دان کپی شد!</string>
+    <!-- Settings Screen -->
+    <string name="settings_geyser">آبفشان</string>
+    <string name="settings_storage">Storage Location</string>
+    <string name="settings_config_editor">Config Editor</string>
+    <string name="settings_reset_config">Reset Geyser config</string>
+    <string name="settings_reset_user_auths">Reset Geyser user auths</string>
+    <string name="settings_reset_config_success_title">پیکربندی پاک شده</string>
+    <string name="settings_reset_config_success_message">پیکربندی آبفشان پاک شد!</string>
+    <string name="settings_reset_config_failed_title">حذف با شکست مواجه شد</string>
+    <string name="settings_reset_config_failed_message">Failed to remove the Geyser config!</string>
+    <string name="settings_reset_config_missing_title">پیکربندی گم شده</string>
+    <string name="settings_reset_config_missing_message">فایل پیکربندی آبفشان گم شده است!</string>
+    <string name="settings_reset_user_auths_success_title">Deleted user auths</string>
+    <string name="settings_reset_user_auths_success_message">Cleared the Geyser user auths!</string>
+    <string name="settings_reset_user_auths_missing_title">Missing user auths</string>
+    <string name="settings_reset_user_auths_missing_message">The Geyser user auths are either missing or empty!</string>
+    <string name="settings_create_device_dump">Create device dump</string>
+    <string name="settings_create_device_dump_failed_title">خطا</string>
+    <string name="settings_create_device_dump_failed_message">Failed to upload dump: %1$s</string>
+    <string name="settings_create_device_dump_success_title">Uploaded dump</string>
+    <string name="settings_create_device_dump_open">باز کردن</string>
+    <string name="settings_create_device_dump_uploading">Uploading dump...</string>
+    <string name="settings_other">سایر موارد</string>
+    <string name="settings_theme">زمینه</string>
+</resources>

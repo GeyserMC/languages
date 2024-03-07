@@ -55,21 +55,21 @@
     <string name="config_editor_simple_advanced">高度</string>
     <string name="config_editor_simple_user_auths">認証設定を使用</string>
     <string name="config_editor_simple_generate_failed_title">設定ファイルの作成に失敗しました</string>
-    <string name="config_editor_simple_generate_failed_message">設定ファイルの作成に失敗しました。設定からリセットしてください。</string>
+    <string name="config_editor_simple_generate_failed_message">設定ファイルの作成に失敗しました。設定でリセットしてください。</string>
     <!-- Advanced Config Editor -->
-    <string name="config_editor_advanced_title">設定編集</string>
+    <string name="config_editor_advanced_title">高度な設定の編集</string>
     <string name="config_editor_advanced_user_auth_desc">クリックしてユーザー認証を編集します</string>
-    <string name="config_editor_advanced_section_bedrock">Bedrock</string>
+    <string name="config_editor_advanced_section_bedrock">総合版</string>
     <string name="config_editor_advanced_section_remote">リモート</string>
     <string name="config_editor_advanced_section_advanced">高度</string>
     <string name="config_editor_advanced_section_metrics">メトリック</string>
     <!-- User Auths Editor -->
     <string name="user_auths_title">ユーザー認証</string>
     <string name="user_auths_exists_title">ユーザー認証</string>
-    <string name="user_auths_exists_message">その Xbox ユーザー名はすでに存在します</string>
+    <string name="user_auths_exists_message">その Xbox ユーザー名での認証はすでに存在します</string>
     <string name="user_auths_new">ユーザー認証を追加</string>
     <string name="user_auths_failed_title">ユーザー認証の読み込みに失敗しました</string>
-    <string name="user_auths_failed_message">ユーザー認証の読み込みに失敗しました。リセットしてください。</string>
+    <string name="user_auths_failed_message">ユーザー認証の読み込みに失敗しました。手動でリセットしてください。</string>
     <string name="user_auths_save_title">保存</string>
     <string name="user_auths_save_message">ユーザー認証を保存しますか？</string>
     <string name="user_auths_save_save">保存</string>
@@ -85,13 +85,13 @@
     <string name="user_auth_dialog_xbox_username">Xbox ユーザー名</string>
     <string name="user_auth_dialog_java_username">Java版のメールアドレス</string>
     <string name="user_auth_dialog_java_password">Java版のパスワード</string>
-    <string name="user_auth_dialog_microsoft">Microsoft Account</string>
+    <string name="user_auth_dialog_microsoft">Microsoft アカウント</string>
     <!-- About Screen -->
     <string name="about_about_title">その他</string>
     <string name="about_links_title">リンク</string>
     <string name="about_credits_title">クレジット</string>
     <string name="about_licences_title">ライセンス</string>
-    <string name="about_version_copied">バージョンをクリップボードにコピーしました！</string>
+    <string name="about_version_copied">バージョン名をクリップボードにコピーしました！</string>
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
     <string name="settings_storage">ストレージの場所</string>
@@ -101,13 +101,13 @@
     <string name="settings_reset_config_success_title">設定ファイルを削除</string>
     <string name="settings_reset_config_success_message">設定ファイルを削除しました</string>
     <string name="settings_reset_config_failed_title">削除に失敗しました</string>
-    <string name="settings_reset_config_failed_message">設定ファイルの削除に失敗しました</string>
+    <string name="settings_reset_config_failed_message">Geyser の設定ファイルの削除に失敗しました</string>
     <string name="settings_reset_config_missing_title">設定ファイルが見つかりません</string>
-    <string name="settings_reset_config_missing_message">設定ファイルが見つかりません！</string>
+    <string name="settings_reset_config_missing_message">Geyser の設定ファイルが見つかりません！</string>
     <string name="settings_reset_user_auths_success_title">削除されたユーザー認証</string>
-    <string name="settings_reset_user_auths_success_message">ユーザー認証をクリアしました！</string>
+    <string name="settings_reset_user_auths_success_message">Geyser のユーザー認証をクリアしました！</string>
     <string name="settings_reset_user_auths_missing_title">ユーザー認証がありません</string>
-    <string name="settings_reset_user_auths_missing_message">ユーザー認証が見つからないか、空です。</string>
+    <string name="settings_reset_user_auths_missing_message">Geyser のユーザー認証が見つからないか、空です。</string>
     <string name="settings_create_device_dump">デバイスのダンプを作成</string>
     <string name="settings_create_device_dump_failed_title">エラー</string>
     <string name="settings_create_device_dump_failed_message">ダンプをアップロードできませんでした: %1$s</string>

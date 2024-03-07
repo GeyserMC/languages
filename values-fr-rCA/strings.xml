@@ -21,7 +21,7 @@
     <string name="proxy_start">Exécuter</string>
     <string name="proxy_starting">Démarrage</string>
     <string name="proxy_stop">Arrêter</string>
-    <string name="proxy_logs">Logs</string>
+    <string name="proxy_logs">Journaux</string>
     <string name="proxy_background_notification">Le proxy LAN est en cours d’exécution en arrière plan !</string>
     <string name="proxy_geyser_running_warn">Geyser est déjà en cours d\'exécution, veuillez l\'arrêter dans Geyser -&gt; Arrêtez afin d\'utiliser le Proxy LAN !</string>
     <string name="proxy_started">Serveur démarré sur %s</string>
@@ -32,7 +32,7 @@
     <string name="geyser_start">Exécuter</string>
     <string name="geyser_starting">Démarrage</string>
     <string name="geyser_stop">Arrêter</string>
-    <string name="geyser_logs">Logs</string>
+    <string name="geyser_logs">Journaux</string>
     <string name="geyser_command">Commande</string>
     <string name="geyser_not_running">Geyser n\'est pas en cours d\'exécution !</string>
     <string name="geyser_background_notification">Geyser est en cours d’exécution en arrière plan !</string>
@@ -85,7 +85,7 @@
     <string name="user_auth_dialog_xbox_username">Pseudonyme Xbox</string>
     <string name="user_auth_dialog_java_username">E-mail Java</string>
     <string name="user_auth_dialog_java_password">Mot de passe Java</string>
-    <string name="user_auth_dialog_microsoft">Microsoft Account</string>
+    <string name="user_auth_dialog_microsoft">Compte Microsoft</string>
     <!-- About Screen -->
     <string name="about_about_title">À propos</string>
     <string name="about_links_title">Liens</string>
