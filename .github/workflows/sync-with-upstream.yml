@@ -17,8 +17,8 @@ jobs:
 
     - name: Configure Git
       run: |
-        git config user.name 'Silverteal'
-        git config user.email '67404722+Silverteal@users.noreply.github.com'
+        git config user.name 'Github Actions'
+        git config user.email 'actions@github.com'
 
     - name: Add upstream remote
       run: git remote add upstream https://github.com/GeyserMC/languages.git
