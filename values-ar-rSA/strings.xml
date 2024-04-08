@@ -86,7 +86,7 @@
     <string name="user_auth_dialog_xbox_username">اسم الxbox</string>
     <string name="user_auth_dialog_java_username">ايميل الجافا</string>
     <string name="user_auth_dialog_java_password">كلمة مرور الجافا</string>
-    <string name="user_auth_dialog_microsoft">Microsoft Account</string>
+    <string name="user_auth_dialog_microsoft">حساب مايكروسوفت</string>
     <!-- About Screen -->
     <string name="about_about_title">حول</string>
     <string name="about_links_title">روابط</string>
@@ -109,12 +109,12 @@
     <string name="settings_reset_user_auths_success_message">مسح مصادقة مستخدم Geyser!</string>
     <string name="settings_reset_user_auths_missing_title">مصادقة المستخدم مفقودة</string>
     <string name="settings_reset_user_auths_missing_message">مصادقات مستخدم Geyser إما مفقودة أو فارغة!</string>
-    <string name="settings_create_device_dump">Create device dump</string>
-    <string name="settings_create_device_dump_failed_title">Error</string>
-    <string name="settings_create_device_dump_failed_message">Failed to upload dump: %1$s</string>
-    <string name="settings_create_device_dump_success_title">Uploaded dump</string>
-    <string name="settings_create_device_dump_open">Open</string>
-    <string name="settings_create_device_dump_uploading">Uploading dump...</string>
+    <string name="settings_create_device_dump">انشاء ملف معلومات لجهازك</string>
+    <string name="settings_create_device_dump_failed_title">خطأ</string>
+    <string name="settings_create_device_dump_failed_message">فشل في رفع ملف المعلومات: %1$s</string>
+    <string name="settings_create_device_dump_success_title">رٌفع ملف المعلومات</string>
+    <string name="settings_create_device_dump_open">فتح</string>
+    <string name="settings_create_device_dump_uploading">رفع ملف المعلومات...</string>
     <string name="settings_other">آخر</string>
     <string name="settings_theme">المضهر</string>
 </resources>

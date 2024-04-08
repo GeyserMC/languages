@@ -54,8 +54,8 @@
     <string name="config_editor_simple_auth_type">Authentifizierungsmethode</string>
     <string name="config_editor_simple_advanced">Erweitert</string>
     <string name="config_editor_simple_user_auths">Benutzerauthentifizierungen</string>
-    <string name="config_editor_simple_generate_failed_title">Konfiguration konnte nicht erstellt werden</string>
-    <string name="config_editor_simple_generate_failed_message">Konfiguration konnte nicht erstellt werden, bitte setze sie in den Einstellungen zurück!</string>
+    <string name="config_editor_simple_generate_failed_title">Konfiguration konnte nicht generiert werden</string>
+    <string name="config_editor_simple_generate_failed_message">Konfiguration konnte nicht generiert werden, bitte setze sie in den Einstellungen zurück!</string>
     <!-- Advanced Config Editor -->
     <string name="config_editor_advanced_title">Erweiterter Konfigurationseditor</string>
     <string name="config_editor_advanced_user_auth_desc">Klicke um Benutzerauthentifizierungen zu bearbeiten</string>

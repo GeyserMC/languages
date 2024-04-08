@@ -6,13 +6,13 @@
     <string name="utils_loader">불러오는 중...</string>
     <string name="utils_copy_success">텍스트를 복사했습니다</string>
     <!-- Navigation -->
-    <string name="menu_home">홈</string>
+    <string name="menu_home">메인 메뉴</string>
     <string name="menu_proxy">LAN 프록시</string>
     <string name="menu_geyser">Geyser</string>
     <string name="menu_website">웹 사이트</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
-    <string name="home_desc">Geyser 안드로이드는 서버 리다이렉트 프록시가 포함된 안드로이드 버전의 Geyser 입니다.</string>
+    <string name="home_desc">Geyser 안드로이드는 서버 이동 프록시가 포함된 안드로이드 버전의 Geyser 입니다.</string>
     <string name="home_join_be">Bedrock 서버 접속</string>
     <string name="home_join_je">Java 서버 접속</string>
     <!-- Proxy Screen -->
@@ -62,7 +62,7 @@
     <string name="config_editor_advanced_section_bedrock">Bedrock</string>
     <string name="config_editor_advanced_section_remote">원격</string>
     <string name="config_editor_advanced_section_advanced">고급</string>
-    <string name="config_editor_advanced_section_metrics">Metrics</string>
+    <string name="config_editor_advanced_section_metrics">통계</string>
     <!-- User Auths Editor -->
     <string name="user_auths_title">사용자 인증</string>
     <string name="user_auths_exists_title">사용자 인증</string>

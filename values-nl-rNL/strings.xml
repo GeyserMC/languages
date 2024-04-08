@@ -108,12 +108,12 @@
     <string name="settings_reset_user_auths_success_message">De gebruikers authenticatie uit Geyser gewist!</string>
     <string name="settings_reset_user_auths_missing_title">Gebruikers authenticatie ontbreken</string>
     <string name="settings_reset_user_auths_missing_message">De geyser gebruiker authenticatie ontbreken of zijn leeg!</string>
-    <string name="settings_create_device_dump">Create device dump</string>
-    <string name="settings_create_device_dump_failed_title">Error</string>
-    <string name="settings_create_device_dump_failed_message">Failed to upload dump: %1$s</string>
-    <string name="settings_create_device_dump_success_title">Uploaded dump</string>
-    <string name="settings_create_device_dump_open">Open</string>
-    <string name="settings_create_device_dump_uploading">Uploading dump...</string>
+    <string name="settings_create_device_dump">Maak een apparaat rapport</string>
+    <string name="settings_create_device_dump_failed_title">Fout</string>
+    <string name="settings_create_device_dump_failed_message">Uploaden van rapport mislukt: %1$s</string>
+    <string name="settings_create_device_dump_success_title">Rapport geüpload</string>
+    <string name="settings_create_device_dump_open">Openen</string>
+    <string name="settings_create_device_dump_uploading">Rapport aan het uploaden...</string>
     <string name="settings_other">Andere</string>
     <string name="settings_theme">Thema</string>
 </resources>

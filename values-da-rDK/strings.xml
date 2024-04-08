@@ -9,7 +9,7 @@
     <string name="menu_home">Hjem</string>
     <string name="menu_proxy">LAN Proxy</string>
     <string name="menu_geyser">Geyser</string>
-    <string name="menu_website">Website</string>
+    <string name="menu_website">Hjemmeside</string>
     <string name="menu_discord">Discord</string>
     <!-- Home Screen -->
     <string name="home_desc">Geyser Android er en android version af Geyser, som inkluderer en server omdirigerings-proxy.</string>

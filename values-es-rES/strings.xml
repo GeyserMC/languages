@@ -85,7 +85,7 @@
     <string name="user_auth_dialog_xbox_username">Usuario de Xbox</string>
     <string name="user_auth_dialog_java_username">Email de Java</string>
     <string name="user_auth_dialog_java_password">Contraseña de Java</string>
-    <string name="user_auth_dialog_microsoft">Microsoft Account</string>
+    <string name="user_auth_dialog_microsoft">Cuenta de Microsoft</string>
     <!-- About Screen -->
     <string name="about_about_title">Acerca de</string>
     <string name="about_links_title">Enlaces</string>
@@ -108,12 +108,12 @@
     <string name="settings_reset_user_auths_success_message">¡Se ha limpiado las credenciales de usuario de Geyser!</string>
     <string name="settings_reset_user_auths_missing_title">Credenciales de usuario ausentes</string>
     <string name="settings_reset_user_auths_missing_message">¡Las credenciales de usuario de Geyser no se encuentran o están vacíos!</string>
-    <string name="settings_create_device_dump">Create device dump</string>
+    <string name="settings_create_device_dump">Crear volcado de dispositivo</string>
     <string name="settings_create_device_dump_failed_title">Error</string>
-    <string name="settings_create_device_dump_failed_message">Failed to upload dump: %1$s</string>
-    <string name="settings_create_device_dump_success_title">Uploaded dump</string>
-    <string name="settings_create_device_dump_open">Open</string>
-    <string name="settings_create_device_dump_uploading">Uploading dump...</string>
+    <string name="settings_create_device_dump_failed_message">No se pudo cargar el volcado %1$s</string>
+    <string name="settings_create_device_dump_success_title">Volcado cargado</string>
+    <string name="settings_create_device_dump_open">Abrir</string>
+    <string name="settings_create_device_dump_uploading">Subiendo volcado...</string>
     <string name="settings_other">Otros</string>
     <string name="settings_theme">Tema</string>
 </resources>

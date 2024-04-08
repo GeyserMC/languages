@@ -23,21 +23,21 @@
     <string name="proxy_stop">Zastavit</string>
     <string name="proxy_logs">Záznam</string>
     <string name="proxy_background_notification">LAN Proxy běží v pozadí!</string>
-    <string name="proxy_geyser_running_warn">Geyser už běží, zastavte to v Geyser -&gt; Zastavte aby jste mohli používat LAN Proxy!</string>
-    <string name="proxy_started">Server začal na %s</string>
+    <string name="proxy_geyser_running_warn">Geyser už běží, Geyser zastavíte -&gt; Zastavte aby jste mohli používat LAN Proxy!</string>
+    <string name="proxy_started">Server spuštěn %s</string>
     <string name="proxy_shutdown">Vypínání!</string>
-    <string name="proxy_shutdown_done">Uspěšně vypnuto!</string>
+    <string name="proxy_shutdown_done">Úspěšně vypnuto!</string>
     <!-- Geyser Screen -->
     <string name="geyser_config">Konfigurace</string>
     <string name="geyser_start">Start</string>
-    <string name="geyser_starting">Startuji</string>
+    <string name="geyser_starting">Spouštění</string>
     <string name="geyser_stop">Zastavit</string>
     <string name="geyser_logs">Záznam</string>
     <string name="geyser_command">Příkaz</string>
     <string name="geyser_not_running">Geyser momentálně neběží!</string>
     <string name="geyser_background_notification">Geyser běží v pozadí!</string>
     <string name="geyser_command_failed">Nepodařilo se spustit příkaz!</string>
-    <string name="geyser_proxy_running_warn">LAN Proxy už běží, zastavte to v Proxy -&gt; Zastavte aby jste mohly používat Geyser!</string>
+    <string name="geyser_proxy_running_warn">LAN Proxy už běží, Proxy zastavíte -&gt; Zastavte aby jste mohli používat Geyser!</string>
     <!-- Config Editors -->
     <string name="config_editor_save_title">Uložit</string>
     <string name="config_editor_save_message">Chcete uložit konfiguraci?</string>
@@ -46,7 +46,7 @@
     <string name="config_editor_save_discard">Zahodit</string>
     <string name="config_editor_config_missing">Nebylo možno najít konfiguraci, prosím nejdřív spusťte server!</string>
     <string name="config_editor_failed_title">Konfiguraci se nepodařilo načíst</string>
-    <string name="config_editor_failed_message">Nepovedlo se načíst konfiguraci, zkuste ji resetovat ručně!</string>
+    <string name="config_editor_failed_message">Nepovedlo se načíst konfiguraci, zkuste ji ručně resetovat!</string>
     <!-- Simple Config Editor -->
     <string name="config_editor_simple_title">Jednoduchý editor konfigurace</string>
     <string name="config_editor_simple_address">Adresa</string>
@@ -76,7 +76,7 @@
     <string name="user_auths_save_failed">Nelze načíst přihlašovací údaje!</string>
     <string name="user_auths_save_discard">Zahodit</string>
     <string name="user_auths_delete_dialog_title">Přihlašovací ůdaj</string>
-    <string name="user_auths_delete_dialog_message">Jste si jistý že chcete smazat vybranou položku?</string>
+    <string name="user_auths_delete_dialog_message">Opravdu chcete smazat vybranou položku?</string>
     <string name="user_auths_delete_dialog_positive">Smazat</string>
     <!-- User Auth Dialog -->
     <string name="user_auth_dialog_title">Přihlašovací ůdaj</string>
@@ -94,8 +94,8 @@
     <string name="about_version_copied">Název verze zkopírován do schránky!</string>
     <!-- Settings Screen -->
     <string name="settings_geyser">Geyser</string>
-    <string name="settings_storage">Lokace Úložiště</string>
-    <string name="settings_config_editor">Editor nastavení</string>
+    <string name="settings_storage">Umístění uložiště</string>
+    <string name="settings_config_editor">Editor konfigurace</string>
     <string name="settings_reset_config">Resetovat konfiguraci Geyseru</string>
     <string name="settings_reset_user_auths">Resetovat přihlašovací ůdaje</string>
     <string name="settings_reset_config_success_title">Smazána konfigurace</string>
@@ -105,15 +105,15 @@
     <string name="settings_reset_config_missing_title">Chybějící konfigurační soubor</string>
     <string name="settings_reset_config_missing_message">Konfigurační soubor Geyseru chybí!</string>
     <string name="settings_reset_user_auths_success_title">Přihlašovací údaje smazány</string>
-    <string name="settings_reset_user_auths_success_message">Přihlašovací údaje jsou vymazány!</string>
+    <string name="settings_reset_user_auths_success_message">Přihlašovací údaje byly vymazány!</string>
     <string name="settings_reset_user_auths_missing_title">Přihlašovací údaje chybí</string>
     <string name="settings_reset_user_auths_missing_message">Přihlašovací údaje Geyseru chybí nebo jsou prázdné!</string>
-    <string name="settings_create_device_dump">Vytvořit dump zaízení</string>
+    <string name="settings_create_device_dump">Vytvořit výpis paměti</string>
     <string name="settings_create_device_dump_failed_title">Chyba</string>
-    <string name="settings_create_device_dump_failed_message">Selhalo nahrání dumpu %1$s</string>
-    <string name="settings_create_device_dump_success_title">Nahrán dump</string>
+    <string name="settings_create_device_dump_failed_message">Selhalo nahrání výpisu %1$s</string>
+    <string name="settings_create_device_dump_success_title">Nahrán výpis</string>
     <string name="settings_create_device_dump_open">Otevřít</string>
-    <string name="settings_create_device_dump_uploading">Nahrávání dumpu...</string>
+    <string name="settings_create_device_dump_uploading">Nahrávání výpisu...</string>
     <string name="settings_other">Ostatní</string>
     <string name="settings_theme">Vzhled</string>
 </resources>

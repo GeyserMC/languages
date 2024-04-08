@@ -48,16 +48,16 @@
     <string name="config_editor_failed_title">Не удалось загрузить конфиг</string>
     <string name="config_editor_failed_message">Не удалось загрузить конфиг, пожалуйста, сбросьте его вручную!</string>
     <!-- Simple Config Editor -->
-    <string name="config_editor_simple_title">Простой редаетор конфига</string>
+    <string name="config_editor_simple_title">Простой редактор конфига</string>
     <string name="config_editor_simple_address">Адрес</string>
     <string name="config_editor_simple_port">Порт</string>
     <string name="config_editor_simple_auth_type">Тип авторизации</string>
     <string name="config_editor_simple_advanced">Продвинутый редактор</string>
     <string name="config_editor_simple_user_auths">Данные аутентификации</string>
     <string name="config_editor_simple_generate_failed_title">Не удалось сгенерировать конфиг</string>
-    <string name="config_editor_simple_generate_failed_message">Не удалось сгенерировать конфиг, пожалуйста, сбростье его через настройки!</string>
+    <string name="config_editor_simple_generate_failed_message">Не удалось сгенерировать конфиг, пожалуйста, сбросьте его через настройки!</string>
     <!-- Advanced Config Editor -->
-    <string name="config_editor_advanced_title">Продвинутый редактор конфига</string>
+    <string name="config_editor_advanced_title">Расширенный редактор конфигураций</string>
     <string name="config_editor_advanced_user_auth_desc">Нажмите для изменения данных аутентификации</string>
     <string name="config_editor_advanced_section_bedrock">Настройки локального подключения</string>
     <string name="config_editor_advanced_section_remote">Настройки удалённого подключения</string>
