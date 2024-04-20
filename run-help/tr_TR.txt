@@ -11,7 +11,7 @@
 
     http://ci.geysermc.org/
 
-  Daha fazla yardıma ihtiyacınız olursa, Discord sunucumuza göz atmalısınız:
+  Daha fazla yardıma ihtiyacınız olursa, Discord sunucumuza göz atabilirsiniz:
 
     http://discord.geysermc.org/
 
