@@ -1,10 +1,10 @@
 
 --------------------------------------------------------------------------------
 
-  Jejda! Zkusili jste spustit pluginovou verzi Geyseru přímo!
+  Jejda! Zkusili jste spustit plugin verzi Geyseru přímo!
 
   Tento jar soubor je pro ${plugin_type}. Tento soubor můžete spustit jako
-  plugin přesunutím tohoto jar souboru do složky "${plugin_folder}" ve vašem serveru.
+  plugin přesunutím jar souboru do "${plugin_folder}" složky.
 
   Existuje také samostatná verze která nemusí
   být nainstalována jako plugin, můžete ji najít na našem serveru:
