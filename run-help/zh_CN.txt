@@ -4,14 +4,14 @@
   哎呀！ 您试图直接运行Geyser的插件版本!
 
   此jar文件是一个 ${plugin_type} 的插件。 您可以运行此文件为
-  把jar文件放入 "${plugin_folder}" 来运行
+  插件通过把jar文件放入 "${plugin_folder}" 目录。
 
   Geyser也有一个不需要以插件形式运行的独立版本
-  作为插件形式安装，您可以在我们的构建服务器上找到它：
+  ，您可以在我们的构建服务器上找到它:
 
     http://ci.geysermc.org/
 
-  如果你需要帮助, 请在Discord上联系我们:
+  如果您需要更多帮助，您可以查看我们的 discord:
 
     http://discord.geysermc.org/
 
