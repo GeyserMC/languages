@@ -11,7 +11,7 @@
 
     http://ci.geysermc.org/
 
-  助けが必要な場合は、私たちの Discord をチェックしてください：
+  助けが必要な場合は、Discordにてお問い合わせください:
 
     http://discord.geysermc.org/
 
