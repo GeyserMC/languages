@@ -1,7 +1,7 @@
 
 --------------------------------------------------------------------------------
 
-  ¡Hey! Has intentando lanzar la versión del plugin de Geyser directamente!
+  ¡Eh! Has intentando lanzar la versión del plugin de Geyser directamente!
 
   Este Archivo .jar es un plugin para ${plugin_type}. Puedes correr este archivo como
   plugin si dejas este archivo en el directorio "${plugin_folder}".
