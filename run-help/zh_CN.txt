@@ -3,8 +3,8 @@
 
   哎呀！ 您试图直接运行Geyser的插件版本!
 
-  此jar文件是一个 ${plugin_type} 的插件。 您可以运行此文件为
-  插件通过把jar文件放入 "${plugin_folder}" 目录。
+  此jar文件是一个 ${plugin_type} 的插件。 您可以将 jar 文件放入
+  “${plugin_folder}”目录，将此文件作为插件运行。
 
   Geyser也有一个不需要以插件形式运行的独立版本
   ，您可以在我们的构建服务器上找到它:

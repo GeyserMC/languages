@@ -1,7 +1,7 @@
 
 --------------------------------------------------------------------------------
 
-  Ups! Du hast versucht die Plugin Version von Geyser direkt zu starten!
+  Hoppla! Du hast versucht, die Plugin Version von Geyser direkt zu starten!
 
   Diese jar Datei ist ein Plugin für ${plugin_type}. Du kannst diese Datei als
   Plugin laufen lassen, indem du die jar Datei in den Ordner "${plugin_folder}" legst.
