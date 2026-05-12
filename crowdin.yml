@@ -1,7 +1,6 @@
 files:
   - source: /lang/en_us.json
     translation: /lang/%locale_with_underscore%.%file_extension%
-    escape_quotes: 0
     languages_mapping:
       locale_with_underscore:
         ach_UG: ach_ug
