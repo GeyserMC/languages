@@ -3,7 +3,7 @@
   "chat.rainbow.mapped_items": "Mapped %d items",
   "chat.rainbow.mapped_skulls": "Mapped %d skulls",
   "commands.rainbow.automatic_inventory_mapping": "Now watching inventories for custom items to map",
-  "commands.rainbow.create_pack_failed": "Failed to create new pack!",
+  "commands.rainbow.create_pack_failed": "Échec de la création du nouveau pack !",
   "commands.rainbow.mapped_held_item": "The held item was mapped",
   "commands.rainbow.mapped_held_item_problems": "The held item was mapped, however problems occurred whilst doing so. Read the pack report after finishing the pack for more information",
   "commands.rainbow.mapped_items_from_inventory": "Mapped %d items from your inventory",
@@ -11,12 +11,12 @@
   "commands.rainbow.mapped_items_problems": "Problems occurred whilst mapping items. Read the pack report after finishing the pack for more information",
   "commands.rainbow.no_item_mapped": "No item was mapped. Either no custom item was found, or it was already included in the pack",
   "commands.rainbow.no_items_mapped": "No items were mapped. Either no custom items were found, or they were already included in the pack",
-  "commands.rainbow.no_pack": "Create a pack first: %s",
-  "commands.rainbow.pack_created": "Created pack with name %s",
-  "commands.rainbow.pack_finished_error": "Errors occurred whilst writing the pack to disk!",
-  "commands.rainbow.pack_finished_successfully": "Wrote pack to disk",
-  "commands.rainbow.pack_finishing": "Writing pack to disk...",
+  "commands.rainbow.no_pack": "Créez d'abord un pack : %s",
+  "commands.rainbow.pack_created": "Pack créé avec le nom %s",
+  "commands.rainbow.pack_finished_error": "Des erreurs se sont produites lors de l'écriture du pack sur le disque !",
+  "commands.rainbow.pack_finished_successfully": "Pack écrit sur le disque",
+  "commands.rainbow.pack_finishing": "Écriture du pack sur le disque...",
   "commands.rainbow.stopped_automatic_mapping": "Stopped automatic mapping of custom items",
-  "toast.rainbow.io_exception.description": "Please check your game logs for more information",
-  "toast.rainbow.io_exception.title": "A filesystem error occurred in Rainbow!"
+  "toast.rainbow.io_exception.description": "Veuillez consulter vos logs de jeu pour plus d'informations",
+  "toast.rainbow.io_exception.title": "Une erreur de système de fichiers s'est produite dans Rainbow !"
 }
